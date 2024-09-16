@@ -1,0 +1,1136 @@
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.75s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.29s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.36s/it]
+Currently on dataset:  001_Forbes
+  0%|          | 0/25 [00:00<?, ?it/s]The attention mask is not set and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+You are not running the flash-attention implementation, expect numerical differences.
+  4%|▍         | 1/25 [05:45<2:18:02, 345.12s/it]  8%|▊         | 2/25 [11:50<2:16:53, 357.10s/it] 12%|█▏        | 3/25 [18:00<2:13:01, 362.80s/it] 16%|█▌        | 4/25 [22:21<1:53:00, 322.87s/it] 20%|██        | 5/25 [26:42<1:40:08, 300.45s/it] 24%|██▍       | 6/25 [30:26<1:26:55, 274.52s/it] 28%|██▊       | 7/25 [34:12<1:17:35, 258.66s/it] 32%|███▏      | 8/25 [39:59<1:21:14, 286.74s/it] 36%|███▌      | 9/25 [45:23<1:19:35, 298.49s/it] 40%|████      | 10/25 [54:50<1:35:20, 381.35s/it] 44%|████▍     | 11/25 [59:45<1:22:47, 354.80s/it] 48%|████▊     | 12/25 [1:04:10<1:10:58, 327.61s/it] 52%|█████▏    | 13/25 [1:09:11<1:03:52, 319.40s/it] 56%|█████▌    | 14/25 [1:15:34<1:02:05, 338.65s/it] 56%|█████▌    | 14/25 [1:20:17<1:03:05, 344.14s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+city
+New York        106
+Beijing          83
+Hong Kong        68
+London           64
+Shanghai         61
+               ... 
+Xinxiang          1
+Sioux Falls       1
+Scottsdale        1
+Newbury Park      1
+Pottsville        1
+Name: count, Length: 749, dtype: int64
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: 'netWorth'
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.17 GiB. GPU 1 has a total capacity of 15.73 GiB of which 2.91 GiB is free. Including non-PyTorch memory, this process has 12.81 GiB memory in use. Of the allocated memory 6.03 GiB is allocated by PyTorch, and 5.44 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  002_Titanic
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [06:43<2:07:43, 403.33s/it] 10%|█         | 2/20 [12:16<1:48:40, 362.26s/it] 15%|█▌        | 3/20 [19:14<1:49:52, 387.78s/it] 20%|██        | 4/20 [25:08<1:39:46, 374.17s/it] 25%|██▌       | 5/20 [29:16<1:22:09, 328.61s/it] 30%|███       | 6/20 [35:40<1:21:04, 347.50s/it] 35%|███▌      | 7/20 [40:44<1:12:11, 333.20s/it] 40%|████      | 8/20 [47:29<1:11:13, 356.17s/it] 45%|████▌     | 9/20 [54:43<1:09:45, 380.54s/it] 50%|█████     | 10/20 [1:01:50<1:05:48, 394.80s/it] 50%|█████     | 10/20 [1:24:56<1:24:56, 509.66s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 4.61 GiB. GPU 0 has a total capacity of 15.73 GiB of which 4.32 GiB is free. Including non-PyTorch memory, this process has 11.40 GiB memory in use. Of the allocated memory 4.77 GiB is allocated by PyTorch, and 5.29 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  003_Love
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [05:09<1:38:09, 309.98s/it] 10%|█         | 2/20 [11:46<1:48:11, 360.65s/it] 15%|█▌        | 3/20 [18:07<1:44:49, 369.97s/it] 20%|██        | 4/20 [23:51<1:35:54, 359.66s/it] 25%|██▌       | 5/20 [28:42<1:23:43, 334.92s/it] 30%|███       | 6/20 [40:29<1:47:43, 461.71s/it] 35%|███▌      | 7/20 [44:22<1:23:47, 386.76s/it] 40%|████      | 8/20 [49:56<1:13:58, 369.89s/it] 45%|████▌     | 9/20 [56:26<1:09:00, 376.40s/it] 50%|█████     | 10/20 [1:06:04<1:13:06, 438.64s/it] 55%|█████▌    | 11/20 [1:11:59<1:01:56, 412.98s/it] 60%|██████    | 12/20 [1:18:00<52:57, 397.23s/it]   65%|██████▌   | 13/20 [1:23:09<43:12, 370.32s/it] 70%|███████   | 14/20 [1:29:25<37:11, 371.96s/it] 75%|███████▌  | 15/20 [1:36:22<32:08, 385.63s/it] 80%|████████  | 16/20 [1:43:31<26:34, 398.64s/it] 85%|████████▌ | 17/20 [1:49:12<19:03, 381.27s/it] 90%|█████████ | 18/20 [1:54:16<11:56, 358.23s/it] 95%|█████████▌| 19/20 [2:01:08<06:14, 374.21s/it]100%|██████████| 20/20 [2:08:11<00:00, 388.99s/it]100%|██████████| 20/20 [2:08:11<00:00, 384.58s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: 'What is your height? in cm (📏)'
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Currently on dataset:  004_Taxi
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [07:16<2:18:12, 436.45s/it] 10%|█         | 2/20 [12:41<1:51:15, 370.85s/it] 15%|█▌        | 3/20 [17:24<1:33:43, 330.81s/it] 20%|██        | 4/20 [21:34<1:19:41, 298.82s/it] 25%|██▌       | 5/20 [25:59<1:11:41, 286.78s/it] 30%|███       | 6/20 [32:20<1:14:22, 318.72s/it] 35%|███▌      | 7/20 [38:22<1:12:07, 332.85s/it] 40%|████      | 8/20 [44:23<1:08:23, 341.92s/it] 45%|████▌     | 9/20 [50:33<1:04:16, 350.55s/it] 45%|████▌     | 9/20 [1:07:40<1:22:42, 451.17s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 4.50 GiB. GPU 0 has a total capacity of 15.73 GiB of which 4.33 GiB is free. Including non-PyTorch memory, this process has 11.40 GiB memory in use. Of the allocated memory 4.70 GiB is allocated by PyTorch, and 5.36 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  005_NYC
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [05:26<1:43:25, 326.60s/it]  5%|▌         | 1/20 [16:26<5:12:14, 986.02s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 4.33 GiB. GPU 0 has a total capacity of 15.73 GiB of which 4.33 GiB is free. Including non-PyTorch memory, this process has 11.40 GiB memory in use. Of the allocated memory 4.74 GiB is allocated by PyTorch, and 5.32 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  006_London
+  0%|          | 0/20 [00:00<?, ?it/s]  0%|          | 0/20 [00:00<?, ?it/s]
+CUDA out of memory. Tried to allocate 4.98 GiB. GPU 0 has a total capacity of 15.73 GiB of which 4.00 GiB is free. Including non-PyTorch memory, this process has 11.72 GiB memory in use. Of the allocated memory 7.19 GiB is allocated by PyTorch, and 3.20 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  007_Fifa
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [05:33<1:45:34, 333.42s/it] 10%|█         | 2/20 [13:45<2:07:58, 426.57s/it] 15%|█▌        | 3/20 [20:15<1:56:12, 410.15s/it] 20%|██        | 4/20 [27:20<1:50:57, 416.06s/it] 25%|██▌       | 5/20 [31:43<1:30:09, 360.67s/it] 30%|███       | 6/20 [36:03<1:16:13, 326.65s/it] 35%|███▌      | 7/20 [40:03<1:04:37, 298.28s/it] 40%|████      | 8/20 [43:20<53:09, 265.81s/it]   45%|████▌     | 9/20 [48:04<49:47, 271.56s/it] 50%|█████     | 10/20 [53:37<48:24, 290.48s/it] 55%|█████▌    | 11/20 [1:00:34<49:24, 329.44s/it] 60%|██████    | 12/20 [1:11:01<55:58, 419.85s/it] 65%|██████▌   | 13/20 [1:19:47<52:44, 452.09s/it] 70%|███████   | 14/20 [1:34:43<58:36, 586.06s/it] 75%|███████▌  | 15/20 [1:43:54<47:57, 575.44s/it] 80%|████████  | 16/20 [1:55:04<40:16, 604.04s/it] 85%|████████▌ | 17/20 [2:01:10<26:37, 532.45s/it] 85%|████████▌ | 17/20 [2:11:14<23:09, 463.23s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: 'Height_ft'
+Error during execution: 'Height_ft'
+Error during execution: 'Club'
+Error during execution: 'Value_€'
+Error during execution: 'Value_€'
+Error during execution: 'Best Position'
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: 'Club'
+Error during execution: 'Club'
+Error during execution: 'Position'
+Error during execution: 'Position'
+Error during execution: 'Position'
+Error during execution: 'Position'
+Error during execution: 'Position'
+Error during execution: 'Position'
+Error during execution: 'Position'
+Error during execution: 'Position'
+Error during execution: 'Position'
+Error during execution: 'Position'
+Error during execution: 'Position'
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: "None of [Index(['Club', 'Value_€'], dtype='object')] are in the [columns]"
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 4.17 GiB. GPU 0 has a total capacity of 15.73 GiB of which 4.00 GiB is free. Including non-PyTorch memory, this process has 11.72 GiB memory in use. Of the allocated memory 4.78 GiB is allocated by PyTorch, and 5.60 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  008_Tornados
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [06:04<1:55:25, 364.49s/it] 10%|█         | 2/20 [11:45<1:45:17, 350.95s/it] 15%|█▌        | 3/20 [17:49<1:41:01, 356.56s/it] 20%|██        | 4/20 [23:10<1:31:21, 342.57s/it] 25%|██▌       | 5/20 [27:48<1:19:49, 319.31s/it] 30%|███       | 6/20 [32:19<1:10:41, 302.93s/it] 35%|███▌      | 7/20 [37:09<1:04:43, 298.74s/it] 40%|████      | 8/20 [42:35<1:01:27, 307.26s/it] 45%|████▌     | 9/20 [47:59<57:19, 312.71s/it]   50%|█████     | 10/20 [53:09<51:56, 311.69s/it] 55%|█████▌    | 11/20 [58:18<46:39, 311.07s/it] 60%|██████    | 12/20 [1:04:51<44:45, 335.74s/it] 65%|██████▌   | 13/20 [1:12:28<43:27, 372.51s/it] 70%|███████   | 14/20 [1:18:13<36:25, 364.18s/it] 75%|███████▌  | 15/20 [1:23:19<28:53, 346.66s/it] 80%|████████  | 16/20 [1:29:18<23:22, 350.53s/it] 85%|████████▌ | 17/20 [1:34:34<17:00, 340.04s/it] 90%|█████████ | 18/20 [1:40:15<11:20, 340.35s/it] 95%|█████████▌| 19/20 [1:46:28<05:50, 350.20s/it]100%|██████████| 20/20 [1:52:19<00:00, 350.54s/it]100%|██████████| 20/20 [1:52:19<00:00, 336.99s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Currently on dataset:  009_Central
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [06:36<2:05:28, 396.26s/it] 10%|█         | 2/20 [13:45<2:04:41, 415.62s/it] 15%|█▌        | 3/20 [20:49<1:58:51, 419.50s/it] 20%|██        | 4/20 [26:20<1:42:30, 384.41s/it] 25%|██▌       | 5/20 [32:39<1:35:37, 382.52s/it] 30%|███       | 6/20 [38:23<1:26:11, 369.38s/it] 35%|███▌      | 7/20 [43:26<1:15:19, 347.63s/it] 40%|████      | 8/20 [48:37<1:07:11, 336.00s/it] 45%|████▌     | 9/20 [54:32<1:02:42, 342.08s/it] 50%|█████     | 10/20 [1:00:39<58:18, 349.81s/it] 55%|█████▌    | 11/20 [1:06:28<52:24, 349.43s/it] 60%|██████    | 12/20 [1:12:55<48:06, 360.80s/it] 65%|██████▌   | 13/20 [1:22:54<50:32, 433.16s/it] 70%|███████   | 14/20 [1:30:14<43:30, 435.14s/it] 75%|███████▌  | 15/20 [1:38:32<37:50, 454.10s/it] 80%|████████  | 16/20 [1:49:16<34:05, 511.38s/it] 85%|████████▌ | 17/20 [1:56:17<24:11, 483.99s/it] 90%|█████████ | 18/20 [2:02:19<14:54, 447.39s/it] 95%|█████████▌| 19/20 [2:08:47<07:09, 429.72s/it]100%|██████████| 20/20 [2:13:45<00:00, 389.95s/it]100%|██████████| 20/20 [2:13:45<00:00, 401.26s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+0   1869-01-01 00:00:00+00:00
+1   1869-01-02 00:00:00+00:00
+2   1869-01-03 00:00:00+00:00
+3   1869-01-04 00:00:00+00:00
+4   1869-01-05 00:00:00+00:00
+Name: DATE, dtype: datetime64[us, UTC]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: 'TMAX'
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: name 'pd' is not defined
+Error during execution: name 'pd' is not defined
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Currently on dataset:  010_ECommerce
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [06:57<2:12:15, 417.66s/it] 10%|█         | 2/20 [12:02<1:45:27, 351.55s/it] 15%|█▌        | 3/20 [16:59<1:32:28, 326.37s/it] 20%|██        | 4/20 [22:10<1:25:27, 320.49s/it] 25%|██▌       | 5/20 [27:52<1:22:04, 328.29s/it] 30%|███       | 6/20 [31:12<1:06:22, 284.45s/it] 35%|███▌      | 7/20 [35:27<59:32, 274.83s/it]   40%|████      | 8/20 [40:36<57:10, 285.89s/it] 45%|████▌     | 9/20 [46:44<57:06, 311.54s/it] 50%|█████     | 10/20 [51:42<51:12, 307.26s/it] 55%|█████▌    | 11/20 [58:15<50:01, 333.47s/it] 60%|██████    | 12/20 [1:04:48<46:52, 351.57s/it] 60%|██████    | 12/20 [1:16:45<51:10, 383.79s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 4.33 GiB. GPU 0 has a total capacity of 15.73 GiB of which 4.00 GiB is free. Including non-PyTorch memory, this process has 11.72 GiB memory in use. Of the allocated memory 4.74 GiB is allocated by PyTorch, and 5.65 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  011_SF
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [05:41<1:48:09, 341.55s/it] 10%|█         | 2/20 [12:35<1:55:13, 384.06s/it]<string>:1: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+ 15%|█▌        | 3/20 [18:30<1:45:01, 370.66s/it] 20%|██        | 4/20 [24:01<1:34:40, 355.04s/it] 25%|██▌       | 5/20 [27:18<1:14:32, 298.18s/it] 30%|███       | 6/20 [30:26<1:00:47, 260.54s/it] 35%|███▌      | 7/20 [33:32<51:13, 236.44s/it]   40%|████      | 8/20 [38:24<50:47, 253.98s/it] 45%|████▌     | 9/20 [42:34<46:20, 252.81s/it] 50%|█████     | 10/20 [48:15<46:39, 279.96s/it] 55%|█████▌    | 11/20 [53:27<43:27, 289.76s/it] 60%|██████    | 12/20 [58:38<39:29, 296.23s/it] 65%|██████▌   | 13/20 [1:04:54<37:22, 320.38s/it] 70%|███████   | 14/20 [1:10:43<32:54, 329.11s/it] 75%|███████▌  | 15/20 [1:17:46<29:46, 357.38s/it] 80%|████████  | 16/20 [1:24:23<24:36, 369.22s/it] 85%|████████▌ | 17/20 [1:31:30<19:20, 386.77s/it] 90%|█████████ | 18/20 [1:38:01<12:55, 387.93s/it] 95%|█████████▌| 19/20 [1:45:44<06:50, 410.54s/it]100%|██████████| 20/20 [1:53:52<00:00, 433.68s/it]100%|██████████| 20/20 [1:53:52<00:00, 341.61s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Currently on dataset:  012_Heart
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [06:13<1:58:15, 373.46s/it] 10%|█         | 2/20 [13:32<2:03:37, 412.06s/it] 15%|█▌        | 3/20 [19:50<1:52:18, 396.36s/it] 20%|██        | 4/20 [26:13<1:44:16, 391.01s/it] 25%|██▌       | 5/20 [31:38<1:31:49, 367.30s/it] 30%|███       | 6/20 [36:44<1:20:52, 346.61s/it] 35%|███▌      | 7/20 [43:07<1:17:38, 358.32s/it] 35%|███▌      | 7/20 [58:47<1:49:11, 503.95s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 4.34 GiB. GPU 0 has a total capacity of 15.73 GiB of which 4.00 GiB is free. Including non-PyTorch memory, this process has 11.72 GiB memory in use. Of the allocated memory 4.75 GiB is allocated by PyTorch, and 5.64 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  013_Roller
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [07:21<2:19:55, 441.86s/it] 10%|█         | 2/20 [11:46<1:41:12, 337.34s/it] 15%|█▌        | 3/20 [17:33<1:36:53, 341.94s/it] 20%|██        | 4/20 [21:53<1:22:35, 309.73s/it] 25%|██▌       | 5/20 [27:53<1:21:55, 327.70s/it] 30%|███       | 6/20 [32:03<1:10:20, 301.48s/it] 35%|███▌      | 7/20 [39:44<1:16:35, 353.53s/it] 40%|████      | 8/20 [43:40<1:03:13, 316.10s/it] 45%|████▌     | 9/20 [49:45<1:00:44, 331.33s/it] 50%|█████     | 10/20 [54:52<53:57, 323.73s/it]  55%|█████▌    | 11/20 [1:00:44<49:52, 332.55s/it] 60%|██████    | 12/20 [1:05:34<42:36, 319.55s/it] 65%|██████▌   | 13/20 [1:12:05<39:48, 341.16s/it] 65%|██████▌   | 13/20 [1:32:37<49:52, 427.49s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 4.28 GiB. GPU 0 has a total capacity of 15.73 GiB of which 4.00 GiB is free. Including non-PyTorch memory, this process has 11.72 GiB memory in use. Of the allocated memory 4.71 GiB is allocated by PyTorch, and 5.68 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  014_Airbnb
+  0%|          | 0/20 [00:00<?, ?it/s]  0%|          | 0/20 [00:00<?, ?it/s]
+CUDA out of memory. Tried to allocate 19.34 GiB. GPU 0 has a total capacity of 15.73 GiB of which 8.98 GiB is free. Including non-PyTorch memory, this process has 6.74 GiB memory in use. Of the allocated memory 3.01 GiB is allocated by PyTorch, and 2.39 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  015_Food
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [07:03<2:13:59, 423.14s/it] 10%|█         | 2/20 [12:52<1:53:54, 379.69s/it] 15%|█▌        | 3/20 [19:57<1:53:28, 400.53s/it] 20%|██        | 4/20 [28:00<1:55:27, 432.98s/it] 25%|██▌       | 5/20 [33:38<1:39:42, 398.80s/it] 30%|███       | 6/20 [39:20<1:28:31, 379.36s/it] 35%|███▌      | 7/20 [44:10<1:15:54, 350.36s/it] 40%|████      | 8/20 [49:28<1:07:58, 339.85s/it] 45%|████▌     | 9/20 [55:45<1:04:28, 351.64s/it] 50%|█████     | 10/20 [1:01:05<56:57, 341.75s/it] 55%|█████▌    | 11/20 [1:08:12<55:10, 367.83s/it] 60%|██████    | 12/20 [1:15:49<52:40, 395.04s/it] 65%|██████▌   | 13/20 [1:22:31<46:19, 397.14s/it] 70%|███████   | 14/20 [1:28:53<39:14, 392.38s/it] 75%|███████▌  | 15/20 [1:36:01<33:35, 403.11s/it] 80%|████████  | 16/20 [1:42:44<26:52, 403.10s/it] 85%|████████▌ | 17/20 [1:48:44<19:30, 390.12s/it] 90%|█████████ | 18/20 [1:57:21<14:17, 428.52s/it] 95%|█████████▌| 19/20 [2:05:02<07:18, 438.11s/it]100%|██████████| 20/20 [2:14:00<00:00, 467.99s/it]100%|██████████| 20/20 [2:14:00<00:00, 402.00s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Currently on dataset:  016_Holiday
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [06:00<1:54:14, 360.77s/it] 10%|█         | 2/20 [11:51<1:46:25, 354.77s/it] 15%|█▌        | 3/20 [17:21<1:37:20, 343.59s/it] 20%|██        | 4/20 [21:59<1:24:42, 317.64s/it] 25%|██▌       | 5/20 [26:53<1:17:16, 309.09s/it] 30%|███       | 6/20 [31:24<1:09:07, 296.28s/it] 35%|███▌      | 7/20 [34:58<58:21, 269.34s/it]   40%|████      | 8/20 [39:55<55:38, 278.21s/it] 45%|████▌     | 9/20 [46:11<56:36, 308.73s/it] 50%|█████     | 10/20 [50:18<48:15, 289.56s/it] 55%|█████▌    | 11/20 [54:49<42:34, 283.85s/it] 60%|██████    | 12/20 [1:00:15<39:34, 296.86s/it] 65%|██████▌   | 13/20 [1:06:51<38:06, 326.64s/it] 70%|███████   | 14/20 [1:12:28<32:59, 329.97s/it] 75%|███████▌  | 15/20 [1:19:18<29:29, 353.88s/it] 80%|████████  | 16/20 [1:25:46<24:17, 364.29s/it] 85%|████████▌ | 17/20 [1:34:06<20:14, 404.96s/it] 90%|█████████ | 18/20 [1:41:26<13:51, 415.52s/it] 95%|█████████▌| 19/20 [1:47:25<06:38, 398.54s/it]100%|██████████| 20/20 [1:54:07<00:00, 399.82s/it]100%|██████████| 20/20 [1:54:07<00:00, 342.40s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Currently on dataset:  017_Hacker
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [05:06<1:36:56, 306.11s/it] 10%|█         | 2/20 [11:37<1:46:50, 356.13s/it] 15%|█▌        | 3/20 [17:23<1:39:33, 351.41s/it] 20%|██        | 4/20 [21:24<1:22:11, 308.19s/it] 25%|██▌       | 5/20 [24:38<1:06:40, 266.71s/it] 30%|███       | 6/20 [29:13<1:02:53, 269.57s/it] 35%|███▌      | 7/20 [35:13<1:04:48, 299.13s/it] 40%|████      | 8/20 [38:17<52:29, 262.45s/it]   45%|████▌     | 9/20 [43:48<52:03, 283.95s/it] 50%|█████     | 10/20 [48:34<47:24, 284.47s/it] 55%|█████▌    | 11/20 [56:50<52:23, 349.29s/it] 60%|██████    | 12/20 [1:03:06<47:39, 357.49s/it] 65%|██████▌   | 13/20 [1:10:43<45:13, 387.64s/it] 70%|███████   | 14/20 [1:15:20<35:25, 354.29s/it] 75%|███████▌  | 15/20 [1:22:57<32:05, 385.18s/it] 80%|████████  | 16/20 [1:28:11<24:15, 363.87s/it] 85%|████████▌ | 17/20 [1:33:25<17:26, 348.81s/it] 90%|█████████ | 18/20 [1:39:35<11:50, 355.02s/it] 95%|█████████▌| 19/20 [1:44:47<05:42, 342.19s/it]100%|██████████| 20/20 [1:49:40<00:00, 327.48s/it]100%|██████████| 20/20 [1:49:40<00:00, 329.03s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Currently on dataset:  018_Staff
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [06:14<1:58:42, 374.84s/it] 10%|█         | 2/20 [11:27<1:41:30, 338.37s/it] 15%|█▌        | 3/20 [17:43<1:40:39, 355.27s/it] 20%|██        | 4/20 [23:43<1:35:16, 357.27s/it] 25%|██▌       | 5/20 [28:22<1:22:16, 329.07s/it] 30%|███       | 6/20 [32:03<1:08:11, 292.26s/it] 35%|███▌      | 7/20 [36:24<1:01:09, 282.26s/it] 40%|████      | 8/20 [42:05<1:00:10, 300.83s/it] 45%|████▌     | 9/20 [47:23<56:07, 306.12s/it]   50%|█████     | 10/20 [53:57<55:32, 333.22s/it] 55%|█████▌    | 11/20 [1:01:19<54:58, 366.47s/it] 60%|██████    | 12/20 [1:08:23<51:13, 384.17s/it] 60%|██████    | 12/20 [1:26:54<57:56, 434.55s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 4.44 GiB. GPU 1 has a total capacity of 15.73 GiB of which 4.21 GiB is free. Including non-PyTorch memory, this process has 11.51 GiB memory in use. Of the allocated memory 5.06 GiB is allocated by PyTorch, and 5.11 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  019_Aircraft
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [07:13<2:17:19, 433.68s/it] 10%|█         | 2/20 [15:18<2:19:08, 463.78s/it] 15%|█▌        | 3/20 [20:32<1:52:01, 395.37s/it] 20%|██        | 4/20 [26:36<1:42:08, 383.02s/it] 25%|██▌       | 5/20 [31:10<1:25:55, 343.73s/it] 30%|███       | 6/20 [34:47<1:10:10, 300.75s/it] 35%|███▌      | 7/20 [40:33<1:08:21, 315.50s/it] 40%|████      | 8/20 [44:41<58:46, 293.90s/it]   45%|████▌     | 9/20 [51:49<1:01:32, 335.71s/it] 50%|█████     | 10/20 [58:10<58:19, 349.92s/it]  50%|█████     | 10/20 [1:12:36<1:12:36, 435.63s/it]
+Error during execution: 'Aircraft_Damage_Type'
+Error during execution: 'Aircraft_Damage_Type'
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 4.43 GiB. GPU 1 has a total capacity of 15.73 GiB of which 4.21 GiB is free. Including non-PyTorch memory, this process has 11.51 GiB memory in use. Of the allocated memory 5.06 GiB is allocated by PyTorch, and 5.12 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  020_Real
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [06:26<2:02:30, 386.88s/it] 10%|█         | 2/20 [11:22<1:40:02, 333.49s/it] 15%|█▌        | 3/20 [15:23<1:22:26, 290.95s/it] 20%|██        | 4/20 [23:39<1:39:08, 371.81s/it] 25%|██▌       | 5/20 [28:13<1:24:09, 336.61s/it] 30%|███       | 6/20 [31:24<1:06:59, 287.09s/it] 35%|███▌      | 7/20 [35:49<1:00:37, 279.82s/it] 40%|████      | 8/20 [46:22<1:18:28, 392.40s/it] 45%|████▌     | 9/20 [50:56<1:05:08, 355.29s/it] 50%|█████     | 10/20 [57:47<1:02:04, 372.49s/it] 55%|█████▌    | 11/20 [1:05:38<1:00:25, 402.84s/it] 60%|██████    | 12/20 [1:13:48<57:13, 429.23s/it]   65%|██████▌   | 13/20 [1:23:12<54:50, 470.14s/it] 70%|███████   | 14/20 [1:29:47<44:44, 447.47s/it] 75%|███████▌  | 15/20 [1:38:39<39:24, 472.85s/it] 80%|████████  | 16/20 [1:43:56<28:23, 425.92s/it] 85%|████████▌ | 17/20 [1:55:59<25:45, 515.26s/it] 90%|█████████ | 18/20 [2:03:55<16:46, 503.48s/it] 95%|█████████▌| 19/20 [2:19:36<10:34, 634.95s/it]100%|██████████| 20/20 [2:24:07<00:00, 525.69s/it]100%|██████████| 20/20 [2:24:07<00:00, 432.39s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: 'Advertentia'
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: 'Locality'
+Error during execution: 'Locality'
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Currently on dataset:  021_Telco
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [06:32<2:04:13, 392.27s/it] 10%|█         | 2/20 [11:25<1:40:10, 333.93s/it] 15%|█▌        | 3/20 [17:20<1:37:17, 343.40s/it] 20%|██        | 4/20 [23:17<1:33:00, 348.76s/it] 25%|██▌       | 5/20 [28:19<1:23:00, 332.07s/it] 30%|███       | 6/20 [34:34<1:20:53, 346.66s/it] 35%|███▌      | 7/20 [38:54<1:08:57, 318.29s/it] 40%|████      | 8/20 [45:19<1:07:54, 339.57s/it] 45%|████▌     | 9/20 [52:56<1:08:59, 376.33s/it] 50%|█████     | 10/20 [59:28<1:03:30, 381.09s/it] 55%|█████▌    | 11/20 [1:07:22<1:01:26, 409.66s/it] 60%|██████    | 12/20 [1:14:04<54:18, 407.33s/it]   65%|██████▌   | 13/20 [1:21:12<48:14, 413.57s/it] 70%|███████   | 14/20 [1:28:25<41:57, 419.50s/it] 75%|███████▌  | 15/20 [1:33:37<32:14, 386.97s/it] 80%|████████  | 16/20 [1:42:43<28:59, 434.82s/it] 80%|████████  | 16/20 [1:56:10<29:02, 435.68s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 2.26 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.80 GiB memory in use. Of the allocated memory 9.20 GiB is allocated by PyTorch, and 3.27 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  022_Airbnbs
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [06:07<1:56:14, 367.07s/it] 10%|█         | 2/20 [12:35<1:53:56, 379.79s/it] 15%|█▌        | 3/20 [17:57<1:40:04, 353.19s/it] 20%|██        | 4/20 [22:02<1:22:50, 310.65s/it] 25%|██▌       | 5/20 [26:09<1:11:52, 287.49s/it] 30%|███       | 6/20 [30:58<1:07:13, 288.10s/it] 35%|███▌      | 7/20 [35:55<1:03:04, 291.14s/it] 40%|████      | 8/20 [41:10<59:42, 298.56s/it]   45%|████▌     | 9/20 [47:02<57:46, 315.17s/it] 50%|█████     | 10/20 [52:53<54:22, 326.27s/it] 55%|█████▌    | 11/20 [58:06<48:21, 322.41s/it] 60%|██████    | 12/20 [1:03:06<42:04, 315.51s/it] 65%|██████▌   | 13/20 [1:08:51<37:51, 324.47s/it] 70%|███████   | 14/20 [1:17:10<37:42, 377.02s/it] 75%|███████▌  | 15/20 [1:22:39<30:13, 362.79s/it] 80%|████████  | 16/20 [1:30:30<26:20, 395.23s/it] 85%|████████▌ | 17/20 [1:36:14<18:59, 379.98s/it] 90%|█████████ | 18/20 [1:42:45<12:46, 383.22s/it] 95%|█████████▌| 19/20 [1:53:00<07:32, 452.87s/it]100%|██████████| 20/20 [2:00:51<00:00, 458.15s/it]100%|██████████| 20/20 [2:00:51<00:00, 362.56s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Currently on dataset:  023_Climate
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [06:47<2:09:02, 407.50s/it] 10%|█         | 2/20 [12:29<1:50:38, 368.80s/it] 10%|█         | 2/20 [26:33<3:58:57, 796.54s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.20 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.81 GiB memory in use. Of the allocated memory 5.65 GiB is allocated by PyTorch, and 6.82 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  024_Salary
+  0%|          | 0/20 [00:00<?, ?it/s]  0%|          | 0/20 [10:51<?, ?it/s]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.02 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.81 GiB memory in use. Of the allocated memory 5.75 GiB is allocated by PyTorch, and 6.72 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  025_Data
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [06:15<1:58:46, 375.07s/it] 10%|█         | 2/20 [13:42<2:05:13, 417.42s/it] 15%|█▌        | 3/20 [19:12<1:47:01, 377.74s/it] 20%|██        | 4/20 [28:53<2:02:05, 457.87s/it] 25%|██▌       | 5/20 [33:45<1:39:29, 397.94s/it] 30%|███       | 6/20 [39:36<1:29:08, 382.04s/it] 35%|███▌      | 7/20 [43:38<1:12:51, 336.29s/it] 40%|████      | 8/20 [47:50<1:01:55, 309.65s/it] 45%|████▌     | 9/20 [52:36<55:22, 302.04s/it]   50%|█████     | 10/20 [57:41<50:29, 302.91s/it] 55%|█████▌    | 11/20 [1:01:23<41:43, 278.21s/it] 60%|██████    | 12/20 [1:06:24<38:01, 285.16s/it] 65%|██████▌   | 13/20 [1:16:00<43:32, 373.17s/it] 70%|███████   | 14/20 [1:22:57<38:38, 386.40s/it] 75%|███████▌  | 15/20 [1:28:27<30:46, 369.40s/it] 80%|████████  | 16/20 [1:40:41<31:56, 479.16s/it] 85%|████████▌ | 17/20 [1:46:46<22:14, 445.00s/it] 90%|█████████ | 18/20 [1:53:35<14:28, 434.15s/it] 95%|█████████▌| 19/20 [2:03:20<07:59, 479.43s/it]100%|██████████| 20/20 [2:10:04<00:00, 456.73s/it]100%|██████████| 20/20 [2:10:04<00:00, 390.21s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: sorted expected 1 argument, got 2
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Currently on dataset:  026_Predicting
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [04:34<1:26:56, 274.57s/it] 10%|█         | 2/20 [11:12<1:44:07, 347.07s/it] 15%|█▌        | 3/20 [17:36<1:43:09, 364.10s/it] 20%|██        | 4/20 [24:53<1:44:41, 392.59s/it] 25%|██▌       | 5/20 [29:43<1:28:58, 355.87s/it] 30%|███       | 6/20 [35:55<1:24:18, 361.35s/it] 35%|███▌      | 7/20 [40:32<1:12:17, 333.68s/it] 40%|████      | 8/20 [45:05<1:02:53, 314.48s/it] 45%|████▌     | 9/20 [49:27<54:37, 297.94s/it]   50%|█████     | 10/20 [54:20<49:25, 296.54s/it] 55%|█████▌    | 11/20 [58:39<42:43, 284.86s/it] 60%|██████    | 12/20 [1:03:00<37:02, 277.81s/it] 65%|██████▌   | 13/20 [1:08:51<34:58, 299.77s/it] 70%|███████   | 14/20 [1:14:37<31:23, 313.87s/it] 75%|███████▌  | 15/20 [1:20:35<27:15, 327.09s/it] 80%|████████  | 16/20 [1:27:00<22:57, 344.43s/it] 85%|████████▌ | 17/20 [1:32:30<17:00, 340.21s/it] 90%|█████████ | 18/20 [1:41:25<13:17, 398.70s/it] 95%|█████████▌| 19/20 [1:48:24<06:44, 404.76s/it]100%|██████████| 20/20 [1:54:55<00:00, 400.60s/it]100%|██████████| 20/20 [1:54:55<00:00, 344.76s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Currently on dataset:  027_Supermarket
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [05:44<1:49:06, 344.55s/it] 10%|█         | 2/20 [10:42<1:35:07, 317.10s/it] 15%|█▌        | 3/20 [18:08<1:46:27, 375.76s/it] 20%|██        | 4/20 [23:51<1:36:47, 362.98s/it] 25%|██▌       | 5/20 [28:40<1:24:03, 336.22s/it] 30%|███       | 6/20 [33:47<1:16:10, 326.48s/it] 35%|███▌      | 7/20 [38:13<1:06:24, 306.53s/it] 40%|████      | 8/20 [41:54<55:51, 279.28s/it]   45%|████▌     | 9/20 [48:07<56:34, 308.56s/it] 50%|█████     | 10/20 [53:30<52:12, 313.21s/it] 55%|█████▌    | 11/20 [58:29<46:19, 308.82s/it] 60%|██████    | 12/20 [1:04:02<42:09, 316.20s/it] 65%|██████▌   | 13/20 [1:10:23<39:10, 335.76s/it] 70%|███████   | 14/20 [1:16:50<35:08, 351.34s/it] 75%|███████▌  | 15/20 [1:23:50<30:59, 372.00s/it] 80%|████████  | 16/20 [1:30:17<25:06, 376.57s/it] 85%|████████▌ | 17/20 [1:42:02<23:45, 475.10s/it] 90%|█████████ | 18/20 [1:49:30<15:34, 467.08s/it] 95%|█████████▌| 19/20 [1:57:44<07:55, 475.14s/it]100%|██████████| 20/20 [2:07:09<00:00, 502.21s/it]100%|██████████| 20/20 [2:07:09<00:00, 381.48s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Currently on dataset:  028_Predict
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [06:19<2:00:06, 379.31s/it] 10%|█         | 2/20 [12:12<1:49:07, 363.73s/it] 15%|█▌        | 3/20 [19:46<1:54:46, 405.07s/it] 20%|██        | 4/20 [25:48<1:43:30, 388.17s/it] 25%|██▌       | 5/20 [30:28<1:27:14, 348.96s/it] 30%|███       | 6/20 [36:42<1:23:27, 357.67s/it] 35%|███▌      | 7/20 [42:45<1:17:51, 359.37s/it] 40%|████      | 8/20 [47:46<1:08:10, 340.87s/it] 45%|████▌     | 9/20 [53:07<1:01:19, 334.53s/it] 50%|█████     | 10/20 [58:25<54:55, 329.54s/it]  55%|█████▌    | 11/20 [1:04:10<50:06, 334.04s/it] 60%|██████    | 12/20 [1:08:45<42:09, 316.15s/it] 65%|██████▌   | 13/20 [1:14:59<38:56, 333.85s/it] 70%|███████   | 14/20 [1:21:00<34:11, 341.91s/it] 75%|███████▌  | 15/20 [1:28:00<30:27, 365.45s/it] 80%|████████  | 16/20 [1:34:03<24:19, 364.76s/it] 85%|████████▌ | 17/20 [1:39:58<18:05, 361.82s/it] 90%|█████████ | 18/20 [1:48:52<13:46, 413.45s/it] 95%|█████████▌| 19/20 [1:56:13<07:01, 421.84s/it]100%|██████████| 20/20 [2:01:47<00:00, 395.39s/it]100%|██████████| 20/20 [2:01:47<00:00, 365.36s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Currently on dataset:  029_NYTimes
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [06:12<1:57:51, 372.20s/it] 10%|█         | 2/20 [13:39<2:04:56, 416.48s/it] 10%|█         | 2/20 [23:58<3:35:49, 719.41s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.06 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.80 GiB memory in use. Of the allocated memory 5.78 GiB is allocated by PyTorch, and 6.69 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  030_Professionals
+  0%|          | 0/20 [00:00<?, ?it/s]  0%|          | 0/20 [00:03<?, ?it/s]
+CUDA out of memory. Tried to allocate 3.51 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.81 GiB memory in use. Of the allocated memory 5.66 GiB is allocated by PyTorch, and 6.81 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  031_Trustpilot
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [06:14<1:58:35, 374.49s/it] 10%|█         | 2/20 [12:27<1:52:00, 373.36s/it] 15%|█▌        | 3/20 [16:58<1:32:35, 326.77s/it] 20%|██        | 4/20 [22:49<1:29:43, 336.44s/it] 25%|██▌       | 5/20 [28:06<1:22:21, 329.43s/it] 30%|███       | 6/20 [34:37<1:21:43, 350.24s/it] 35%|███▌      | 7/20 [39:56<1:13:41, 340.09s/it] 40%|████      | 8/20 [47:24<1:14:52, 374.41s/it] 45%|████▌     | 9/20 [53:12<1:07:06, 366.06s/it] 50%|█████     | 10/20 [59:09<1:00:33, 363.32s/it] 55%|█████▌    | 11/20 [1:04:28<52:27, 349.69s/it] 60%|██████    | 12/20 [1:09:27<44:34, 334.30s/it] 65%|██████▌   | 13/20 [1:15:27<39:56, 342.29s/it] 70%|███████   | 14/20 [1:22:56<37:26, 374.41s/it] 75%|███████▌  | 15/20 [1:27:57<29:21, 352.22s/it] 80%|████████  | 16/20 [1:35:10<25:07, 376.77s/it] 85%|████████▌ | 17/20 [1:40:57<18:22, 367.53s/it] 90%|█████████ | 18/20 [1:48:54<13:21, 400.63s/it] 95%|█████████▌| 19/20 [1:53:51<06:09, 369.33s/it]100%|██████████| 20/20 [2:02:48<00:00, 419.64s/it]100%|██████████| 20/20 [2:02:48<00:00, 368.40s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Currently on dataset:  032_Delicatessen
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [05:10<1:38:22, 310.64s/it] 10%|█         | 2/20 [10:52<1:38:40, 328.91s/it] 15%|█▌        | 3/20 [15:49<1:29:07, 314.53s/it] 20%|██        | 4/20 [21:59<1:29:38, 336.17s/it] 25%|██▌       | 5/20 [26:56<1:20:33, 322.21s/it] 30%|███       | 6/20 [32:11<1:14:34, 319.60s/it] 35%|███▌      | 7/20 [35:17<59:50, 276.20s/it]   40%|████      | 8/20 [41:38<1:01:53, 309.42s/it] 45%|████▌     | 9/20 [46:58<57:20, 312.78s/it]   50%|█████     | 10/20 [52:41<53:39, 321.99s/it] 55%|█████▌    | 11/20 [1:00:31<55:07, 367.46s/it] 60%|██████    | 12/20 [1:07:13<50:22, 377.80s/it] 65%|██████▌   | 13/20 [1:15:37<48:31, 415.99s/it] 70%|███████   | 14/20 [1:21:28<39:38, 396.38s/it] 75%|███████▌  | 15/20 [1:27:30<32:10, 386.02s/it] 80%|████████  | 16/20 [1:33:24<25:05, 376.34s/it] 80%|████████  | 16/20 [1:45:28<26:22, 395.52s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.27 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.81 GiB memory in use. Of the allocated memory 5.70 GiB is allocated by PyTorch, and 6.77 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  033_Employee
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [05:48<1:50:26, 348.76s/it] 10%|█         | 2/20 [11:38<1:44:49, 349.41s/it] 15%|█▌        | 3/20 [18:39<1:48:18, 382.25s/it] 20%|██        | 4/20 [23:30<1:32:15, 345.94s/it] 25%|██▌       | 5/20 [27:24<1:16:24, 305.65s/it] 30%|███       | 6/20 [33:01<1:13:50, 316.44s/it] 35%|███▌      | 7/20 [38:31<1:09:31, 320.86s/it] 40%|████      | 8/20 [43:43<1:03:36, 318.05s/it] 45%|████▌     | 9/20 [49:57<1:01:29, 335.42s/it] 50%|█████     | 10/20 [55:42<56:23, 338.31s/it] <string>:1: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+ 55%|█████▌    | 11/20 [1:02:25<53:43, 358.14s/it] 60%|██████    | 12/20 [1:18:45<1:12:58, 547.33s/it] 65%|██████▌   | 13/20 [1:27:51<1:03:47, 546.84s/it] 70%|███████   | 14/20 [1:33:54<49:08, 491.48s/it]   75%|███████▌  | 15/20 [1:39:29<37:00, 444.15s/it] 80%|████████  | 16/20 [1:43:51<25:58, 389.51s/it]<string>:1: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 85%|████████▌ | 17/20 [1:50:46<19:51, 397.10s/it] 90%|█████████ | 18/20 [1:57:47<13:28, 404.18s/it] 90%|█████████ | 18/20 [2:15:06<15:00, 450.38s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: name 'df_filtered' is not defined
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: 'satisfaction_level'
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.27 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.80 GiB memory in use. Of the allocated memory 5.70 GiB is allocated by PyTorch, and 6.77 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  034_World
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [06:32<2:04:19, 392.60s/it] 10%|█         | 2/20 [13:37<2:03:28, 411.60s/it] 15%|█▌        | 3/20 [19:44<1:50:52, 391.31s/it] 20%|██        | 4/20 [23:48<1:28:46, 332.90s/it] 25%|██▌       | 5/20 [31:07<1:32:50, 371.36s/it] 25%|██▌       | 5/20 [39:58<1:59:55, 479.72s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.29 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.80 GiB memory in use. Of the allocated memory 5.60 GiB is allocated by PyTorch, and 6.87 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  035_Billboard
+  0%|          | 0/24 [00:00<?, ?it/s]  4%|▍         | 1/24 [04:37<1:46:19, 277.39s/it]  8%|▊         | 2/24 [09:46<1:48:36, 296.22s/it] 12%|█▎        | 3/24 [14:40<1:43:15, 295.01s/it] 17%|█▋        | 4/24 [19:16<1:35:53, 287.68s/it] 21%|██        | 5/24 [23:27<1:26:49, 274.20s/it] 25%|██▌       | 6/24 [27:06<1:16:41, 255.65s/it] 29%|██▉       | 7/24 [32:42<1:19:52, 281.93s/it] 33%|███▎      | 8/24 [36:14<1:09:13, 259.62s/it] 38%|███▊      | 9/24 [41:25<1:08:54, 275.63s/it] 42%|████▏     | 10/24 [46:15<1:05:20, 280.07s/it] 46%|████▌     | 11/24 [53:16<1:10:02, 323.31s/it] 50%|█████     | 12/24 [57:04<58:50, 294.24s/it]   54%|█████▍    | 13/24 [1:02:21<55:11, 301.01s/it] 58%|█████▊    | 14/24 [1:08:48<54:30, 327.02s/it] 62%|██████▎   | 15/24 [1:16:09<54:13, 361.48s/it] 67%|██████▋   | 16/24 [1:20:48<44:52, 336.54s/it] 71%|███████   | 17/24 [1:29:37<46:02, 394.58s/it] 75%|███████▌  | 18/24 [1:33:07<33:53, 338.98s/it] 79%|███████▉  | 19/24 [1:38:33<27:55, 335.14s/it] 83%|████████▎ | 20/24 [1:44:39<22:57, 344.28s/it] 88%|████████▊ | 21/24 [1:50:31<17:20, 346.78s/it] 92%|█████████▏| 22/24 [1:55:59<11:21, 340.99s/it] 96%|█████████▌| 23/24 [2:01:40<05:41, 341.05s/it]100%|██████████| 24/24 [2:07:50<00:00, 349.61s/it]100%|██████████| 24/24 [2:07:50<00:00, 319.58s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Currently on dataset:  036_US
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [05:23<1:42:29, 323.65s/it] 10%|█         | 2/20 [11:24<1:43:39, 345.53s/it] 15%|█▌        | 3/20 [17:09<1:37:46, 345.09s/it] 15%|█▌        | 3/20 [23:35<2:13:38, 471.68s/it]
+CUDA out of memory. Tried to allocate 3.20 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.80 GiB memory in use. Of the allocated memory 5.76 GiB is allocated by PyTorch, and 6.71 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  037_Ted
+  0%|          | 0/20 [00:00<?, ?it/s]  0%|          | 0/20 [00:01<?, ?it/s]
+CUDA out of memory. Tried to allocate 114.74 GiB. GPU 0 has a total capacity of 15.73 GiB of which 2.32 GiB is free. Including non-PyTorch memory, this process has 13.40 GiB memory in use. Of the allocated memory 7.04 GiB is allocated by PyTorch, and 5.02 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  038_Stroke
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [06:20<2:00:25, 380.32s/it] 10%|█         | 2/20 [13:09<1:59:14, 397.45s/it] 15%|█▌        | 3/20 [18:46<1:44:42, 369.57s/it]<string>:1: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 20%|██        | 4/20 [26:53<1:50:58, 416.13s/it] 25%|██▌       | 5/20 [31:12<1:29:50, 359.36s/it] 30%|███       | 6/20 [36:03<1:18:25, 336.13s/it] 35%|███▌      | 7/20 [41:00<1:10:01, 323.22s/it] 40%|████      | 8/20 [46:15<1:04:08, 320.68s/it] 45%|████▌     | 9/20 [53:35<1:05:38, 358.05s/it] 50%|█████     | 10/20 [58:28<56:19, 337.98s/it]  55%|█████▌    | 11/20 [1:04:15<51:05, 340.60s/it] 55%|█████▌    | 11/20 [1:20:10<1:05:35, 437.31s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.33 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.80 GiB memory in use. Of the allocated memory 5.63 GiB is allocated by PyTorch, and 6.84 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  039_Happy
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [04:08<1:18:36, 248.24s/it] 10%|█         | 2/20 [09:22<1:26:05, 286.97s/it] 15%|█▌        | 3/20 [14:46<1:26:04, 303.81s/it] 15%|█▌        | 3/20 [27:47<2:37:26, 555.68s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.09 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.80 GiB memory in use. Of the allocated memory 5.81 GiB is allocated by PyTorch, and 6.66 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  040_Speed
+  0%|          | 0/20 [00:00<?, ?it/s]  0%|          | 0/20 [00:03<?, ?it/s]
+CUDA out of memory. Tried to allocate 3.35 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.81 GiB memory in use. Of the allocated memory 5.66 GiB is allocated by PyTorch, and 6.81 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  041_Airline
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [06:07<1:56:27, 367.78s/it] 10%|█         | 2/20 [12:08<1:49:08, 363.79s/it] 15%|█▌        | 3/20 [17:01<1:33:55, 331.52s/it] 20%|██        | 4/20 [22:22<1:27:16, 327.30s/it] 25%|██▌       | 5/20 [25:56<1:11:37, 286.52s/it] 30%|███       | 6/20 [29:59<1:03:22, 271.58s/it] 35%|███▌      | 7/20 [33:28<54:25, 251.19s/it]   40%|████      | 8/20 [39:19<56:34, 282.91s/it] 40%|████      | 8/20 [52:16<1:18:24, 392.08s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.14 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.81 GiB memory in use. Of the allocated memory 5.73 GiB is allocated by PyTorch, and 6.74 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  042_Predict
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [06:08<1:56:33, 368.09s/it] 10%|█         | 2/20 [13:18<2:01:27, 404.85s/it] 15%|█▌        | 3/20 [25:19<2:35:33, 549.01s/it] 15%|█▌        | 3/20 [29:57<2:49:47, 599.25s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.89 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.80 GiB memory in use. Of the allocated memory 5.39 GiB is allocated by PyTorch, and 7.08 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  043_Predict
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [17:25<5:31:11, 1045.86s/it] 10%|█         | 2/20 [24:49<3:27:26, 691.45s/it]  15%|█▌        | 3/20 [31:41<2:39:44, 563.82s/it] 20%|██        | 4/20 [40:40<2:27:48, 554.29s/it] 25%|██▌       | 5/20 [44:11<1:47:36, 430.41s/it] 30%|███       | 6/20 [50:24<1:35:51, 410.81s/it] 35%|███▌      | 7/20 [55:56<1:23:25, 385.05s/it] 40%|████      | 8/20 [1:00:10<1:08:39, 343.31s/it] 45%|████▌     | 9/20 [1:06:38<1:05:31, 357.45s/it] 45%|████▌     | 9/20 [1:11:52<1:27:50, 479.15s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.35 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.80 GiB memory in use. Of the allocated memory 5.64 GiB is allocated by PyTorch, and 6.83 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  044_IMDb
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [07:11<2:16:40, 431.58s/it] 10%|█         | 2/20 [12:08<1:45:38, 352.15s/it] 15%|█▌        | 3/20 [17:59<1:39:37, 351.59s/it] 15%|█▌        | 3/20 [27:50<2:37:46, 556.86s/it]
+Error during execution: Cannot convert non-finite values (NA or inf) to integer
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.08 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.80 GiB memory in use. Of the allocated memory 5.81 GiB is allocated by PyTorch, and 6.66 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  045_Predict
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [06:03<1:55:12, 363.81s/it] 10%|█         | 2/20 [14:09<2:10:39, 435.54s/it] 15%|█▌        | 3/20 [22:12<2:09:34, 457.35s/it] 20%|██        | 4/20 [29:18<1:58:40, 445.03s/it] 25%|██▌       | 5/20 [33:19<1:32:50, 371.36s/it] 30%|███       | 6/20 [38:13<1:20:31, 345.13s/it] 35%|███▌      | 7/20 [42:43<1:09:24, 320.37s/it] 40%|████      | 8/20 [49:04<1:07:56, 339.68s/it] 45%|████▌     | 9/20 [54:24<1:01:10, 333.66s/it] 50%|█████     | 10/20 [1:00:10<56:12, 337.25s/it] 55%|█████▌    | 11/20 [1:05:40<50:15, 335.04s/it] 60%|██████    | 12/20 [1:10:08<41:59, 314.88s/it] 65%|██████▌   | 13/20 [1:16:49<39:45, 340.76s/it] 70%|███████   | 14/20 [1:22:43<34:28, 344.83s/it] 75%|███████▌  | 15/20 [1:29:50<30:48, 369.63s/it] 80%|████████  | 16/20 [1:36:04<24:44, 371.01s/it] 85%|████████▌ | 17/20 [1:43:48<19:56, 398.81s/it] 90%|█████████ | 18/20 [1:51:05<13:40, 410.44s/it] 90%|█████████ | 18/20 [1:56:20<12:55, 387.82s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.55 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.80 GiB memory in use. Of the allocated memory 5.54 GiB is allocated by PyTorch, and 6.93 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  046_120
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [04:06<1:17:54, 246.02s/it]  5%|▌         | 1/20 [19:20<6:07:26, 1160.36s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.28 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.81 GiB memory in use. Of the allocated memory 5.59 GiB is allocated by PyTorch, and 6.88 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  047_Bank
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [05:53<1:51:50, 353.18s/it] 10%|█         | 2/20 [10:14<1:29:40, 298.91s/it] 15%|█▌        | 3/20 [14:49<1:21:41, 288.34s/it] 20%|██        | 4/20 [21:03<1:25:52, 322.01s/it] 25%|██▌       | 5/20 [27:25<1:25:57, 343.82s/it] 30%|███       | 6/20 [31:25<1:11:56, 308.34s/it] 30%|███       | 6/20 [42:29<1:39:08, 424.87s/it]
+Error during execution: 'Categorical' with dtype category does not support reduction 'any'
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.33 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.80 GiB memory in use. Of the allocated memory 5.63 GiB is allocated by PyTorch, and 6.84 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  048_Data
+  0%|          | 0/20 [00:00<?, ?it/s]  0%|          | 0/20 [00:00<?, ?it/s]
+CUDA out of memory. Tried to allocate 49.46 GiB. GPU 0 has a total capacity of 15.73 GiB of which 5.46 GiB is free. Including non-PyTorch memory, this process has 10.26 GiB memory in use. Of the allocated memory 4.39 GiB is allocated by PyTorch, and 4.54 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  049_Boris
+  0%|          | 0/19 [00:00<?, ?it/s]  0%|          | 0/19 [00:03<?, ?it/s]
+CUDA out of memory. Tried to allocate 3.23 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.81 GiB memory in use. Of the allocated memory 5.80 GiB is allocated by PyTorch, and 6.67 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  050_ING
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [04:34<1:27:02, 274.85s/it] 10%|█         | 2/20 [21:40<3:34:53, 716.33s/it] 15%|█▌        | 3/20 [30:49<3:01:20, 640.06s/it] 20%|██        | 4/20 [37:02<2:22:33, 534.59s/it] 25%|██▌       | 5/20 [40:28<1:44:03, 416.25s/it] 30%|███       | 6/20 [44:53<1:25:06, 364.73s/it] 35%|███▌      | 7/20 [49:24<1:12:22, 334.02s/it] 40%|████      | 8/20 [55:12<1:07:40, 338.40s/it] 45%|████▌     | 9/20 [1:00:22<1:00:24, 329.49s/it] 50%|█████     | 10/20 [1:04:59<52:13, 313.33s/it]  50%|█████     | 10/20 [1:12:54<1:12:54, 437.45s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: setting an array element with a sequence.
+Error during execution: Cannot perform 'rand_' with a dtyped [bool] array and scalar of type [bool]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.05 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.81 GiB memory in use. Of the allocated memory 5.78 GiB is allocated by PyTorch, and 6.69 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  051_Pokemon
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [04:35<1:27:13, 275.44s/it] 10%|█         | 2/20 [10:22<1:35:18, 317.69s/it] 15%|█▌        | 3/20 [14:06<1:17:48, 274.60s/it] 20%|██        | 4/20 [19:14<1:16:46, 287.93s/it] 25%|██▌       | 5/20 [23:47<1:10:38, 282.56s/it] 30%|███       | 6/20 [28:10<1:04:24, 276.04s/it] 35%|███▌      | 7/20 [31:19<53:38, 247.55s/it]   40%|████      | 8/20 [37:05<55:47, 278.94s/it] 45%|████▌     | 9/20 [42:06<52:24, 285.83s/it] 50%|█████     | 10/20 [48:33<52:50, 317.08s/it] 55%|█████▌    | 11/20 [54:22<49:00, 326.73s/it] 60%|██████    | 12/20 [1:00:17<44:43, 335.39s/it] 65%|██████▌   | 13/20 [1:11:11<50:23, 431.88s/it] 70%|███████   | 14/20 [1:18:35<43:33, 435.50s/it] 75%|███████▌  | 15/20 [1:27:13<38:22, 460.48s/it] 80%|████████  | 16/20 [1:36:37<32:45, 491.45s/it] 85%|████████▌ | 17/20 [1:43:26<23:20, 466.70s/it] 90%|█████████ | 18/20 [1:49:40<14:37, 438.80s/it] 95%|█████████▌| 19/20 [1:57:01<07:19, 439.55s/it]100%|██████████| 20/20 [2:07:13<00:00, 491.37s/it]100%|██████████| 20/20 [2:07:13<00:00, 381.68s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Currently on dataset:  052_Professional
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [05:13<1:39:19, 313.63s/it] 10%|█         | 2/20 [13:55<2:10:49, 436.08s/it] 15%|█▌        | 3/20 [25:50<2:39:37, 563.41s/it] 20%|██        | 4/20 [33:13<2:17:36, 516.02s/it] 25%|██▌       | 5/20 [37:52<1:47:35, 430.35s/it] 30%|███       | 6/20 [42:23<1:27:48, 376.35s/it] 35%|███▌      | 7/20 [51:14<1:32:30, 426.99s/it] 40%|████      | 8/20 [57:57<1:23:50, 419.19s/it] 45%|████▌     | 9/20 [1:04:00<1:13:38, 401.72s/it] 50%|█████     | 10/20 [1:09:10<1:02:11, 373.19s/it] 55%|█████▌    | 11/20 [1:14:32<53:38, 357.64s/it]   60%|██████    | 12/20 [1:20:16<47:08, 353.60s/it] 65%|██████▌   | 13/20 [1:27:05<43:12, 370.42s/it] 70%|███████   | 14/20 [1:32:40<35:57, 359.63s/it] 75%|███████▌  | 15/20 [1:41:29<34:13, 410.78s/it] 80%|████████  | 16/20 [1:47:57<26:55, 403.81s/it] 85%|████████▌ | 17/20 [1:54:19<19:51, 397.30s/it] 90%|█████████ | 18/20 [2:01:19<13:28, 404.18s/it] 95%|█████████▌| 19/20 [2:09:06<07:02, 422.87s/it]100%|██████████| 20/20 [2:15:19<00:00, 408.08s/it]100%|██████████| 20/20 [2:15:19<00:00, 406.00s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Currently on dataset:  053_Patents
+  0%|          | 0/20 [00:00<?, ?it/s]  0%|          | 0/20 [00:00<?, ?it/s]
+CUDA out of memory. Tried to allocate 26.92 GiB. GPU 0 has a total capacity of 15.73 GiB of which 9.35 GiB is free. Including non-PyTorch memory, this process has 6.38 GiB memory in use. Of the allocated memory 3.38 GiB is allocated by PyTorch, and 1.66 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  054_Joe
+  0%|          | 0/20 [00:00<?, ?it/s]  0%|          | 0/20 [04:20<?, ?it/s]
+Error during execution: 'user_verified'
+Error during execution: 'user_verified'
+Error during execution: 'user_verified'
+Error during execution: 'user_verified'
+Error during execution: 'user_verified'
+Error during execution: 'user_verified'
+CUDA out of memory. Tried to allocate 3.39 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.80 GiB memory in use. Of the allocated memory 5.56 GiB is allocated by PyTorch, and 6.91 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  055_German
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [07:25<2:21:08, 445.73s/it] 10%|█         | 2/20 [17:25<2:40:58, 536.61s/it] 15%|█▌        | 3/20 [26:27<2:32:37, 538.65s/it] 15%|█▌        | 3/20 [39:57<3:46:28, 799.33s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.39 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.80 GiB memory in use. Of the allocated memory 5.56 GiB is allocated by PyTorch, and 6.91 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  056_Emoji
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [04:01<1:16:24, 241.27s/it] 10%|█         | 2/20 [08:46<1:20:12, 267.37s/it] 15%|█▌        | 3/20 [15:04<1:29:57, 317.50s/it] 20%|██        | 4/20 [19:11<1:17:19, 290.00s/it] 25%|██▌       | 5/20 [23:14<1:08:14, 272.96s/it] 30%|███       | 6/20 [27:19<1:01:29, 263.55s/it] 35%|███▌      | 7/20 [31:25<55:47, 257.52s/it]   40%|████      | 8/20 [35:00<48:49, 244.09s/it] 45%|████▌     | 9/20 [39:57<47:47, 260.67s/it] 50%|█████     | 10/20 [44:43<44:43, 268.38s/it] 55%|█████▌    | 11/20 [50:38<44:13, 294.87s/it] 60%|██████    | 12/20 [55:51<40:04, 300.62s/it] 65%|██████▌   | 13/20 [1:01:57<37:22, 320.34s/it] 65%|██████▌   | 13/20 [1:10:00<37:41, 323.12s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.11 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.80 GiB memory in use. Of the allocated memory 5.82 GiB is allocated by PyTorch, and 6.65 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  057_Spain
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [06:49<2:09:43, 409.64s/it] 10%|█         | 2/20 [13:26<2:00:39, 402.18s/it] 15%|█▌        | 3/20 [16:57<1:29:11, 314.82s/it] 20%|██        | 4/20 [21:59<1:22:35, 309.75s/it] 25%|██▌       | 5/20 [26:24<1:13:23, 293.58s/it] 30%|███       | 6/20 [31:07<1:07:38, 289.88s/it] 35%|███▌      | 7/20 [35:45<1:02:00, 286.19s/it] 40%|████      | 8/20 [40:49<58:23, 291.92s/it]   40%|████      | 8/20 [47:57<1:11:56, 359.68s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.16 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.80 GiB memory in use. Of the allocated memory 5.75 GiB is allocated by PyTorch, and 6.71 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  058_US
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [07:04<2:14:30, 424.75s/it] 10%|█         | 2/20 [17:48<2:46:03, 553.52s/it] 10%|█         | 2/20 [25:19<3:47:53, 759.63s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: '2016_vote'
+Error during execution: '2016_vote'
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.26 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.80 GiB memory in use. Of the allocated memory 5.83 GiB is allocated by PyTorch, and 6.64 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  059_Second
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [04:06<1:18:04, 246.54s/it] 10%|█         | 2/20 [08:33<1:17:37, 258.75s/it] 15%|█▌        | 3/20 [13:54<1:21:23, 287.24s/it] 20%|██        | 4/20 [17:22<1:08:14, 255.92s/it] 25%|██▌       | 5/20 [21:33<1:03:30, 254.03s/it] 30%|███       | 6/20 [26:41<1:03:34, 272.45s/it] 35%|███▌      | 7/20 [29:55<53:27, 246.69s/it]   40%|████      | 8/20 [34:39<51:43, 258.61s/it] 45%|████▌     | 9/20 [39:25<48:58, 267.13s/it] 50%|█████     | 10/20 [44:36<46:47, 280.73s/it] 55%|█████▌    | 11/20 [50:06<44:20, 295.65s/it] 60%|██████    | 12/20 [56:18<42:31, 318.90s/it] 65%|██████▌   | 13/20 [1:01:50<37:41, 323.08s/it] 70%|███████   | 14/20 [1:07:46<33:18, 333.04s/it] 75%|███████▌  | 15/20 [1:13:27<27:55, 335.17s/it] 80%|████████  | 16/20 [1:19:35<23:00, 345.18s/it] 85%|████████▌ | 17/20 [1:25:04<17:00, 340.29s/it] 90%|█████████ | 18/20 [1:31:53<12:02, 361.12s/it] 95%|█████████▌| 19/20 [1:39:49<06:35, 395.40s/it] 95%|█████████▌| 19/20 [1:50:00<05:47, 347.37s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.29 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.81 GiB memory in use. Of the allocated memory 5.59 GiB is allocated by PyTorch, and 6.88 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  060_Bakery
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [08:14<2:36:37, 494.62s/it] 10%|█         | 2/20 [15:39<2:19:38, 465.48s/it] 15%|█▌        | 3/20 [21:10<1:54:25, 403.83s/it] 20%|██        | 4/20 [28:02<1:48:37, 407.35s/it] 25%|██▌       | 5/20 [34:10<1:38:16, 393.07s/it] 30%|███       | 6/20 [39:53<1:27:45, 376.14s/it] 35%|███▌      | 7/20 [45:14<1:17:34, 358.00s/it] 40%|████      | 8/20 [51:31<1:12:46, 363.89s/it] 45%|████▌     | 9/20 [57:18<1:05:45, 358.72s/it] 50%|█████     | 10/20 [1:03:17<59:47, 358.79s/it] 55%|█████▌    | 11/20 [1:10:07<56:10, 374.51s/it] 60%|██████    | 12/20 [1:17:48<53:27, 400.88s/it] 65%|██████▌   | 13/20 [1:23:37<44:55, 385.07s/it] 70%|███████   | 14/20 [1:31:37<41:22, 413.71s/it] 75%|███████▌  | 15/20 [1:38:45<34:49, 417.98s/it] 75%|███████▌  | 15/20 [1:43:41<34:33, 414.77s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.22 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.80 GiB memory in use. Of the allocated memory 5.78 GiB is allocated by PyTorch, and 6.69 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  061_Disneyland
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [04:53<1:33:04, 293.91s/it] 10%|█         | 2/20 [10:57<1:40:31, 335.08s/it] 15%|█▌        | 3/20 [14:19<1:17:41, 274.21s/it] 20%|██        | 4/20 [20:14<1:21:39, 306.23s/it] 25%|██▌       | 5/20 [24:12<1:10:19, 281.32s/it] 30%|███       | 6/20 [29:37<1:09:09, 296.41s/it] 35%|███▌      | 7/20 [33:47<1:00:55, 281.18s/it] 40%|████      | 8/20 [38:11<55:08, 275.71s/it]   45%|████▌     | 9/20 [43:26<52:46, 287.85s/it] 50%|█████     | 10/20 [51:42<58:43, 352.36s/it] 55%|█████▌    | 11/20 [57:04<51:25, 342.82s/it] 55%|█████▌    | 11/20 [1:06:34<54:28, 363.14s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.39 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.80 GiB memory in use. Of the allocated memory 5.55 GiB is allocated by PyTorch, and 6.92 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  062_Trump
+  0%|          | 0/20 [00:00<?, ?it/s]  0%|          | 0/20 [07:37<?, ?it/s]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.05 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.81 GiB memory in use. Of the allocated memory 5.77 GiB is allocated by PyTorch, and 6.70 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  063_Influencers
+  0%|          | 0/20 [00:00<?, ?it/s]  0%|          | 0/20 [00:00<?, ?it/s]
+CUDA out of memory. Tried to allocate 3.53 GiB. GPU 0 has a total capacity of 15.73 GiB of which 712.25 MiB is free. Including non-PyTorch memory, this process has 15.03 GiB memory in use. Of the allocated memory 12.69 GiB is allocated by PyTorch, and 1020.56 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  064_Clustering
+  0%|          | 0/20 [00:00<?, ?it/s]  0%|          | 0/20 [08:53<?, ?it/s]
+CUDA out of memory. Tried to allocate 3.76 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.80 GiB memory in use. Of the allocated memory 5.44 GiB is allocated by PyTorch, and 7.03 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Currently on dataset:  065_RFM
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [05:52<1:51:35, 352.37s/it] 10%|█         | 2/20 [11:18<1:41:05, 336.98s/it] 15%|█▌        | 3/20 [17:01<1:36:12, 339.55s/it] 20%|██        | 4/20 [22:53<1:31:50, 344.40s/it] 25%|██▌       | 5/20 [28:01<1:22:51, 331.45s/it] 30%|███       | 6/20 [33:47<1:18:29, 336.39s/it] 35%|███▌      | 7/20 [38:49<1:10:28, 325.30s/it] 40%|████      | 8/20 [44:24<1:05:37, 328.13s/it] 45%|████▌     | 9/20 [48:55<56:52, 310.24s/it]   50%|█████     | 10/20 [55:14<55:16, 331.65s/it] 55%|█████▌    | 11/20 [1:00:49<49:53, 332.65s/it] 60%|██████    | 12/20 [1:04:48<40:32, 304.02s/it] 65%|██████▌   | 13/20 [1:13:12<42:33, 364.83s/it] 70%|███████   | 14/20 [1:18:35<35:13, 352.23s/it] 75%|███████▌  | 15/20 [1:24:21<29:10, 350.11s/it] 80%|████████  | 16/20 [1:30:49<24:05, 361.49s/it] 80%|████████  | 16/20 [1:44:18<26:04, 391.15s/it]
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+Error during execution: invalid syntax (<string>, line 1)
+CUDA out of memory. Tried to allocate 3.05 GiB. GPU 1 has a total capacity of 15.73 GiB of which 1.92 GiB is free. Including non-PyTorch memory, this process has 13.80 GiB memory in use. Of the allocated memory 5.77 GiB is allocated by PyTorch, and 6.69 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)

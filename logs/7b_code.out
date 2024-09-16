@@ -1,0 +1,1442 @@
+nohup: ignoring input
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:03<00:03,  3.52s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:05<00:00,  2.38s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:05<00:00,  2.55s/it]
+Currently on dataset:  001_Forbes
+  0%|          | 0/25 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:19: FutureWarning: In the future `np.bool` will be defined as the corresponding NumPy scalar.
+  4%|▍         | 1/25 [00:23<09:33, 23.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  8%|▊         | 2/25 [00:45<08:44, 22.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 12%|█▏        | 3/25 [01:08<08:17, 22.59s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 16%|█▌        | 4/25 [01:30<07:50, 22.42s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 5/25 [01:53<07:30, 22.53s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 24%|██▍       | 6/25 [02:16<07:15, 22.93s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 28%|██▊       | 7/25 [02:40<06:56, 23.11s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:19: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+<string>:20: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+ 32%|███▏      | 8/25 [03:03<06:33, 23.12s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 36%|███▌      | 9/25 [03:26<06:09, 23.09s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 10/25 [03:49<05:45, 23.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 44%|████▍     | 11/25 [04:12<05:22, 23.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 48%|████▊     | 12/25 [04:35<04:59, 23.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 52%|█████▏    | 13/25 [04:58<04:36, 23.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 56%|█████▌    | 14/25 [05:21<04:12, 23.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 15/25 [05:44<03:50, 23.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 64%|██████▍   | 16/25 [06:07<03:27, 23.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 68%|██████▊   | 17/25 [06:30<03:04, 23.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 72%|███████▏  | 18/25 [06:53<02:41, 23.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:18: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 76%|███████▌  | 19/25 [07:16<02:18, 23.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 20/25 [07:39<01:55, 23.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 84%|████████▍ | 21/25 [08:02<01:32, 23.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 88%|████████▊ | 22/25 [08:25<01:09, 23.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 92%|█████████▏| 23/25 [08:48<00:46, 23.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 96%|█████████▌| 24/25 [09:12<00:23, 23.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 25/25 [09:35<00:00, 23.04s/it]100%|██████████| 25/25 [09:35<00:00, 23.00s/it]
+Currently on dataset:  002_Titanic
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:23<07:17, 23.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:46<06:54, 23.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:09<06:31, 23.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:32<06:08, 23.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:55<05:45, 23.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:18<05:22, 23.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:41<04:59, 23.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [03:04<04:36, 23.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:27<04:13, 23.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:50<03:50, 23.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:13<03:26, 22.99s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:21: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise an error in a future version of pandas. Value '0-18' has dtype incompatible with float64, please explicitly cast to a compatible dtype first.
+ 60%|██████    | 12/20 [04:36<03:03, 22.98s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [05:00<02:42, 23.27s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:22<02:19, 23.18s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:21: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 75%|███████▌  | 15/20 [05:45<01:55, 23.12s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [06:08<01:32, 23.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:31<01:09, 23.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:54<00:46, 23.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [07:18<00:23, 23.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:41<00:00, 23.07s/it]100%|██████████| 20/20 [07:41<00:00, 23.05s/it]
+Currently on dataset:  003_Love
+  0%|          | 0/20 [00:00<?, ?it/s]  0%|          | 0/20 [00:00<?, ?it/s]
+"None of [Index(['[', ''', 'W', 'h', 'a', 't', ' ', 'i', 's', ' ', 'y', 'o', 'u', 'r',\n       ' ', 'a', 'g', 'e', '?', ' ', '👶', '🏻', '👵', '🏻', ''', ']'],\n      dtype='object')] are in the [columns]"
+Currently on dataset:  004_Taxi
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:23<07:19, 23.12s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:46<06:55, 23.09s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:09<06:33, 23.13s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:32<06:09, 23.07s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:55<05:46, 23.10s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:18<05:23, 23.14s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:41<05:00, 23.13s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [03:04<04:37, 23.10s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:28<04:14, 23.13s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:51<03:51, 23.13s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:14<03:28, 23.15s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:37<03:05, 23.16s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [05:00<02:41, 23.14s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:23<02:18, 23.12s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:47<01:56, 23.36s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [06:11<01:33, 23.46s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:34<01:10, 23.43s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:57<00:46, 23.32s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [07:20<00:23, 23.25s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:44<00:00, 23.26s/it]100%|██████████| 20/20 [07:44<00:00, 23.21s/it]
+Currently on dataset:  005_NYC
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:23<07:25, 23.44s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:46<06:56, 23.16s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:09<06:32, 23.10s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:32<06:08, 23.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:55<05:44, 22.99s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:18<05:21, 22.99s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:41<04:58, 22.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [03:04<04:36, 23.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:27<04:13, 23.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:50<03:50, 23.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:13<03:27, 23.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:36<03:04, 23.08s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:59<02:41, 23.12s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:22<02:17, 22.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:44<01:53, 22.70s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [06:06<01:30, 22.53s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:28<01:07, 22.44s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:51<00:44, 22.41s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [07:13<00:22, 22.36s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:35<00:00, 22.31s/it]100%|██████████| 20/20 [07:35<00:00, 22.78s/it]
+Currently on dataset:  006_London
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:22<07:03, 22.28s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:44<06:43, 22.43s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:07<06:25, 22.69s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:30<06:01, 22.59s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:53<05:39, 22.66s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:15<05:18, 22.75s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:38<04:53, 22.61s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [03:01<04:32, 22.74s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:21: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 45%|████▌     | 9/20 [03:23<04:09, 22.70s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:46<03:46, 22.64s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:08<03:22, 22.48s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:30<02:59, 22.45s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:53<02:37, 22.46s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:16<02:15, 22.52s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:38<01:52, 22.51s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [06:01<01:30, 22.61s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:24<01:08, 22.68s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:47<00:45, 22.77s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [07:09<00:22, 22.62s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:32<00:00, 22.60s/it]100%|██████████| 20/20 [07:32<00:00, 22.60s/it]
+Currently on dataset:  007_Fifa
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:22<07:03, 22.31s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:45<06:46, 22.60s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:07<06:22, 22.51s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:30<06:00, 22.55s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:53<05:40, 22.71s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:16<05:19, 22.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:39<04:58, 22.92s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [03:02<04:35, 22.93s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:25<04:12, 22.93s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:48<03:49, 22.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:11<03:26, 22.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:34<03:03, 22.99s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:57<02:40, 22.97s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:20<02:17, 22.99s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:43<01:54, 22.96s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [06:05<01:31, 22.97s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:28<01:08, 22.98s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:51<00:45, 22.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [07:14<00:22, 22.96s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:37<00:00, 22.95s/it]100%|██████████| 20/20 [07:37<00:00, 22.89s/it]
+Currently on dataset:  008_Tornados
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:22<07:16, 22.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:45<06:52, 22.93s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:08<06:29, 22.93s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:31<06:07, 22.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:54<05:44, 22.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:17<05:21, 22.96s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:40<04:58, 22.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [03:03<04:35, 22.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:26<04:12, 22.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:49<03:49, 22.96s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:12<03:26, 22.96s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:35<03:03, 22.96s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:58<02:40, 22.96s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:21<02:17, 22.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:44<01:54, 22.93s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [06:07<01:31, 22.96s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:30<01:08, 22.99s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:53<00:45, 22.98s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [07:16<00:23, 23.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:39<00:00, 23.08s/it]100%|██████████| 20/20 [07:39<00:00, 22.98s/it]
+Currently on dataset:  009_Central
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:23<07:18, 23.07s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:46<06:56, 23.11s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:09<06:31, 23.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:31<06:07, 22.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:54<05:43, 22.91s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:17<05:20, 22.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:40<04:57, 22.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [03:03<04:34, 22.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:26<04:11, 22.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:49<03:48, 22.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:12<03:25, 22.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:34<03:03, 22.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:57<02:40, 22.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:20<02:17, 22.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:43<01:54, 22.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [06:06<01:31, 22.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:29<01:08, 22.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:52<00:45, 22.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [07:14<00:22, 22.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:37<00:00, 22.86s/it]100%|██████████| 20/20 [07:37<00:00, 22.89s/it]
+Currently on dataset:  010_ECommerce
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:22<07:15, 22.92s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:45<06:51, 22.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:08<06:28, 22.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:31<06:08, 23.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:55<05:46, 23.12s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:18<05:24, 23.17s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:41<05:01, 23.19s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [03:04<04:38, 23.23s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:28<04:15, 23.23s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:51<03:52, 23.24s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:14<03:29, 23.29s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:38<03:06, 23.29s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:18: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 65%|██████▌   | 13/20 [05:01<02:43, 23.30s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:24<02:19, 23.23s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:47<01:55, 23.18s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [06:10<01:32, 23.16s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:33<01:09, 23.14s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:56<00:46, 23.14s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [07:20<00:23, 23.14s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:43<00:00, 23.13s/it]100%|██████████| 20/20 [07:43<00:00, 23.16s/it]
+Currently on dataset:  011_SF
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:23<07:19, 23.13s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:18: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+ 10%|█         | 2/20 [00:46<06:56, 23.12s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:09<06:32, 23.08s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:32<06:08, 23.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:55<05:45, 23.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:18<05:23, 23.09s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:41<05:00, 23.09s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [03:04<04:36, 23.07s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:27<04:13, 23.07s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:50<03:50, 23.09s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:13<03:27, 23.10s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:37<03:04, 23.11s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [05:00<02:41, 23.11s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:23<02:18, 23.09s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:46<01:55, 23.09s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [06:09<01:32, 23.07s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:32<01:09, 23.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:55<00:46, 23.07s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [07:18<00:23, 23.09s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:41<00:00, 23.12s/it]100%|██████████| 20/20 [07:41<00:00, 23.09s/it]
+Currently on dataset:  012_Heart
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:18: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  5%|▌         | 1/20 [00:23<07:17, 23.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:46<06:55, 23.11s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:09<06:33, 23.12s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:32<06:09, 23.12s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:55<05:46, 23.13s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:18<05:22, 23.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:41<04:58, 23.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [03:04<04:35, 22.97s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:27<04:12, 22.92s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:49<03:48, 22.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:12<03:25, 22.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:21: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+<string>:22: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 60%|██████    | 12/20 [04:35<03:03, 22.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:58<02:39, 22.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:21<02:16, 22.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:43<01:53, 22.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:18: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 80%|████████  | 16/20 [06:06<01:31, 22.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:29<01:08, 22.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:52<00:45, 22.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [07:15<00:22, 22.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:37<00:00, 22.79s/it]100%|██████████| 20/20 [07:37<00:00, 22.90s/it]
+Currently on dataset:  013_Roller
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:22<07:13, 22.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:45<06:49, 22.75s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:08<06:26, 22.74s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:31<06:03, 22.75s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:53<05:41, 22.75s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:16<05:18, 22.77s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:39<04:56, 22.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [03:02<04:33, 22.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:25<04:10, 22.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:47<03:47, 22.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:10<03:25, 22.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:33<03:02, 22.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:56<02:39, 22.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:19<02:16, 22.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:41<01:54, 22.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [06:04<01:31, 22.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:27<01:08, 22.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:50<00:45, 22.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [07:13<00:22, 22.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:35<00:00, 22.79s/it]100%|██████████| 20/20 [07:35<00:00, 22.79s/it]
+Currently on dataset:  014_Airbnb
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:22<07:15, 22.93s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:45<06:51, 22.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:08<06:27, 22.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:31<06:05, 22.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:54<05:42, 22.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:17<05:19, 22.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:39<04:56, 22.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [03:02<04:34, 22.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:25<04:11, 22.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:48<03:48, 22.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:11<03:25, 22.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:34<03:03, 22.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:18: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 65%|██████▌   | 13/20 [04:57<02:39, 22.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:19<02:17, 22.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:18: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 75%|███████▌  | 15/20 [05:42<01:53, 22.76s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:18: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 80%|████████  | 16/20 [06:05<01:30, 22.73s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:26<01:07, 22.47s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:48<00:44, 22.30s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [07:10<00:22, 22.22s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:32<00:00, 22.14s/it]100%|██████████| 20/20 [07:32<00:00, 22.64s/it]
+Currently on dataset:  015_Food
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:54, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:32, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:11, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:49, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:27, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:11<05:05, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:32<04:43, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:54<04:21, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:16<03:59, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:38<03:38, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:00<03:16, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:21<02:54, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:43<02:32, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:05<02:10, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:27<01:49, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:49<01:27, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:11<01:05, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:33<00:43, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:54<00:21, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:16<00:00, 21.87s/it]100%|██████████| 20/20 [07:16<00:00, 21.84s/it]
+Currently on dataset:  016_Holiday
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:55, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:32, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:10, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:50, 21.91s/it] 20%|██        | 4/20 [01:27<05:50, 21.88s/it]
+'NoneType' object is not iterable
+Currently on dataset:  017_Hacker
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:22<07:01, 22.18s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:44<06:37, 22.10s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:06<06:15, 22.10s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:28<05:53, 22.08s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:50<05:30, 22.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:12<05:08, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:34<04:46, 22.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:56<04:24, 22.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:18<04:02, 22.07s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:40<03:40, 22.09s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:02<03:18, 22.10s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:24<02:56, 22.07s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:46<02:34, 22.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:08<02:12, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:30<01:50, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:53<01:28, 22.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:15<01:06, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:37<00:44, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:59<00:22, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:21<00:00, 22.06s/it]100%|██████████| 20/20 [07:21<00:00, 22.06s/it]
+Currently on dataset:  018_Staff
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:22<06:58, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:44<06:36, 22.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:06<06:14, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:28<05:52, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:50<05:30, 22.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:12<05:09, 22.08s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:34<04:46, 22.07s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:56<04:24, 22.08s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:18<04:03, 22.09s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:40<03:40, 22.10s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:02<03:18, 22.10s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:24<02:56, 22.10s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:46<02:34, 22.08s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:09<02:12, 22.10s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:31<01:50, 22.09s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:53<01:28, 22.08s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:15<01:06, 22.09s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:37<00:44, 22.08s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:59<00:22, 22.08s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:21<00:00, 22.07s/it]100%|██████████| 20/20 [07:21<00:00, 22.08s/it]
+Currently on dataset:  019_Aircraft
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:22<07:01, 22.21s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:44<06:37, 22.08s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:06<06:14, 22.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:28<05:53, 22.07s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:50<05:31, 22.10s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:12<05:08, 22.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:34<04:46, 22.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:56<04:24, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:18<04:02, 22.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:40<03:40, 22.07s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:02<03:18, 22.09s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:24<02:56, 22.07s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:46<02:34, 22.07s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:08<02:12, 22.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:30<01:49, 21.96s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:52<01:27, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:14<01:05, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:36<00:43, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:57<00:21, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:19<00:00, 21.87s/it]100%|██████████| 20/20 [07:19<00:00, 21.99s/it]
+Currently on dataset:  020_Real
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:55, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:33, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:11, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:48, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:26, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:10<05:05, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:32<04:43, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:54<04:21, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:16<04:00, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:18: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 50%|█████     | 10/20 [03:38<03:38, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:00<03:16, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:21<02:54, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:43<02:32, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:05<02:10, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:27<01:48, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:48<01:27, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:10<01:05, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:32<00:43, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:54<00:21, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:16<00:00, 21.80s/it]100%|██████████| 20/20 [07:16<00:00, 21.81s/it]
+Currently on dataset:  021_Telco
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:54, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:33, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:11, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:49, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:27, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:10<05:05, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:32<04:43, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:54<04:21, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:16<04:00, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:38<03:38, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:00<03:16, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:21<02:54, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:43<02:32, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:05<02:10, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:27<01:48, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:49<01:27, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:10<01:05, 21.78s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:32<00:43, 21.76s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:54<00:21, 21.75s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:16<00:00, 21.77s/it]100%|██████████| 20/20 [07:16<00:00, 21.80s/it]
+Currently on dataset:  022_Airbnbs
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:52, 21.74s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:31, 21.75s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:09, 21.75s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:48, 21.77s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:48<05:26, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:10<05:05, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:32<04:43, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:54<04:21, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:16<03:59, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:37<03:37, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [03:59<03:16, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:21<02:54, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:43<02:32, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:05<02:10, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:26<01:48, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:48<01:27, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:10<01:05, 21.77s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:32<00:43, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:54<00:21, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:16<00:00, 21.86s/it]100%|██████████| 20/20 [07:16<00:00, 21.80s/it]
+Currently on dataset:  023_Climate
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:57, 22.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:34, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:12, 21.91s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:51, 21.99s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:50<05:34, 22.30s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:13<05:14, 22.49s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:36<04:53, 22.60s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:59<04:32, 22.69s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:22<04:10, 22.74s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:44<03:47, 22.77s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:07<03:25, 22.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:30<03:02, 22.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:53<02:39, 22.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:16<02:16, 22.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:39<01:54, 22.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [06:01<01:31, 22.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:24<01:08, 22.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:47<00:45, 22.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [07:10<00:22, 22.76s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:32<00:00, 22.48s/it]100%|██████████| 20/20 [07:32<00:00, 22.60s/it]
+Currently on dataset:  024_Salary
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:55, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:33, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:11, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:49, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:27, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:11<05:05, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:32<04:44, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:34<03:05, 15.45s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [02:56<03:12, 17.47s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:18<03:08, 18.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [03:40<02:57, 19.77s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:02<02:43, 20.41s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:24<02:26, 20.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [04:46<02:07, 21.18s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:08<01:46, 21.39s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:29<01:26, 21.54s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [05:51<01:04, 21.63s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:13<00:43, 21.70s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:35<00:21, 21.76s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [06:57<00:00, 21.79s/it]100%|██████████| 20/20 [06:57<00:00, 20.87s/it]
+Currently on dataset:  025_Data
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:55, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:33, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:11, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:49, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:28, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:11<05:06, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:33<04:44, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:54<04:22, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:16<04:00, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:38<03:38, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:00<03:17, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:22<02:55, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:44<02:33, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:06<02:11, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:28<01:49, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:49<01:27, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:11<01:05, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:33<00:43, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:55<00:21, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:17<00:00, 21.87s/it]100%|██████████| 20/20 [07:17<00:00, 21.87s/it]
+Currently on dataset:  026_Predicting
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:55, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:34, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:12, 21.92s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:50, 21.91s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:28, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:11<05:06, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:33<04:44, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:55<04:22, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:17<04:00, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:38<03:38, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:00<03:16, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:22<02:54, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:44<02:33, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:06<02:11, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:28<01:49, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:50<01:27, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:11<01:05, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:33<00:43, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:55<00:21, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:17<00:00, 21.85s/it]100%|██████████| 20/20 [07:17<00:00, 21.87s/it]
+Currently on dataset:  027_Supermarket
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:54, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:18: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+ 10%|█         | 2/20 [00:43<06:33, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:11, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:49, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:28, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:11<05:06, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:33<04:44, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:55<04:22, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:16<04:00, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:38<03:39, 21.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:00<03:17, 21.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:22<02:55, 21.93s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:44<02:33, 21.91s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:06<02:11, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:28<01:49, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:50<01:27, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:12<01:05, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:34<00:43, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:56<00:21, 21.91s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:17<00:00, 21.89s/it]100%|██████████| 20/20 [07:17<00:00, 21.89s/it]
+Currently on dataset:  028_Predict
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:22<06:58, 22.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:34, 21.92s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:06<06:15, 22.08s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:29<05:59, 22.48s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:51<05:34, 22.29s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:13<05:12, 22.35s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:35<04:48, 22.23s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:58<04:27, 22.32s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:20<04:04, 22.23s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:42<03:41, 22.14s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:04<03:18, 22.08s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:26<02:56, 22.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:48<02:34, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:09<02:12, 22.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:31<01:49, 21.97s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:53<01:27, 21.93s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:15<01:05, 21.91s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:37<00:43, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:59<00:21, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:21<00:00, 21.87s/it]100%|██████████| 20/20 [07:21<00:00, 22.05s/it]
+Currently on dataset:  029_NYTimes
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:56, 21.93s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:34, 21.91s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:13, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:50, 21.91s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:28, 21.92s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:11<05:06, 21.92s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:33<04:44, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:55<04:22, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:17<04:01, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:39<03:39, 21.93s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:01<03:17, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:23<02:55, 21.92s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:44<02:33, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:06<02:11, 21.92s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:28<01:49, 21.92s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:50<01:27, 21.92s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:12<01:05, 21.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:34<00:43, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:56<00:21, 21.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:18<00:00, 21.92s/it]100%|██████████| 20/20 [07:18<00:00, 21.92s/it]
+Currently on dataset:  030_Professionals
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:56, 21.91s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:33, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:11, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:49, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:28, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:11<05:05, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:32<04:43, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:54<04:22, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:16<04:00, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:38<03:38, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:18: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+<string>:21: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+ 55%|█████▌    | 11/20 [04:00<03:16, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:22<02:54, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:44<02:32, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:05<02:11, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:27<01:49, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:49<01:27, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:11<01:05, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:33<00:43, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:55<00:21, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:17<00:00, 21.86s/it]100%|██████████| 20/20 [07:17<00:00, 21.86s/it]
+Currently on dataset:  031_Trustpilot
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:55, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:33, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:11, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:49, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:27, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:11<05:06, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:33<04:44, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:55<04:22, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:16<04:00, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:38<03:38, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:00<03:16, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:22<02:54, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:19: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+<string>:20: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 65%|██████▌   | 13/20 [04:44<02:32, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:05<02:11, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:27<01:49, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:49<01:27, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:11<01:05, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:33<00:43, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:55<00:21, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:16<00:00, 21.82s/it]100%|██████████| 20/20 [07:16<00:00, 21.85s/it]
+Currently on dataset:  032_Delicatessen
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:55, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:18: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+ 10%|█         | 2/20 [00:43<06:34, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:11, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:49, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:28, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:11<05:06, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:33<04:44, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:54<04:22, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:16<04:00, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:38<03:38, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:00<03:17, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:22<02:55, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:44<02:33, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:06<02:11, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:28<01:49, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:50<01:27, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:11<01:05, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:33<00:43, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:55<00:21, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:17<00:00, 21.88s/it]100%|██████████| 20/20 [07:17<00:00, 21.88s/it]
+Currently on dataset:  033_Employee
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:56, 21.91s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:33, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:12, 21.91s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:50, 21.92s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:28, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:11<05:06, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:20<03:51, 17.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:42<03:49, 19.13s/it] 40%|████      | 8/20 [02:42<04:04, 20.34s/it]
+"None of [Index(['Education'], dtype='object')] are in the [columns]"
+Currently on dataset:  034_World
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:55, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:33, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:12, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:49, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:29, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:11<05:07, 22.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:33<04:46, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:55<04:24, 22.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:17<04:02, 22.07s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:21: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 50%|█████     | 10/20 [03:40<03:41, 22.11s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:02<03:18, 22.10s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:24<02:57, 22.13s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:46<02:34, 22.12s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:08<02:12, 22.10s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:30<01:50, 22.08s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:52<01:28, 22.08s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:14<01:06, 22.09s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:36<00:44, 22.07s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:58<00:22, 22.08s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:21<00:00, 22.09s/it]100%|██████████| 20/20 [07:21<00:00, 22.05s/it]
+Currently on dataset:  035_Billboard
+  0%|          | 0/24 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  4%|▍         | 1/24 [00:22<08:29, 22.15s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  8%|▊         | 2/24 [00:44<08:08, 22.19s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 12%|█▎        | 3/24 [01:06<07:45, 22.19s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 17%|█▋        | 4/24 [01:28<07:22, 22.10s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 21%|██        | 5/24 [01:50<07:00, 22.11s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 6/24 [02:12<06:37, 22.09s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 29%|██▉       | 7/24 [02:34<06:15, 22.10s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 33%|███▎      | 8/24 [02:56<05:53, 22.10s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 38%|███▊      | 9/24 [03:19<05:31, 22.10s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 42%|████▏     | 10/24 [03:41<05:09, 22.07s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 46%|████▌     | 11/24 [04:03<04:46, 22.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 12/24 [04:25<04:24, 22.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 54%|█████▍    | 13/24 [04:47<04:02, 22.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 58%|█████▊    | 14/24 [05:09<03:40, 22.08s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 62%|██████▎   | 15/24 [05:31<03:18, 22.07s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 67%|██████▋   | 16/24 [05:53<02:56, 22.07s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 71%|███████   | 17/24 [06:15<02:34, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 18/24 [06:37<02:12, 22.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 79%|███████▉  | 19/24 [06:59<01:50, 22.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 83%|████████▎ | 20/24 [07:21<01:28, 22.07s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 88%|████████▊ | 21/24 [07:43<01:06, 22.08s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 92%|█████████▏| 22/24 [08:05<00:44, 22.08s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 96%|█████████▌| 23/24 [08:27<00:22, 22.09s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 24/24 [08:49<00:00, 22.05s/it]100%|██████████| 24/24 [08:49<00:00, 22.08s/it]
+Currently on dataset:  036_US
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:22<06:59, 22.08s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:44<06:37, 22.11s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:06<06:15, 22.08s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:28<05:53, 22.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:29<03:39, 14.65s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [01:51<04:00, 17.17s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:13<04:03, 18.77s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:35<03:57, 19.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [02:58<03:45, 20.51s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:30: FutureWarning: In the future `np.object` will be defined as the corresponding NumPy scalar.
+ 50%|█████     | 10/20 [03:20<03:29, 20.99s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [03:42<03:11, 21.30s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:04<02:52, 21.51s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:26<02:31, 21.67s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:18: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 70%|███████   | 14/20 [04:48<02:10, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:18: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 75%|███████▌  | 15/20 [05:10<01:49, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:32<01:27, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [05:54<01:05, 21.98s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:16<00:43, 21.98s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:38<00:22, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:00<00:00, 22.01s/it]100%|██████████| 20/20 [07:00<00:00, 21.03s/it]
+Currently on dataset:  037_Ted
+  0%|          | 0/20 [00:00<?, ?it/s]  0%|          | 0/20 [00:00<?, ?it/s]
+"None of [Index(['[', ''', 'v', 'i', 'e', 'w', 's', ''', ']'], dtype='object')] are in the [columns]"
+Currently on dataset:  038_Stroke
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:57, 21.97s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:24<03:12, 10.71s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [00:46<04:29, 15.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:08<04:53, 18.33s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:30<04:54, 19.66s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [01:52<04:46, 20.45s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:14<04:32, 20.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:36<04:15, 21.27s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [02:58<03:56, 21.49s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:20<03:36, 21.64s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [03:42<03:15, 21.75s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:04<02:54, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:20: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 65%|██████▌   | 13/20 [04:26<02:33, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:19: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 70%|███████   | 14/20 [04:48<02:11, 21.92s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:20: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 75%|███████▌  | 15/20 [05:10<01:49, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:32<01:27, 21.96s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [05:54<01:05, 21.99s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:16<00:43, 21.98s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:38<00:21, 21.98s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:00<00:00, 21.98s/it]100%|██████████| 20/20 [07:00<00:00, 21.04s/it]
+Currently on dataset:  039_Happy
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:22<06:58, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:44<06:37, 22.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:06<06:15, 22.07s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:18: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+ 20%|██        | 4/20 [01:28<05:52, 22.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:50<05:30, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:12<05:08, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:34<04:46, 22.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:56<04:24, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:18<04:02, 22.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:40<03:40, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:29: FutureWarning: In the future `np.str` will be defined as the corresponding NumPy scalar.
+ 55%|█████▌    | 11/20 [04:02<03:18, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:24<02:56, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:46<02:34, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:08<02:12, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:30<01:50, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:52<01:28, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:14<01:06, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:36<00:44, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:58<00:22, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:20<00:00, 22.02s/it]100%|██████████| 20/20 [07:20<00:00, 22.03s/it]
+Currently on dataset:  040_Speed
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:22<06:59, 22.07s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:44<06:37, 22.08s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:06<06:14, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:28<05:52, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:50<05:30, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:12<05:08, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:34<04:46, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:56<04:24, 22.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:18<04:01, 21.98s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:39<03:39, 21.93s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:01<03:16, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:23<02:54, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:45<02:32, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:19: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 70%|███████   | 14/20 [05:07<02:10, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:28<01:48, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:19: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 80%|████████  | 16/20 [05:50<01:27, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:12<01:05, 21.77s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:34<00:43, 21.78s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:55<00:21, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:17<00:00, 21.82s/it]100%|██████████| 20/20 [07:17<00:00, 21.89s/it]
+Currently on dataset:  041_Airline
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:54, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:33, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:11, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:10<04:02, 15.18s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:32<04:23, 17.58s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [01:54<04:26, 19.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:15<04:19, 19.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:37<04:06, 20.53s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [02:59<03:50, 20.92s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:21<03:32, 21.21s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [03:43<03:12, 21.40s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:05<02:52, 21.54s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:26<02:31, 21.62s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [04:48<02:10, 21.67s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:10<01:48, 21.72s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:32<01:26, 21.74s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [05:54<01:05, 21.75s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:15<00:43, 21.77s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:37<00:21, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [06:59<00:00, 21.79s/it]100%|██████████| 20/20 [06:59<00:00, 20.98s/it]
+Currently on dataset:  042_Predict
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:54, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:32, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:10, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:48, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:26, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:10<05:05, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:32<04:43, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:54<04:21, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:16<04:00, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:38<03:38, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [03:59<03:16, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:21<02:54, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:23: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 65%|██████▌   | 13/20 [04:43<02:32, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:20: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 70%|███████   | 14/20 [05:05<02:11, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:19: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 75%|███████▌  | 15/20 [05:27<01:49, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:49<01:27, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:11<01:05, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:32<00:43, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:54<00:21, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:16<00:00, 21.88s/it]100%|██████████| 20/20 [07:16<00:00, 21.84s/it]
+Currently on dataset:  043_Predict
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:56, 21.91s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:34, 21.91s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:12, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:50, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:28, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:11<05:05, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:33<04:44, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:55<04:22, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:17<04:01, 21.92s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:38<03:39, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:00<03:17, 21.91s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:22<02:55, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:19: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 65%|██████▌   | 13/20 [04:44<02:33, 21.93s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:19: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 70%|███████   | 14/20 [05:06<02:11, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:19: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 75%|███████▌  | 15/20 [05:28<01:49, 21.92s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:20: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 80%|████████  | 16/20 [05:50<01:27, 21.92s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:12<01:05, 21.91s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:34<00:43, 21.91s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:56<00:21, 21.91s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:18<00:00, 21.90s/it]100%|██████████| 20/20 [07:18<00:00, 21.91s/it]
+Currently on dataset:  044_IMDb
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:22<07:03, 22.27s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:44<06:39, 22.17s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:06<06:16, 22.13s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:28<05:52, 22.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:50<05:30, 22.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:12<05:07, 21.98s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:34<04:46, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:56<04:24, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:18<04:02, 22.07s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:40<03:40, 22.08s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:02<03:18, 22.10s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:24<02:56, 22.12s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:47<02:34, 22.11s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:22: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 70%|███████   | 14/20 [05:09<02:12, 22.13s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:20: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 75%|███████▌  | 15/20 [05:31<01:50, 22.13s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:53<01:28, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:15<01:06, 22.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:37<00:44, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:59<00:22, 22.08s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:21<00:00, 22.11s/it]100%|██████████| 20/20 [07:21<00:00, 22.08s/it]
+Currently on dataset:  045_Predict
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:53, 21.75s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:31, 21.74s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:09, 21.76s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:48, 21.78s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:48<05:26, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:10<05:05, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:32<04:43, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:54<04:21, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:16<03:59, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:37<03:38, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [03:59<03:16, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:21<02:54, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:43<02:32, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:05<02:10, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:26<01:49, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:48<01:27, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:10<01:05, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:32<00:43, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:54<00:21, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:16<00:00, 21.82s/it]100%|██████████| 20/20 [07:16<00:00, 21.80s/it]
+Currently on dataset:  046_120
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:22<06:58, 22.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:34, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:18: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+<string>:24: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+<string>:27: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+<string>:30: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+<string>:33: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+<string>:36: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 15%|█▌        | 3/20 [01:05<06:13, 21.96s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:50, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:28, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:11<05:06, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:33<04:44, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:55<04:22, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:17<04:00, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:39<03:38, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:00<03:17, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:22<02:54, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:44<02:32, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:06<02:11, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:28<01:49, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:50<01:27, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:11<01:05, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:33<00:43, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:55<00:21, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:17<00:00, 21.83s/it]100%|██████████| 20/20 [07:17<00:00, 21.87s/it]
+Currently on dataset:  047_Bank
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:52, 21.73s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:31, 21.74s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:10, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:48, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:48<05:27, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:10<05:05, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:32<04:43, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:54<04:21, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:16<03:59, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:38<03:38, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [03:59<03:16, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:21<02:54, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:43<02:32, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:05<02:11, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:27<01:49, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:49<01:27, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:11<01:05, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:32<00:43, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:54<00:21, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:16<00:00, 21.86s/it]100%|██████████| 20/20 [07:16<00:00, 21.83s/it]
+Currently on dataset:  048_Data
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:55, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:32, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:11, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:49, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:26, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:10<05:05, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:32<04:43, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:54<04:22, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:16<03:59, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:38<03:38, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [03:59<03:16, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:21<02:54, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:18: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 65%|██████▌   | 13/20 [04:43<02:33, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:05<02:11, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:27<01:49, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:18: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 80%|████████  | 16/20 [05:49<01:27, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:11<01:05, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:33<00:43, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:55<00:21, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:17<00:00, 21.90s/it]100%|██████████| 20/20 [07:17<00:00, 21.86s/it]
+Currently on dataset:  049_Boris
+  0%|          | 0/19 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/19 [00:21<06:35, 21.98s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 11%|█         | 2/19 [00:44<06:14, 22.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 16%|█▌        | 3/19 [01:05<05:51, 21.96s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 21%|██        | 4/19 [01:27<05:29, 21.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 26%|██▋       | 5/19 [01:49<05:07, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 32%|███▏      | 6/19 [02:11<04:45, 21.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 37%|███▋      | 7/19 [02:33<04:23, 21.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 42%|████▏     | 8/19 [02:55<04:01, 21.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 47%|████▋     | 9/19 [03:17<03:39, 21.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 53%|█████▎    | 10/19 [03:39<03:17, 21.96s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 58%|█████▊    | 11/19 [04:01<02:55, 21.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 63%|██████▎   | 12/19 [04:23<02:33, 21.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 68%|██████▊   | 13/19 [04:45<02:11, 21.93s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 74%|███████▎  | 14/19 [05:07<01:49, 21.91s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 79%|███████▉  | 15/19 [05:29<01:27, 21.92s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 84%|████████▍ | 16/19 [05:51<01:05, 21.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 89%|████████▉ | 17/19 [06:13<00:43, 21.96s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▍| 18/19 [06:35<00:21, 21.96s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 19/19 [06:57<00:00, 21.95s/it]100%|██████████| 19/19 [06:57<00:00, 21.95s/it]
+Currently on dataset:  050_ING
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:56, 21.91s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:34, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:12, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:50, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:28, 21.91s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:11<05:06, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:33<04:44, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:55<04:22, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:17<04:00, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:39<03:39, 21.92s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:00<03:17, 21.91s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:22<02:55, 21.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:44<02:33, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:06<02:11, 21.97s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:28<01:49, 21.98s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:50<01:27, 21.96s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:12<01:05, 21.98s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:34<00:43, 21.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:56<00:21, 21.93s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:18<00:00, 21.90s/it]100%|██████████| 20/20 [07:18<00:00, 21.92s/it]
+Currently on dataset:  051_Pokemon
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:56, 21.92s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:34, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:12, 21.93s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:51, 21.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:29, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:11<05:07, 21.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:33<04:45, 21.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:55<04:23, 21.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:17<04:01, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:39<03:39, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:01<03:17, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:23<02:55, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:45<02:33, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:07<02:11, 21.93s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:29<01:49, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:51<01:27, 21.93s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:12<01:05, 21.92s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:34<00:43, 21.92s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:56<00:21, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:18<00:00, 21.94s/it]100%|██████████| 20/20 [07:18<00:00, 21.94s/it]
+Currently on dataset:  052_Professional
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:56, 21.92s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:34, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:12, 21.90s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:50, 21.93s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:29, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:11<05:07, 21.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:33<04:45, 21.96s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:55<04:23, 21.94s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:17<04:01, 21.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:39<03:39, 21.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:01<03:17, 21.95s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:23<02:55, 21.96s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:45<02:33, 21.96s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:07<02:11, 21.98s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:29<01:49, 21.98s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:51<01:27, 21.99s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:13<01:05, 21.99s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:35<00:43, 21.98s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:57<00:22, 22.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:19<00:00, 22.01s/it]100%|██████████| 20/20 [07:19<00:00, 21.97s/it]
+Currently on dataset:  053_Patents
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:22<07:00, 22.11s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:44<06:37, 22.07s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:06<06:15, 22.08s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:28<05:53, 22.09s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:50<05:30, 22.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:12<05:08, 22.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:34<04:46, 22.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:56<04:24, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:18<04:02, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:40<03:40, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:02<03:18, 22.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:24<02:56, 22.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:46<02:34, 22.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:08<02:11, 21.99s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:30<01:49, 21.99s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:52<01:27, 22.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:14<01:05, 22.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:36<00:43, 22.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:58<00:22, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:20<00:00, 22.03s/it]100%|██████████| 20/20 [07:20<00:00, 22.03s/it]
+Currently on dataset:  054_Joe
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:57, 21.98s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:35, 22.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:06<06:14, 22.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:28<05:52, 22.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:50<05:30, 22.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:12<05:08, 22.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:34<04:46, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:56<04:24, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:18<04:02, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:40<03:39, 21.99s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:02<03:18, 22.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:24<02:55, 22.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:46<02:33, 21.99s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:08<02:12, 22.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:30<01:50, 22.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:52<01:27, 22.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:14<01:06, 22.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:36<00:44, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:58<00:22, 22.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:20<00:00, 22.02s/it]100%|██████████| 20/20 [07:20<00:00, 22.01s/it]
+Currently on dataset:  055_German
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:22<06:58, 22.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:44<06:36, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:06<06:13, 22.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:28<05:52, 22.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:50<05:30, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:12<05:08, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:34<04:46, 22.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:56<04:24, 22.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:18<04:02, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:40<03:40, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:02<03:18, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:24<02:56, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:46<02:34, 22.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:08<02:12, 22.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:30<01:50, 22.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:52<01:27, 22.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:14<01:06, 22.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:36<00:44, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:58<00:22, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:20<00:00, 22.01s/it]100%|██████████| 20/20 [07:20<00:00, 22.02s/it]
+Currently on dataset:  056_Emoji
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:22<06:58, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:44<06:36, 22.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:06<06:14, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:28<05:52, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:50<05:30, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:12<05:08, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:34<04:46, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:56<04:24, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:18<04:02, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:40<03:40, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:02<03:18, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:24<02:56, 22.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:46<02:34, 22.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:08<02:12, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:18: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 75%|███████▌  | 15/20 [05:30<01:50, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:52<01:28, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:14<01:06, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:36<00:44, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:58<00:22, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:20<00:00, 22.03s/it]100%|██████████| 20/20 [07:20<00:00, 22.04s/it]
+Currently on dataset:  057_Spain
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:22<06:58, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:44<06:36, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:13, 21.98s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:51, 21.97s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:29, 21.98s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:11<05:07, 22.00s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:33<04:46, 22.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:56<04:24, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:18<04:02, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:40<03:40, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:02<03:18, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:24<02:56, 22.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:21: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+ 65%|██████▌   | 13/20 [04:46<02:34, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:08<02:12, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:30<01:50, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:52<01:28, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:14<01:06, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:36<00:44, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:58<00:22, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:20<00:00, 22.05s/it]100%|██████████| 20/20 [07:20<00:00, 22.02s/it]
+Currently on dataset:  058_US
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:18: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  5%|▌         | 1/20 [00:22<06:59, 22.06s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:44<06:36, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:06<06:14, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:28<05:52, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:50<05:30, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:12<05:08, 22.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:34<04:46, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:56<04:24, 22.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:18<04:02, 22.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:40<03:40, 22.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:02<03:18, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:24<02:56, 22.05s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:46<02:34, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:08<02:12, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:30<01:50, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:52<01:28, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:14<01:06, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:36<00:44, 22.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:58<00:22, 22.02s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:20<00:00, 22.01s/it]100%|██████████| 20/20 [07:20<00:00, 22.03s/it]
+Currently on dataset:  059_Second
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:22<07:00, 22.11s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:35, 21.96s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:11, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:49, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:27, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:11<05:05, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:33<04:44, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:54<04:22, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:16<04:00, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:38<03:38, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:00<03:16, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:22<02:54, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:43<02:32, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:05<02:10, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:27<01:49, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:49<01:27, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:11<01:05, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:33<00:43, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:55<00:21, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:17<00:00, 21.88s/it]100%|██████████| 20/20 [07:17<00:00, 21.85s/it]
+Currently on dataset:  060_Bakery
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:55, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:33, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:18: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+ 15%|█▌        | 3/20 [01:05<06:11, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:49, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:27, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:11<05:05, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:33<04:44, 21.89s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:54<04:22, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:16<04:00, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:38<03:38, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:00<03:16, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:22<02:54, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:43<02:32, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:33: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 70%|███████   | 14/20 [05:05<02:10, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:27<01:49, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:49<01:27, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:11<01:05, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:33<00:43, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:54<00:21, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:16<00:00, 21.83s/it]100%|██████████| 20/20 [07:16<00:00, 21.84s/it]
+Currently on dataset:  061_Disneyland
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:55, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:32, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:10, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:49, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:27, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:11<05:06, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:32<04:43, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:54<04:22, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:16<04:00, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:38<03:38, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:00<03:16, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:22<02:54, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:43<02:32, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:05<02:10, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:27<01:49, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:18: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 80%|████████  | 16/20 [05:49<01:27, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:11<01:05, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:33<00:43, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:55<00:21, 21.88s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:16<00:00, 21.85s/it]100%|██████████| 20/20 [07:16<00:00, 21.84s/it]
+Currently on dataset:  062_Trump
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:54, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:32, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:11, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:49, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:49<05:27, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:11<05:06, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:32<04:44, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:54<04:22, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:16<04:00, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:38<03:38, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [04:00<03:16, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:22<02:54, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:43<02:32, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:05<02:10, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:27<01:49, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:49<01:27, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:11<01:05, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:33<00:43, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:55<00:21, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:16<00:00, 21.84s/it]100%|██████████| 20/20 [07:16<00:00, 21.84s/it]
+Currently on dataset:  063_Influencers
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:54, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:32, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:10, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:49, 21.85s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:28<03:37, 14.51s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [01:50<03:58, 17.01s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:12<04:01, 18.59s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:34<03:55, 19.63s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [02:56<03:43, 20.31s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:17<03:27, 20.77s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [03:39<03:09, 21.10s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:01<02:50, 21.33s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:23<02:30, 21.46s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [04:45<02:09, 21.57s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:07<01:48, 21.65s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:28<01:26, 21.69s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [05:50<01:05, 21.73s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:12<00:43, 21.77s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:34<00:21, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [06:56<00:00, 21.82s/it]100%|██████████| 20/20 [06:56<00:00, 20.82s/it]
+Currently on dataset:  064_Clustering
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:53, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:32, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [00:45<03:36, 12.73s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:07<04:20, 16.31s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:29<04:34, 18.27s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [01:50<04:32, 19.47s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:12<04:23, 20.25s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:34<04:08, 20.75s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [02:56<03:51, 21.07s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:18<03:33, 21.31s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [03:40<03:13, 21.48s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:01<02:52, 21.58s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:23<02:31, 21.65s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+<string>:18: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+ 70%|███████   | 14/20 [04:45<02:10, 21.70s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:07<01:48, 21.74s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:29<01:27, 21.77s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [05:50<01:05, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:12<00:43, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:34<00:21, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [06:56<00:00, 21.80s/it]100%|██████████| 20/20 [06:56<00:00, 20.82s/it]
+Currently on dataset:  065_RFM
+  0%|          | 0/20 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+  5%|▌         | 1/20 [00:21<06:54, 21.79s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 10%|█         | 2/20 [00:43<06:32, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 15%|█▌        | 3/20 [01:05<06:10, 21.77s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 20%|██        | 4/20 [01:27<05:48, 21.76s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 25%|██▌       | 5/20 [01:48<05:26, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 30%|███       | 6/20 [02:10<05:04, 21.78s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 35%|███▌      | 7/20 [02:32<04:43, 21.77s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 40%|████      | 8/20 [02:54<04:21, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 45%|████▌     | 9/20 [03:16<04:00, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 50%|█████     | 10/20 [03:38<03:38, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 55%|█████▌    | 11/20 [03:59<03:16, 21.84s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 60%|██████    | 12/20 [04:21<02:54, 21.80s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 65%|██████▌   | 13/20 [04:43<02:32, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 70%|███████   | 14/20 [05:05<02:10, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 75%|███████▌  | 15/20 [05:27<01:49, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 80%|████████  | 16/20 [05:48<01:27, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 85%|████████▌ | 17/20 [06:10<01:05, 21.83s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 90%|█████████ | 18/20 [06:32<00:43, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+ 95%|█████████▌| 19/20 [06:54<00:21, 21.82s/it]Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+100%|██████████| 20/20 [07:16<00:00, 21.81s/it]100%|██████████| 20/20 [07:16<00:00, 21.81s/it]

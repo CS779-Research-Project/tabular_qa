@@ -1,0 +1,444 @@
+Metrics for key: 001_Forbes
+  bool: 37.50%
+  str: 40.00%
+  num: 30.00%
+  list: 10.00%
+  Avg: 27.27%
+
+Metrics for key: 002_Titanic
+  bool: 50.00%
+  str: 66.67%
+  num: 33.33%
+  list: 25.00%
+  Avg: 37.50%
+
+Metrics for key: 003_Love
+
+Metrics for key: 004_Taxi
+  bool: 60.00%
+  str: 0.00%
+  num: 27.27%
+  list: 12.50%
+  Avg: 28.00%
+
+Metrics for key: 005_NYC
+  bool: 80.00%
+  str: 50.00%
+  num: 50.00%
+  list: 0.00%
+  Avg: 40.00%
+
+Metrics for key: 006_London
+  bool: 33.33%
+  str: 0.00%
+  num: 25.00%
+  list: 0.00%
+  Avg: 15.38%
+
+Metrics for key: 007_Fifa
+  bool: 20.00%
+  str: 20.00%
+  num: 14.29%
+  list: 0.00%
+  Avg: 12.00%
+
+Metrics for key: 008_Tornados
+  bool: 25.00%
+  str: 33.33%
+  num: 11.11%
+  list: 0.00%
+  Avg: 12.50%
+
+Metrics for key: 009_Central
+  bool: 0.00%
+  str: 0.00%
+  num: 0.00%
+  list: 0.00%
+  Avg: 0.00%
+
+Metrics for key: 010_ECommerce
+  bool: 75.00%
+  str: 66.67%
+  num: 44.44%
+  list: 25.00%
+  Avg: 45.83%
+
+Metrics for key: 011_SF
+  bool: 0.00%
+  str: 75.00%
+  num: 0.00%
+  list: 0.00%
+  Avg: 12.00%
+
+Metrics for key: 012_Heart
+  bool: 25.00%
+  str: 50.00%
+  num: 12.50%
+  list: 12.50%
+  Avg: 20.83%
+
+Metrics for key: 013_Roller
+  bool: 33.33%
+  str: 50.00%
+  num: 25.00%
+  list: 12.50%
+  Avg: 26.92%
+
+Metrics for key: 014_Airbnb
+  bool: 0.00%
+  str: 25.00%
+  num: 0.00%
+  list: 0.00%
+  Avg: 3.85%
+
+Metrics for key: 015_Food
+  bool: 50.00%
+  str: 100.00%
+  num: 25.00%
+  list: 0.00%
+  Avg: 33.33%
+
+Metrics for key: 016_Holiday
+  bool: 0.00%
+  num: 0.00%
+  Avg: 0.00%
+
+Metrics for key: 017_Hacker
+  bool: 20.00%
+  str: 50.00%
+  num: 12.50%
+  list: 0.00%
+  Avg: 16.00%
+
+Metrics for key: 018_Staff
+  bool: 60.00%
+  str: 33.33%
+  num: 33.33%
+  list: 0.00%
+  Avg: 28.00%
+
+Metrics for key: 019_Aircraft
+  bool: 40.00%
+  str: 0.00%
+  num: 25.00%
+  list: 0.00%
+  Avg: 16.00%
+
+Metrics for key: 020_Real
+  bool: 25.00%
+  str: 33.33%
+  num: 11.11%
+  list: 0.00%
+  Avg: 12.50%
+
+Metrics for key: 021_Telco
+  bool: 50.00%
+  str: 50.00%
+  num: 25.00%
+  list: 12.50%
+  Avg: 29.17%
+
+Metrics for key: 022_Airbnbs
+  bool: 25.00%
+  str: 25.00%
+  num: 12.50%
+  list: 0.00%
+  Avg: 12.50%
+
+Metrics for key: 023_Climate
+  bool: 50.00%
+  str: 0.00%
+  num: 28.57%
+  list: 0.00%
+  Avg: 16.67%
+
+Metrics for key: 024_Salary
+  bool: 50.00%
+  str: 0.00%
+  num: 25.00%
+  list: 0.00%
+  Avg: 16.67%
+
+Metrics for key: 025_Data
+  bool: 25.00%
+  str: 25.00%
+  num: 25.00%
+  list: 25.00%
+  Avg: 25.00%
+
+Metrics for key: 026_Predicting
+  bool: 40.00%
+  num: 25.00%
+  list: 0.00%
+  Avg: 20.00%
+
+Metrics for key: 027_Supermarket
+  bool: 75.00%
+  str: 0.00%
+  num: 62.50%
+  list: 0.00%
+  Avg: 33.33%
+
+Metrics for key: 028_Predict
+  bool: 55.56%
+  num: 41.67%
+  list: 0.00%
+  Avg: 34.48%
+
+Metrics for key: 029_NYTimes
+  bool: 40.00%
+  str: 75.00%
+  num: 25.00%
+  list: 25.00%
+  Avg: 36.00%
+
+Metrics for key: 030_Professionals
+  bool: 20.00%
+  str: 25.00%
+  num: 12.50%
+  list: 0.00%
+  Avg: 12.00%
+
+Metrics for key: 031_Trustpilot
+  bool: 50.00%
+  str: 50.00%
+  num: 37.50%
+  list: 0.00%
+  Avg: 29.17%
+
+Metrics for key: 032_Delicatessen
+  bool: 50.00%
+  str: 50.00%
+  num: 20.00%
+  list: 12.50%
+  Avg: 25.00%
+
+Metrics for key: 033_Employee
+  bool: 50.00%
+  num: 25.00%
+  Avg: 33.33%
+
+Metrics for key: 034_World
+  bool: 25.00%
+  str: 100.00%
+  num: 12.50%
+  list: 0.00%
+  Avg: 25.00%
+
+Metrics for key: 035_Billboard
+  bool: 100.00%
+  num: 100.00%
+  Avg: 100.00%
+
+Metrics for key: 036_US
+  bool: 0.00%
+  str: 0.00%
+  num: 0.00%
+  list: 0.00%
+  Avg: 0.00%
+
+Metrics for key: 037_Ted
+
+Metrics for key: 038_Stroke
+  bool: 40.00%
+  str: 50.00%
+  num: 25.00%
+  list: 0.00%
+  Avg: 24.00%
+
+Metrics for key: 039_Happy
+  bool: 50.00%
+  str: 25.00%
+  num: 25.00%
+  list: 12.50%
+  Avg: 25.00%
+
+Metrics for key: 040_Speed
+  bool: 25.00%
+  str: 0.00%
+  num: 11.11%
+  list: 0.00%
+  Avg: 8.33%
+
+Metrics for key: 041_Airline
+  bool: 33.33%
+  str: 25.00%
+  num: 25.00%
+  list: 0.00%
+  Avg: 19.23%
+
+Metrics for key: 042_Predict
+  bool: 50.00%
+  str: 50.00%
+  num: 25.00%
+  list: 25.00%
+  Avg: 33.33%
+
+Metrics for key: 043_Predict
+  bool: 75.00%
+  str: 0.00%
+  num: 42.86%
+  list: 0.00%
+  Avg: 25.00%
+
+Metrics for key: 044_IMDb
+  bool: 14.29%
+  str: 50.00%
+  num: 10.00%
+  list: 0.00%
+  Avg: 11.11%
+
+Metrics for key: 045_Predict
+  bool: 50.00%
+  str: 0.00%
+  num: 22.22%
+  list: 0.00%
+  Avg: 16.67%
+
+Metrics for key: 046_120
+  bool: 50.00%
+  str: 0.00%
+  num: 25.00%
+  list: 0.00%
+  Avg: 16.67%
+
+Metrics for key: 047_Bank
+  bool: 60.00%
+  str: 100.00%
+  num: 44.44%
+  list: 0.00%
+  Avg: 40.00%
+
+Metrics for key: 048_Data
+  bool: 0.00%
+  str: 0.00%
+  num: 0.00%
+  list: 0.00%
+  Avg: 0.00%
+
+Metrics for key: 049_Boris
+  bool: 60.00%
+  str: 33.33%
+  num: 33.33%
+  list: 0.00%
+  Avg: 29.17%
+
+Metrics for key: 050_ING
+  bool: 20.00%
+  str: 50.00%
+  num: 12.50%
+  list: 12.50%
+  Avg: 20.00%
+
+Metrics for key: 051_Pokemon
+  bool: 25.00%
+  str: 0.00%
+  num: 12.50%
+  list: 0.00%
+  Avg: 8.33%
+
+Metrics for key: 052_Professional
+  bool: 75.00%
+  str: 0.00%
+  num: 37.50%
+  list: 0.00%
+  Avg: 25.00%
+
+Metrics for key: 053_Patents
+  bool: 0.00%
+  str: 50.00%
+  num: 0.00%
+  list: 0.00%
+  Avg: 8.33%
+
+Metrics for key: 054_Joe
+  bool: 60.00%
+  str: 0.00%
+  num: 37.50%
+  list: 0.00%
+  Avg: 24.00%
+
+Metrics for key: 055_German
+  bool: 100.00%
+  str: 100.00%
+  num: 50.00%
+  list: 0.00%
+  Avg: 50.00%
+
+Metrics for key: 056_Emoji
+  bool: 0.00%
+  str: 0.00%
+  num: 0.00%
+  list: 0.00%
+  Avg: 0.00%
+
+Metrics for key: 057_Spain
+  bool: 33.33%
+  str: 75.00%
+  num: 28.57%
+  list: 0.00%
+  Avg: 26.92%
+
+Metrics for key: 058_US
+  bool: 14.29%
+  str: 100.00%
+  num: 12.50%
+  list: 12.50%
+  Avg: 25.93%
+
+Metrics for key: 059_Second
+  bool: 50.00%
+  str: 25.00%
+  num: 25.00%
+  list: 0.00%
+  Avg: 20.83%
+
+Metrics for key: 060_Bakery
+  bool: 0.00%
+  str: 50.00%
+  num: 0.00%
+  list: 0.00%
+  Avg: 8.00%
+
+Metrics for key: 061_Disneyland
+  bool: 25.00%
+  str: 0.00%
+  num: 12.50%
+  list: 0.00%
+  Avg: 8.33%
+
+Metrics for key: 062_Trump
+  bool: 60.00%
+  str: 25.00%
+  num: 37.50%
+  list: 0.00%
+  Avg: 28.00%
+
+Metrics for key: 063_Influencers
+  bool: 50.00%
+  str: 0.00%
+  num: 25.00%
+  list: 0.00%
+  Avg: 16.67%
+
+Metrics for key: 064_Clustering
+  bool: 40.00%
+  str: 0.00%
+  num: 30.00%
+  list: 0.00%
+  Avg: 20.00%
+
+Metrics for key: 065_RFM
+  bool: 50.00%
+  str: 50.00%
+  num: 25.00%
+  list: 0.00%
+  Avg: 25.00%
+
+Aggregate Metrics:
+  bool: 37.41%
+  str: 34.27%
+  num: 22.93%
+  list: 3.92%
+  Avg: 21.24%
+
