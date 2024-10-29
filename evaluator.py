@@ -2,7 +2,7 @@ import pickle
 import json
 from collections import Counter
 
-with open('results/phi35_dp_sc_lite.json', 'r') as f:
+with open('results_gpt_dev.json', 'r') as f:
     data = json.load(f)
 
 # with open('results/results_13b.pkl', 'rb') as f:
@@ -211,6 +211,9 @@ def compute_metrics(data, use_self_consistency=False):
 
     # Iterate through each key in the data
     for key, value in data.items():
+        # if value if {}:
+            # write 20 empty lines
+            
         n_bool = 0
         n_list = 0
         n_str = 0
@@ -306,4 +309,4 @@ def compute_metrics(data, use_self_consistency=False):
     print()
 
 # Call the function with the flag for self-consistency
-compute_metrics(data, use_self_consistency=True)
+compute_metrics(data, use_self_consistency=False)

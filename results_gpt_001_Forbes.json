@@ -1,0 +1,152 @@
+{
+    "0": {
+        "question": "Is the person with the highest net worth self-made?",
+        "model_answer": "True\n",
+        "sample_answer": "False",
+        "answer": "True"
+    },
+    "1": {
+        "question": "Does the youngest billionaire identify as male?",
+        "model_answer": "False\n",
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "2": {
+        "question": "Is the city with the most billionaires in the United States?",
+        "model_answer": "True\n",
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "3": {
+        "question": "Is there a non-self-made billionaire in the top 5 ranks?",
+        "model_answer": "True\n",
+        "sample_answer": "False",
+        "answer": "True"
+    },
+    "4": {
+        "question": "Does the oldest billionaire have a philanthropy score of 5?",
+        "model_answer": "False\n",
+        "sample_answer": "False",
+        "answer": "False"
+    },
+    "5": {
+        "question": "What is the age of the youngest billionaire?",
+        "model_answer": "19.0\n",
+        "sample_answer": "32.0",
+        "answer": "19.0"
+    },
+    "6": {
+        "question": "How many billionaires are there from the 'Technology' category?",
+        "model_answer": null,
+        "sample_answer": "0",
+        "answer": "343"
+    },
+    "7": {
+        "question": "What's the total worth of billionaires in the 'Automotive' category?",
+        "model_answer": "583600\n",
+        "sample_answer": "0",
+        "answer": "583600"
+    },
+    "8": {
+        "question": "How many billionaires have a philanthropy score above 3?",
+        "model_answer": "25\n",
+        "sample_answer": "0",
+        "answer": "25"
+    },
+    "9": {
+        "question": "What's the rank of the wealthiest non-self-made billionaire?",
+        "model_answer": null,
+        "sample_answer": "288",
+        "answer": "3"
+    },
+    "10": {
+        "question": "Which category does the richest billionaire belong to?",
+        "model_answer": "Automotive\n",
+        "sample_answer": "Food & Beverage",
+        "answer": "Automotive"
+    },
+    "11": {
+        "question": "What's the country of origin of the oldest billionaire?",
+        "model_answer": "United States\n",
+        "sample_answer": "United Kingdom",
+        "answer": "United States"
+    },
+    "12": {
+        "question": "What's the gender of the billionaire with the highest philanthropy score?",
+        "model_answer": "M\n",
+        "sample_answer": "M",
+        "answer": "M"
+    },
+    "13": {
+        "question": "What's the source of wealth for the youngest billionaire?",
+        "model_answer": "drugstores\n",
+        "sample_answer": "fintech",
+        "answer": "drugstores"
+    },
+    "14": {
+        "question": "What is the title of the billionaire with the lowest rank?",
+        "model_answer": "CEO\n",
+        "sample_answer": null,
+        "answer": null
+    },
+    "15": {
+        "question": "List the top 3 countries with the most billionaires.",
+        "model_answer": "['United States', 'China', 'India']\n",
+        "sample_answer": "['United States', 'China', 'Brazil']",
+        "answer": "['United States', 'China', 'India']"
+    },
+    "16": {
+        "question": "List the top 5 sources of wealth for billionaires.",
+        "model_answer": "['real estate', 'investments', 'pharmaceuticals', 'diversified', 'software']\n",
+        "sample_answer": "['diversified', 'media, automotive', 'Semiconductor materials', 'WeWork', 'beverages']",
+        "answer": "['real estate', 'investments', 'pharmaceuticals', 'diversified', 'software']"
+    },
+    "17": {
+        "question": "List the top 4 cities where the youngest billionaires live.",
+        "model_answer": "['Austin', 'Ahmedabad', 'Hillsboro', 'Paris']\n",
+        "sample_answer": "['San Francisco', 'New York', 'Wuhan', 'Bangalore']",
+        "answer": "[nan, 'Los Angeles', 'Jiaozuo', 'Oslo']"
+    },
+    "18": {
+        "question": "List the bottom 3 categories with the fewest billionaires.",
+        "model_answer": "['Gambling & Casinos', 'Sports', 'Logistics']\n",
+        "sample_answer": "['Service', 'Fashion & Retail', 'Manufacturing']",
+        "answer": "['Logistics', 'Sports', 'Gambling & Casinos']"
+    },
+    "19": {
+        "question": "List the bottom 2 countries with the least number of billionaires.",
+        "model_answer": "['Andorra', 'Bahrain']\n",
+        "sample_answer": "['Canada', 'Egypt']",
+        "answer": "['Colombia', 'Andorra']"
+    },
+    "20": {
+        "question": "List the top 5 ranks of billionaires who are not self-made.",
+        "model_answer": "[3, 10, 14, 16, 18]\n",
+        "sample_answer": "[288, 296, 509, 523, 601]",
+        "answer": "[3, 10, 14, 16, 18]"
+    },
+    "21": {
+        "question": "List the bottom 3 ages of billionaires who have a philanthropy score of 5.",
+        "model_answer": "[48.0, 83.0, 83.0]\n",
+        "sample_answer": "[]",
+        "answer": "[48.0, 83.0, 83.0]"
+    },
+    "22": {
+        "question": "List the top 6 final worth values of billionaires in the 'Technology' category.",
+        "model_answer": "[171000, 129000, 111000, 107000, 106000, 91400]\n",
+        "sample_answer": "[]",
+        "answer": "[171000, 129000, 111000, 107000, 106000, 91400]"
+    },
+    "23": {
+        "question": "List the bottom 4 ranks of female billionaires.",
+        "model_answer": "[30, 21, 18, 14]\n",
+        "sample_answer": "[]",
+        "answer": "[14, 18, 21, 30]"
+    },
+    "24": {
+        "question": "List the top 2 final worth values of billionaires in the 'Automotive' category.",
+        "model_answer": null,
+        "sample_answer": "[]",
+        "answer": "[219000, 44800]"
+    }
+}

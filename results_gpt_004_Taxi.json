@@ -1,0 +1,122 @@
+{
+    "0": {
+        "question": "Are there any trips with a total distance greater than 30 miles?",
+        "model_answer": "False\n",
+        "sample_answer": "False",
+        "answer": "False"
+    },
+    "1": {
+        "question": "Were there any trips that cost more than $100 in total?",
+        "model_answer": "False\n",
+        "sample_answer": "False",
+        "answer": "False"
+    },
+    "2": {
+        "question": "Is there any trip with more than 6 passengers?",
+        "model_answer": "False\n",
+        "sample_answer": "False",
+        "answer": "False"
+    },
+    "3": {
+        "question": "Did all the trips use a payment type of either 1 or 2?",
+        "model_answer": "False\n",
+        "sample_answer": "True",
+        "answer": "False"
+    },
+    "4": {
+        "question": "What is the maximum fare amount charged for a trip?",
+        "model_answer": "75.25\n",
+        "sample_answer": "85.0",
+        "answer": "75.25"
+    },
+    "5": {
+        "question": "How many unique pickup locations are in the dataset?",
+        "model_answer": "96\n",
+        "sample_answer": "193",
+        "answer": "96"
+    },
+    "6": {
+        "question": "What is the average tip amount given by passengers?",
+        "model_answer": "2.7366808000000002\n",
+        "sample_answer": "1.5",
+        "answer": "2.74"
+    },
+    "7": {
+        "question": "How many trips took place in the airport area?",
+        "model_answer": "99807\n",
+        "sample_answer": "194",
+        "answer": "99807"
+    },
+    "8": {
+        "question": "Which payment type is the most common in the dataset?",
+        "model_answer": "1\n",
+        "sample_answer": "1",
+        "answer": "1"
+    },
+    "9": {
+        "question": "Which vendor has the most trips recorded?",
+        "model_answer": null,
+        "sample_answer": "2",
+        "answer": "2"
+    },
+    "10": {
+        "question": "What is the most common drop-off location?",
+        "model_answer": null,
+        "sample_answer": "161",
+        "answer": "236"
+    },
+    "11": {
+        "question": "On which date did the first recorded trip occur?",
+        "model_answer": "2023-01-31 23:50:15+00:00\n",
+        "sample_answer": "2019-01-01 00:46:40",
+        "answer": "2023-01-31"
+    },
+    "12": {
+        "question": "Which are the top 3 most frequent pickup locations?",
+        "model_answer": "[161, 237, 236]\n",
+        "sample_answer": "[237, 236, 161]",
+        "answer": "[161, 237, 236]"
+    },
+    "13": {
+        "question": "Name the 4 most common rate codes used.",
+        "model_answer": "[1, 2, 5, 4]\n",
+        "sample_answer": "[1, 2, 5, 3]",
+        "answer": "[1, 2, 5, 4]"
+    },
+    "14": {
+        "question": "list the 2 most frequent store and forward flags.",
+        "model_answer": "['N', 'Y']\n",
+        "sample_answer": "['N', 'Y']",
+        "answer": "['N', 'Y']"
+    },
+    "15": {
+        "question": "Identify the top 4 payment types used by frequency",
+        "model_answer": "[1, 2, 4, 3]\n",
+        "sample_answer": "[1, 2, 3]",
+        "answer": "[1, 2, 4, 3]"
+    },
+    "16": {
+        "question": "Report the 4 highest toll amounts paid.",
+        "model_answer": "[0, 0, 0, 0]\n",
+        "sample_answer": "[0, 0, 0, 0]",
+        "answer": "[0, 0, 0, 0]"
+    },
+    "17": {
+        "question": "list the top 3 longest trip distances",
+        "model_answer": "[19.83, 19.74, 19.68]\n",
+        "sample_answer": "[8.32, 5.93, 2.8]",
+        "answer": "[19.83, 19.74, 19.68]"
+    },
+    "18": {
+        "question": "Identify the 5 largest total amounts paid for trips.",
+        "model_answer": "[80.0, 80.0, 80.0, 80.0, 79.55]\n",
+        "sample_answer": "[45.8, 39.9, 33.2, 25.2, 24.87]",
+        "answer": "[80.0, 80.0, 80.0, 80.0, 79.55]"
+    },
+    "19": {
+        "question": "Report the 6 highest fare amounts charged.",
+        "model_answer": "[75.25, 74.4, 73.0, 73.0, 73.0, 73.0]\n",
+        "sample_answer": "[40.8, 28.9, 21.2, 17.0, 14.9, 13.5]",
+        "answer": "[75.25, 74.4, 73.0, 73.0, 73.0, 73.0]"
+    }
+}

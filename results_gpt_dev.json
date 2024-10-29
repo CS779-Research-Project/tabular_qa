@@ -1,0 +1,1922 @@
+{
+    "0": {
+        "question": "Is the most favorited author mainly communicating in Spanish?",
+        "model_answer": null,
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "1": {
+        "question": "Does the author with the longest name post mainly original content?",
+        "model_answer": null,
+        "sample_answer": "False",
+        "answer": "True"
+    },
+    "2": {
+        "question": "Is there an author who received no retweets for any of their posts?",
+        "model_answer": "True\n",
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "3": {
+        "question": "Are there any posts that do not contain any links?",
+        "model_answer": "True\n",
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "4": {
+        "question": "How many unique authors are in the dataset?",
+        "model_answer": "3765\n",
+        "sample_answer": "20",
+        "answer": "3765"
+    },
+    "5": {
+        "question": "What is the length of the longest post (based on the number of words)?",
+        "model_answer": "61\n",
+        "sample_answer": "49",
+        "answer": "61"
+    },
+    "6": {
+        "question": "What is the total number of retweets received by all authors in the dataset?",
+        "model_answer": "1243\n",
+        "sample_answer": "2",
+        "answer": "1243"
+    },
+    "7": {
+        "question": "How many posts do not contain any mentions of other users?",
+        "model_answer": null,
+        "sample_answer": "0",
+        "answer": "0"
+    },
+    "8": {
+        "question": "What is the name of the most retweeted author?",
+        "model_answer": "ING Espa\u00f1a\n",
+        "sample_answer": "ING enfurecido \ud83e\udd81",
+        "answer": "ING Espa\u00f1a"
+    },
+    "9": {
+        "question": "What is the language of the most favorited post?",
+        "model_answer": "es\n",
+        "sample_answer": "es",
+        "answer": "es"
+    },
+    "10": {
+        "question": "Who is the author of the post with the most words?",
+        "model_answer": "juan prin\n",
+        "sample_answer": "\ud83c\uddea\ud83c\uddf8 Bearded.LocutusBorg \ud83c\uddee\ud83c\uddea\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+        "answer": "juan prin"
+    },
+    "11": {
+        "question": "What type of post (original, reply, or other) is the most common in the dataset?",
+        "model_answer": "reply\n",
+        "sample_answer": "reply",
+        "answer": "reply"
+    },
+    "12": {
+        "question": "Who are the authors of the top 3 most retweeted posts?",
+        "model_answer": "['Lavincompae', '#NI UNA MENOS \\xa0\u2650\\xa0\u270a\\xa0\ud83d\udeba', 'SFC The World']\n",
+        "sample_answer": "[Manuel, ING enfurecido \ud83e\udd81, Albert Navarro]",
+        "answer": "['Lavincompae', '#NI UNA MENOS \\xa0\u2650\\xa0\u270a\\xa0\ud83d\udeba', 'SFC The World']"
+    },
+    "13": {
+        "question": "What are the languages of the 5 least favorited posts?",
+        "model_answer": "['es', 'es', 'es', 'es', 'es']\n",
+        "sample_answer": "[es, es, es, es, es]",
+        "answer": "['es', 'es', 'es', 'es', 'es']"
+    },
+    "14": {
+        "question": "Who are the authors of the 4 shortest posts (based on the number of words)?",
+        "model_answer": null,
+        "sample_answer": "[Vito!!, Albert Navarro, JEEVES, Leo Tarda]",
+        "answer": "['Correctorada', 'El Joker', 'Xenia Viladas', 'DrJaus \\xa0\ud83c\uddea\ud83c\uddf8']"
+    },
+    "15": {
+        "question": "What types of posts are the 6 most common in the dataset?",
+        "model_answer": "['reply', 'original']\n",
+        "sample_answer": "[reply, original]",
+        "answer": "['reply', 'original']"
+    },
+    "16": {
+        "question": "What are the retweet counts for the top 5 most favorited posts?",
+        "model_answer": "[0, 0, 0, 0, 3]\n",
+        "sample_answer": "[0, 1, 0, 1, 0]",
+        "answer": "[0, 0, 0, 0, 3]"
+    },
+    "17": {
+        "question": "What are the word counts of the 3 longest posts?",
+        "model_answer": "[61, 60, 59]\n",
+        "sample_answer": "[49, 44, 41]",
+        "answer": "[61, 60, 59]"
+    },
+    "18": {
+        "question": "What are the retweet counts of the 4 least favorited posts?",
+        "model_answer": null,
+        "sample_answer": "[0, 0, 0, 0]",
+        "answer": "[0, 0, 1, 0]"
+    },
+    "19": {
+        "question": "What are the word counts for the 6 shortest posts?",
+        "model_answer": null,
+        "sample_answer": "[2, 3, 4, 6, 12, 13]",
+        "answer": "[1, 1, 1, 1, 1, 1]"
+    },
+    "20": {
+        "question": "Is there a Pok\u00e9mon named 'Pikachu' in the dataset?",
+        "model_answer": "True\n",
+        "sample_answer": "False",
+        "answer": "True"
+    },
+    "21": {
+        "question": "Are there any Pok\u00e9mon with a total stat greater than 700?",
+        "model_answer": "True\n",
+        "sample_answer": "False",
+        "answer": "True"
+    },
+    "22": {
+        "question": "Are all Pok\u00e9mon in the first generation legendary?",
+        "model_answer": "False\n",
+        "sample_answer": "False",
+        "answer": "False"
+    },
+    "23": {
+        "question": "Is there any Pok\u00e9mon with a speed greater than 150?",
+        "model_answer": "True\n",
+        "sample_answer": "False",
+        "answer": "True"
+    },
+    "24": {
+        "question": "How many unique Pok\u00e9mon types are there in the 'type1' column?",
+        "model_answer": "20\n",
+        "sample_answer": "20",
+        "answer": "20"
+    },
+    "25": {
+        "question": "What's the highest total stat value found in the dataset?",
+        "model_answer": "1125\n",
+        "sample_answer": "1125",
+        "answer": "1125"
+    },
+    "26": {
+        "question": "How many Pok\u00e9mon are there in the third generation?",
+        "model_answer": "160\n",
+        "sample_answer": "160",
+        "answer": "160"
+    },
+    "27": {
+        "question": "What is the average attack stat for all Pok\u00e9mon?",
+        "model_answer": "80.93843283582089\n",
+        "sample_answer": "80.94",
+        "answer": "80.94"
+    },
+    "28": {
+        "question": "What is the primary type of the Pok\u00e9mon with the highest defense stat?",
+        "model_answer": "Poison\n",
+        "sample_answer": "Poison",
+        "answer": "Poison"
+    },
+    "29": {
+        "question": "Which Pok\u00e9mon has the lowest speed stat?",
+        "model_answer": "Shuckle\n",
+        "sample_answer": "Shuckle",
+        "answer": "Shuckle"
+    },
+    "30": {
+        "question": "What secondary type is the most common among legendary Pok\u00e9mon?",
+        "model_answer": null,
+        "sample_answer": "Flying",
+        "answer": "Flying"
+    },
+    "31": {
+        "question": "Which Pok\u00e9mon has the highest special attack and what is its primary type?",
+        "model_answer": "Psychic\n",
+        "sample_answer": "Mega Mewtwo Y (Psychic)",
+        "answer": "Mega Mewtwo Y (Psychic)"
+    },
+    "32": {
+        "question": "Name the top 3 Pok\u00e9mon with the highest total stats.",
+        "model_answer": "['Eternamax Eternatus', 'Mega Mewtwo X', 'Mega Rayquaza']\n",
+        "sample_answer": "['Eternamax Eternatus', 'Mega Mewtwo X', 'Mega Mewtwo Y']",
+        "answer": "['Eternamax Eternatus', 'Mega Mewtwo X', 'Mega Mewtwo Y']"
+    },
+    "33": {
+        "question": "Which 5 Pok\u00e9mon have the lowest hp stats?",
+        "model_answer": "['Shedinja', 'Alolan Diglett', 'Diglett', 'Duskull', 'Shuckle']\n",
+        "sample_answer": "['Shedinja', 'Diglett', 'Alolan Diglett', 'Magikarp', 'Pichu']",
+        "answer": "['Shedinja', 'Diglett', 'Alolan Diglett', 'Magikarp', 'Pichu']"
+    },
+    "34": {
+        "question": "Name the top 4 primary categories that have the most Pok\u00e9mon.",
+        "model_answer": "['Water', 'Normal', 'Grass', 'Bug']\n",
+        "sample_answer": "['Water', 'Normal', 'Grass', 'Bug']",
+        "answer": "['Water', 'Normal', 'Grass', 'Bug']"
+    },
+    "35": {
+        "question": "Which 6 Pok\u00e9mon from the second generation have the highest attack stats?",
+        "model_answer": "['Mega Heracross', 'Mega Tyranitar', 'Mega Scizor', 'Tyranitar', 'Ho-oh', 'Scizor']\n",
+        "sample_answer": "['Mega Heracross', 'Mega Tyranitar', 'Mega Scizor', 'Tyranitar', 'Scizor', 'Ursaring']",
+        "answer": "['Mega Heracross', 'Mega Tyranitar', 'Mega Scizor', 'Tyranitar', 'Scizor', 'Ursaring']"
+    },
+    "36": {
+        "question": "What are the top 5 special defense stats in the dataset?",
+        "model_answer": "[250, 230, 200, 160, 160]\n",
+        "sample_answer": "[250, 230, 200, 160, 160]",
+        "answer": "[250, 230, 200, 160, 160]"
+    },
+    "37": {
+        "question": "list the bottom 3 defense stats of legendary Pok\u00e9mon.",
+        "model_answer": "[20, 31, 50]\n",
+        "sample_answer": "[20, 31, 50]",
+        "answer": "[20, 31, 50]"
+    },
+    "38": {
+        "question": "What are the 4 highest speed stats of Pok\u00e9mon in the fourth generation?",
+        "model_answer": "['Mega Lopunny', 'Shaymin Sky Forme', 'Weavile', 'Darkrai']\n",
+        "sample_answer": "[135, 127, 125, 125]",
+        "answer": "[135, 127, 125, 125]"
+    },
+    "39": {
+        "question": "list the 6 lowest total stats of non-legendary Pok\u00e9mon.",
+        "model_answer": "['Wishiwashi Solo Forme', 'Sunkern', 'Blipbug', 'Snom', 'Azurill', 'Kricketot']\n",
+        "sample_answer": "[175, 180, 180, 185, 190, 194]",
+        "answer": "[175, 180, 180, 185, 190, 194]"
+    },
+    "40": {
+        "question": "Is the maximum level of Extraversion greater than the maximum level of Agreeableness?",
+        "model_answer": "True\n",
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "41": {
+        "question": "Is the profession with the highest Openness the same as the profession with the highest Conscientousness?",
+        "model_answer": null,
+        "sample_answer": "False",
+        "answer": "False"
+    },
+    "42": {
+        "question": "Does the profession with the lowest Emotional_Range also have the lowest level of Conversation?",
+        "model_answer": "False\n",
+        "sample_answer": "False",
+        "answer": "False"
+    },
+    "43": {
+        "question": "Is the average level of Openness to Change higher than the average level of Hedonism?",
+        "model_answer": "True\n",
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "44": {
+        "question": "What is the maximum value of Self-enhancement across all professions?",
+        "model_answer": "0.7826336180787501\n",
+        "sample_answer": "0.6291001325102317",
+        "answer": "0.7826336180787501"
+    },
+    "45": {
+        "question": "How many professions have an Emotional_Range above 0.5?",
+        "model_answer": "1002\n",
+        "sample_answer": "18",
+        "answer": "1002"
+    },
+    "46": {
+        "question": "What is the average Extraversion level for the profession with the highest number of records (n)?",
+        "model_answer": "0.1630021588198609\n",
+        "sample_answer": "0.3521943338191243",
+        "answer": "0.373214039767641"
+    },
+    "47": {
+        "question": "What is the minimum level of Self-transcendence?",
+        "model_answer": "0.035364139619357415\n",
+        "sample_answer": "0.0355792960526332",
+        "answer": "0.0353641396193574"
+    },
+    "48": {
+        "question": "What profession has the highest level of Conscientiousness?",
+        "model_answer": null,
+        "sample_answer": "U.S. Representative",
+        "answer": "Policy Officer"
+    },
+    "49": {
+        "question": "What is the profession with the lowest level of Hedonism?",
+        "model_answer": "Governor\n",
+        "sample_answer": "U.S. Representative",
+        "answer": "Governor"
+    },
+    "50": {
+        "question": "Which profession has the highest Emotional_Range?",
+        "model_answer": "Mortgage Banker\n",
+        "sample_answer": "U.S. Representative",
+        "answer": "Mortgage Banker"
+    },
+    "51": {
+        "question": "What is the profession with the highest number of records (n)?",
+        "model_answer": "Program Manager\n",
+        "sample_answer": "Data Analyst",
+        "answer": "Program Manager"
+    },
+    "52": {
+        "question": "What are the top 3 professions with the highest Openness?",
+        "model_answer": "['Book Publisher', 'Bureau Chief', 'Publisher']\n",
+        "sample_answer": "['User Experience Designer (UX Designer)', 'Sustainability Coach', 'Insurance Writer']",
+        "answer": "['Book Publisher', 'Bureau Chief', 'Publisher']"
+    },
+    "53": {
+        "question": "Which are the bottom 4 professions in terms of Agreeableness?",
+        "model_answer": "",
+        "sample_answer": "['Automation Engineer', 'Stock Trader', 'Data Analyst', 'User Experience Designer (UX Designer)']",
+        "answer": "['.Net Architect', 'Android Developer', 'Principal Engineer', 'Game Engineer']"
+    },
+    "54": {
+        "question": "List the top 5 professions with the highest Conversation levels.",
+        "model_answer": null,
+        "sample_answer": "['U.S. Representative', 'Media Executive', 'Bookkeeper', 'Music Promoter', 'Director of Sales Marketing']",
+        "answer": "['Director of Athletics', 'Recruiting Coordinator', 'Athletic Coordinator', 'Director of Personnel', 'Skills Trainer']"
+    },
+    "55": {
+        "question": "Name the bottom 2 professions in terms of Self-enhancement.",
+        "model_answer": null,
+        "sample_answer": "['U.S. Representative', 'Examiner']",
+        "answer": "['U.S. Senator', 'Congressman']"
+    },
+    "56": {
+        "question": "What are the top 3 values of Openness to Change across all professions?",
+        "model_answer": "[0.31115896047562774, 0.3094030039323532, 0.3931354338636937]\n",
+        "sample_answer": "[0.5907415983292473, 0.5853143224995465, 0.5741970926130652]",
+        "answer": "[0.7557249985959847, 0.7413189187628788, 0.7034528053640179]"
+    },
+    "57": {
+        "question": "List the bottom 4 Emotional_Range values.",
+        "model_answer": "[0.16523815696640565, 0.20054280643241226, 0.22155461168552476, 0.2506791678499942]\n",
+        "sample_answer": "[0.3282629326553239, 0.3454430761347227, 0.5168284093531004, 0.5454469457823092]",
+        "answer": "[0.1652381569664056, 0.2005428064324122, 0.2215546116855247, 0.2506791678499942]"
+    },
+    "58": {
+        "question": "What are the highest 5 levels of Extraversion?",
+        "model_answer": null,
+        "sample_answer": "[0.7997301042051191, 0.7874815418605556, 0.786896532913159, 0.7780772474605324, 0.7595518653914357]",
+        "answer": "[0.9794365922809228, 0.9723660656030668, 0.954299437125917, 0.9362989453985364, 0.9307917067583288]"
+    },
+    "59": {
+        "question": "Name the lowest 6 levels of Self-transcendence.",
+        "model_answer": "[0.035364139619357415, 0.035579296052633214, 0.0399752446723049, 0.05732806625856246, 0.059109906308533855, 0.05927817925717627]\n",
+        "sample_answer": "[0.0355792960526332, 0.1108088371055385, 0.1436964701751416, 0.1772058461581069, 0.2179965189872425, 0.2289998631350671]",
+        "answer": "[0.0353641396193574, 0.0355792960526332, 0.0399752446723049, 0.0573280662585624, 0.0591099063085338, 0.0592781792571762]"
+    },
+    "60": {
+        "question": "Is there a patent related to 'communication' in the title?",
+        "model_answer": "True\n",
+        "sample_answer": "True",
+        "answer": "False"
+    },
+    "61": {
+        "question": "Are there patents associated with the organization 'IBM'?",
+        "model_answer": "False\n",
+        "sample_answer": "False",
+        "answer": "False"
+    },
+    "62": {
+        "question": "Is there a patent abstract that mentions 'software'?",
+        "model_answer": "True\n",
+        "sample_answer": "False",
+        "answer": "True"
+    },
+    "63": {
+        "question": "Are there patents of the 'design' type?",
+        "model_answer": "",
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "64": {
+        "question": "How many unique organizations have patents listed?",
+        "model_answer": "3574\n",
+        "sample_answer": "18",
+        "answer": "3574"
+    },
+    "65": {
+        "question": "On average, how many claims do the patents have?",
+        "model_answer": "14.745974597459746\n",
+        "sample_answer": "17.65",
+        "answer": "14.745974597459746"
+    },
+    "66": {
+        "question": "What's the highest number of claims a patent has?",
+        "model_answer": null,
+        "sample_answer": "41",
+        "answer": "100"
+    },
+    "67": {
+        "question": "How many patents are of 'utility' type?",
+        "model_answer": "8848\n",
+        "sample_answer": "19",
+        "answer": "8848"
+    },
+    "68": {
+        "question": "Which organization has the patent with the highest number of claims?",
+        "model_answer": "International Business Machines Corporation\n",
+        "sample_answer": "Samsung Electronics Co., Ltd.",
+        "answer": "Massachusetts Institute of Technology"
+    },
+    "69": {
+        "question": "Which kind of patent is the most common?",
+        "model_answer": "B2\n",
+        "sample_answer": "B2",
+        "answer": "B2"
+    },
+    "70": {
+        "question": "In which language are the patents written?",
+        "model_answer": null,
+        "sample_answer": "en",
+        "answer": "en"
+    },
+    "71": {
+        "question": "Which graphext cluster is the most common among the patents?",
+        "model_answer": "",
+        "sample_answer": "video, display, mobile, content",
+        "answer": "member, portion, body, end"
+    },
+    "72": {
+        "question": "Which are the top 3 organizations with the most patents?",
+        "model_answer": "",
+        "sample_answer": "['Samsung Electronics Co., Ltd.', 'HYUNDAI MOBIS CO., LTD.', 'Children's Hospital Medical Center']",
+        "answer": "['International Business Machines Corporation', 'Samsung Electronics Co., Ltd.', 'Google Inc.']"
+    },
+    "73": {
+        "question": "List the 4 most common types of patents in the dataset.",
+        "model_answer": "['utility', 'design', 'plant', 'reissue']\n",
+        "sample_answer": "['utility', 'design']",
+        "answer": "['utility', 'design', 'plant', 'reissue']"
+    },
+    "74": {
+        "question": "Which 5 kinds of patents are the most prevalent?",
+        "model_answer": "['B2', 'S1', 'B1', 'P2', 'P3']\n",
+        "sample_answer": "['B2', 'S1']",
+        "answer": "['B2', 'S1', 'B1', 'P2', 'P3']"
+    },
+    "75": {
+        "question": "List 2 least common graphext clusters among the patents.",
+        "model_answer": "['habit, plant, foliage, flowers', 'soybean, plant, cultivar, soybean cultivar']\n",
+        "sample_answer": "['+, +1, -based, -based crystal', 'voltage, power, current, circuit']",
+        "answer": "['habit, plant, foliage, flowers', 'soybean, plant, cultivar, soybean cultivar']"
+    },
+    "76": {
+        "question": "What are the top 4 numbers of claims in the patents?",
+        "model_answer": "[20, 1, 18, 19]\n",
+        "sample_answer": "[12, 18, 7, 13]",
+        "answer": "[20, 1, 18, 19]"
+    },
+    "77": {
+        "question": "List the 3 patents (by ID) with the most number of claims.",
+        "model_answer": "",
+        "sample_answer": "[9479911.0, 9323438.0, 9480043.0]",
+        "answer": "[9479771.0, 9325365.0, 9323284.0]"
+    },
+    "78": {
+        "question": "Which 5 patents (by ID) have the most targets associated?",
+        "model_answer": "[9320804.0, 9320806.0, 9321092.0, 9480020.0, 9247502.0]\n",
+        "sample_answer": "[932136912.0, 9480043.0, 9323438.0, 9246982.0, 9323057.0]",
+        "answer": "[29, 30, 46, 51, 70]"
+    },
+    "79": {
+        "question": "List the 6 most recent patents by their ID.",
+        "model_answer": "[9479476.0, nan, nan, nan, nan, nan]\n",
+        "sample_answer": "[9480043.0, 9479911.0, 9480049.0, 9321442.0, 9323438.0, 9324689.0]",
+        "answer": "[9479476.0, 9479477.0, 9479478.0, 9479479.0, 9479480.0, 9479481.0]"
+    },
+    "80": {
+        "question": "Has the author with the highest number of followers ever been verified?",
+        "model_answer": null,
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "81": {
+        "question": "Is the author who has the most favourites also the one with the most retweets?",
+        "model_answer": null,
+        "sample_answer": "True",
+        "answer": "False"
+    },
+    "82": {
+        "question": "Is the most mentioned user also the most retweeted user?",
+        "model_answer": null,
+        "sample_answer": "False",
+        "answer": "False"
+    },
+    "83": {
+        "question": "Does the author with the most retweets also have the most replies?",
+        "model_answer": null,
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "84": {
+        "question": "What is the maximum number of followers an author in the dataset has?",
+        "model_answer": null,
+        "sample_answer": "30308043",
+        "answer": "0.7826336180787501"
+    },
+    "85": {
+        "question": "How many authors have more than 10,000 favourites?",
+        "model_answer": null,
+        "sample_answer": "0",
+        "answer": "1002"
+    },
+    "86": {
+        "question": "How many retweets does the most retweeted tweet have?",
+        "model_answer": null,
+        "sample_answer": "50625",
+        "answer": "0.373214039767641"
+    },
+    "87": {
+        "question": "How many times has the most mentioned user been mentioned?",
+        "model_answer": null,
+        "sample_answer": "16",
+        "answer": "0.0353641396193574"
+    },
+    "88": {
+        "question": "Who is the author with the most followers?",
+        "model_answer": null,
+        "sample_answer": "Joe Biden",
+        "answer": "Policy Officer"
+    },
+    "89": {
+        "question": "Who is the author with the highest number of favourites?",
+        "model_answer": null,
+        "sample_answer": "Joe Biden",
+        "answer": "Governor"
+    },
+    "90": {
+        "question": "What is the name of the user who is most often mentioned?",
+        "model_answer": null,
+        "sample_answer": "[]",
+        "answer": "Mortgage Banker"
+    },
+    "91": {
+        "question": "Who is the author of the tweet with the most retweets?",
+        "model_answer": null,
+        "sample_answer": "Joe Biden",
+        "answer": "Program Manager"
+    },
+    "92": {
+        "question": "Who are the top 3 authors with the most followers?",
+        "model_answer": null,
+        "sample_answer": "['Joe Biden', 'Joe Biden', 'Joe Biden']",
+        "answer": "['Book Publisher', 'Bureau Chief', 'Publisher']"
+    },
+    "93": {
+        "question": "Who are the top 4 authors with the most favourites?",
+        "model_answer": null,
+        "sample_answer": "['Joe Biden', 'Joe Biden', 'Joe Biden', 'Joe Biden']",
+        "answer": "['.Net Architect', 'Android Developer', 'Principal Engineer', 'Game Engineer']"
+    },
+    "94": {
+        "question": "Who are the 5 users who are mentioned the most often?",
+        "model_answer": null,
+        "sample_answer": "['[]', '[305818748]', '[282721598]', '[21829541]', '[50348682]']",
+        "answer": "['Director of Athletics', 'Recruiting Coordinator', 'Athletic Coordinator', 'Director of Personnel', 'Skills Trainer']"
+    },
+    "95": {
+        "question": "Who are the top 2 authors of the tweets with the most retweets?",
+        "model_answer": null,
+        "sample_answer": "['Joe Biden', 'Joe Biden']",
+        "answer": "['U.S. Senator', 'Congressman']"
+    },
+    "96": {
+        "question": "What are the top 3 numbers of followers in the dataset?",
+        "model_answer": null,
+        "sample_answer": "[30212707, 30212712, 30212708]",
+        "answer": "[0.7557249985959847, 0.7413189187628788, 0.7034528053640179]"
+    },
+    "97": {
+        "question": "What are the top 4 numbers of favourites an author in the dataset has?",
+        "model_answer": null,
+        "sample_answer": "[20]",
+        "answer": "[0.1652381569664056, 0.2005428064324122, 0.2215546116855247, 0.2506791678499942]"
+    },
+    "98": {
+        "question": "What are the 5 highest numbers of times a user is mentioned?",
+        "model_answer": null,
+        "sample_answer": "[16, 1, 1, 1, 1]",
+        "answer": "[0.9794365922809228, 0.9723660656030668, 0.954299437125917, 0.9362989453985364, 0.9307917067583288]"
+    },
+    "99": {
+        "question": "What are the 2 highest numbers of retweets a tweet in the dataset has?",
+        "model_answer": "[205169, 101314]\n",
+        "sample_answer": "[399, 6866]",
+        "answer": "[0.0353641396193574, 0.0355792960526332]"
+    },
+    "100": {
+        "question": "Is the borrower with the highest loan amount also the one with the longest loan duration?",
+        "model_answer": "True\n",
+        "sample_answer": "False",
+        "answer": "False"
+    },
+    "101": {
+        "question": "Does the borrower with the maximum number of existing loans also have the highest loan amount?",
+        "model_answer": "False\n",
+        "sample_answer": "True",
+        "answer": "False"
+    },
+    "102": {
+        "question": "Does the borrower with the longest loan duration also have the maximum number of existing loans?",
+        "model_answer": null,
+        "sample_answer": "False",
+        "answer": "False"
+    },
+    "103": {
+        "question": "Does the oldest borrower also have the highest loan amount?",
+        "model_answer": "False\n",
+        "sample_answer": "False",
+        "answer": "False"
+    },
+    "104": {
+        "question": "What is the highest loan amount in the dataset?",
+        "model_answer": "18424\n",
+        "sample_answer": "8613",
+        "answer": "18424"
+    },
+    "105": {
+        "question": "How many borrowers have more than 1 existing loan?",
+        "model_answer": "367\n",
+        "sample_answer": "7",
+        "answer": "367"
+    },
+    "106": {
+        "question": "What is the longest loan duration in the dataset?",
+        "model_answer": "72\n",
+        "sample_answer": "60",
+        "answer": "72"
+    },
+    "107": {
+        "question": "How many borrowers are older than 50?",
+        "model_answer": "113\n",
+        "sample_answer": "2",
+        "answer": "113"
+    },
+    "108": {
+        "question": "What is the most common purpose of loans?",
+        "model_answer": "Radio/TV\n",
+        "sample_answer": "Radio/TV",
+        "answer": "Radio/TV"
+    },
+    "109": {
+        "question": "What is the most common job category for borrowers?",
+        "model_answer": "Skilled\n",
+        "sample_answer": "Skilled",
+        "answer": "Skilled"
+    },
+    "110": {
+        "question": "What is the most common credit history category for borrowers?",
+        "model_answer": "Existing Credits Paid Back Duly Till Now\n",
+        "sample_answer": "Existing Credits Paid Back Duly Till Now",
+        "answer": "Existing Credits Paid Back Duly Till Now"
+    },
+    "111": {
+        "question": "What is the most common savings account status for borrowers?",
+        "model_answer": "Less than 100 DM\n",
+        "sample_answer": "Less than 100 DM",
+        "answer": "Less than 100 DM"
+    },
+    "112": {
+        "question": "What are the top 3 jobs of borrowers with the highest loan amount?",
+        "model_answer": "['Skilled', 'Highly Skilled', 'Unskilled - Resident']\n",
+        "sample_answer": "['Skilled', 'Skilled', 'Highly Skilled']",
+        "answer": "['Highly Skilled', 'Skilled', 'Highly Skilled']"
+    },
+    "113": {
+        "question": "What are the top 4 jobs of borrowers with the longest loan duration?",
+        "model_answer": "['Highly Skilled', 'Skilled', 'Unemployed / Unskilled  - Non-Resident', 'Unskilled - Resident']\n",
+        "sample_answer": "['Skilled', 'Skilled', 'Skilled', 'Highly Skilled']",
+        "answer": "['Skilled', 'Skilled', 'Skilled', 'Unskilled - Resident']"
+    },
+    "114": {
+        "question": "What are the 5 jobs of borrowers with the maximum number of existing loans?",
+        "model_answer": "['Skilled', 'Unskilled - Resident', 'Highly Skilled', 'Unemployed / Unskilled  - Non-Resident']\n",
+        "sample_answer": "['Highly Skilled', 'Skilled', 'Skilled', 'Skilled', 'Unemployed / Unskilled  - Non-Resident']",
+        "answer": "['Skilled', 'Skilled', 'Unskilled - Resident', 'Highly Skilled', 'Skilled']"
+    },
+    "115": {
+        "question": "What are the jobs of the oldest 2 borrowers?",
+        "model_answer": "['Highly Skilled', 'Highly Skilled']\n",
+        "sample_answer": "['Unemployed / Unskilled  - Non-Resident', 'Unskilled - Resident']",
+        "answer": "['Highly Skilled', 'Highly Skilled']"
+    },
+    "116": {
+        "question": "What are the top 3 loan amounts in the dataset?",
+        "model_answer": "",
+        "sample_answer": "[3190, 4380, 2124]",
+        "answer": "[18424, 15945, 15857]"
+    },
+    "117": {
+        "question": "What are the top 4 loan durations in the dataset?",
+        "model_answer": "[72, 60, 54, 48]\n",
+        "sample_answer": "[18, 24, 12, 6]",
+        "answer": "[72, 60, 60, 60]"
+    },
+    "118": {
+        "question": "What are the 5 maximum numbers of existing loans among borrowers?",
+        "model_answer": "[4, 4, 4, 4, 4]\n",
+        "sample_answer": "[1, 2]",
+        "answer": "[4, 4, 4, 4, 4]"
+    },
+    "119": {
+        "question": "What are the ages of the top 2 oldest borrowers?",
+        "model_answer": null,
+        "sample_answer": "[65, 64]",
+        "answer": "[75, 75]"
+    },
+    "120": {
+        "question": "Are there any foods with zero calories?",
+        "model_answer": "False\n",
+        "sample_answer": "False",
+        "answer": "False"
+    },
+    "121": {
+        "question": "Do all foods contain sugar?",
+        "model_answer": "True\n",
+        "sample_answer": "False",
+        "answer": "False"
+    },
+    "122": {
+        "question": "Are there any foods that contain no fat at all?",
+        "model_answer": "True\n",
+        "sample_answer": "False",
+        "answer": "True"
+    },
+    "123": {
+        "question": "Are there foods that do not contain protein?",
+        "model_answer": "True\n",
+        "sample_answer": "False",
+        "answer": "True"
+    },
+    "124": {
+        "question": "How many foods have more than 500 kcal?",
+        "model_answer": "0\n",
+        "sample_answer": "0",
+        "answer": "0"
+    },
+    "125": {
+        "question": "What is the average amount of total fat (in grams) across all foods?",
+        "model_answer": "0.08465\n",
+        "sample_answer": "0.06386499999999999",
+        "answer": "0.08465"
+    },
+    "126": {
+        "question": "How many foods have a sodium content of more than 1 gram?",
+        "model_answer": "18\n",
+        "sample_answer": "5",
+        "answer": "18"
+    },
+    "127": {
+        "question": "What's the highest amount of protein (in grams) found in a food item?",
+        "model_answer": "0.2748\n",
+        "sample_answer": "0.2403",
+        "answer": "0.2748"
+    },
+    "128": {
+        "question": "What food has the highest calorie content?",
+        "model_answer": "bacon\n",
+        "sample_answer": "chocolate bar",
+        "answer": "bacon"
+    },
+    "129": {
+        "question": "Which food contains the most sugar?",
+        "model_answer": null,
+        "sample_answer": "chocolate bar",
+        "answer": "honey"
+    },
+    "130": {
+        "question": "What is the food with the least amount of total fat?",
+        "model_answer": "honey\n",
+        "sample_answer": "pineapple",
+        "answer": "honey"
+    },
+    "131": {
+        "question": "Which food has the highest amount of protein?",
+        "model_answer": "beef\n",
+        "sample_answer": "chicken",
+        "answer": "beef"
+    },
+    "132": {
+        "question": "List the top 5 foods with the most calories.",
+        "model_answer": "['bacon', 'peanuts', 'chocolate bar', 'popcorn', 'cookie']\n",
+        "sample_answer": "[chocolate bar, cookie, french fries, bread, hotdog]",
+        "answer": "['bacon', 'peanuts', 'chocolate bar', 'popcorn', 'cookie']"
+    },
+    "133": {
+        "question": "Identify the top 3 foods with the least amount of sugar.",
+        "model_answer": "['pancakes', 'sake', 'black tea']\n",
+        "sample_answer": "[milk, cookie, hotdog]",
+        "answer": "['chestnut', 'pancakes', 'cheese']"
+    },
+    "134": {
+        "question": "Enumerate the 4 foods with the most total fat.",
+        "model_answer": "['bacon', 'peanuts', 'cheese', 'popcorn']\n",
+        "sample_answer": "[chocolate bar, cookie, hotdog, french fries]",
+        "answer": "['bacon', 'peanuts', 'cheese', 'popcorn']"
+    },
+    "135": {
+        "question": "Name the 6 foods with the least amount of protein.",
+        "model_answer": "['black tea', 'candy', 'champagne', 'bacon', 'red wine', 'red apple']\n",
+        "sample_answer": "[green apple, pineapple, strawberry, grapes, tangerine, banana]",
+        "answer": "['candy', 'black tea', 'bacon', 'champagne', 'red wine', 'red apple']"
+    },
+    "136": {
+        "question": "List the 5 highest calorie counts found in the dataset.",
+        "model_answer": "[8.98, 5.67, 5.18, 5.0, 4.97]\n",
+        "sample_answer": "[5.18, 4.97, 3.12, 2.74, 2.47]",
+        "answer": "[8.98, 5.67, 5.18, 5.0, 4.97]"
+    },
+    "137": {
+        "question": "What are the 3 lowest amounts of sugar found among the foods?",
+        "model_answer": null,
+        "sample_answer": "[0.0, 0.0, 0.0]",
+        "answer": "[0.0, 0.0, 0.0]"
+    },
+    "138": {
+        "question": "Enumerate the 4 highest amounts of total fat found in the foods.",
+        "model_answer": null,
+        "sample_answer": "[0.2599, 0.252, 0.1484, 0.1473]",
+        "answer": "[0.995, 0.4924, 0.3099, 0.281]"
+    },
+    "139": {
+        "question": "What are the top 6 lowest amounts of protein found in the dataset?",
+        "model_answer": null,
+        "sample_answer": "[0.0044, 0.0054, 0.0067, 0.0072, 0.0081, 0.0109]",
+        "answer": "[0.0, 0.0, 0.0007, 0.0007, 0.0007, 0.002]"
+    },
+    "140": {
+        "question": "Are there any respondents who didn't complete primary education?",
+        "model_answer": "True\n",
+        "sample_answer": "False",
+        "answer": "True"
+    },
+    "141": {
+        "question": "Are all respondents interested in politics?",
+        "model_answer": "False\n",
+        "sample_answer": "False",
+        "answer": "False"
+    },
+    "142": {
+        "question": "Did any respondent indicate that they will not vote?",
+        "model_answer": null,
+        "sample_answer": "False",
+        "answer": "True"
+    },
+    "143": {
+        "question": "Did any respondent place themselves at the extreme right of the Left-Right economic values axis?",
+        "model_answer": "False\n",
+        "sample_answer": "False",
+        "answer": "True"
+    },
+    "144": {
+        "question": "How many respondents placed themselves at 10 on the Progressive-Conservative economic values axis?",
+        "model_answer": null,
+        "sample_answer": "0",
+        "answer": "372"
+    },
+    "145": {
+        "question": "What is the average age of the respondents?",
+        "model_answer": "37.420120593188116\n",
+        "sample_answer": "38.72222222222222",
+        "answer": "37.420120593188116"
+    },
+    "146": {
+        "question": "How many respondents think it should be more difficult for companies to lay off workers?",
+        "model_answer": null,
+        "sample_answer": "0",
+        "answer": "10344"
+    },
+    "147": {
+        "question": "What's the maximum age among the respondents who prefer not to disclose their gender?",
+        "model_answer": null,
+        "sample_answer": null,
+        "answer": "105.0"
+    },
+    "148": {
+        "question": "Which is the most common vote intention among respondents?",
+        "model_answer": "['Ciudadanos']\n",
+        "sample_answer": "[Ciudadanos]",
+        "answer": "[Ciudadanos]"
+    },
+    "149": {
+        "question": "What is the most common reason for voting given by respondents?",
+        "model_answer": "",
+        "sample_answer": "The party ideas are close to my own",
+        "answer": "The party ideas are close to my own"
+    },
+    "150": {
+        "question": "Which is the most common party identification among respondents?",
+        "model_answer": "Ciudadanos\n",
+        "sample_answer": "Ciudadanos",
+        "answer": "Ciudadanos"
+    },
+    "151": {
+        "question": "What is the most common first language among respondents?",
+        "model_answer": "Castellano\n",
+        "sample_answer": "Castellano",
+        "answer": "Castellano"
+    },
+    "152": {
+        "question": "List the top 5 most common vote intentions among respondents.",
+        "model_answer": "[array(['Ciudadanos'], dtype=object), array(['I am undeceided'], dtype=object), array(['Podemos'], dtype=object), array(['PP'], dtype=object), array(['I prefer not to say'], dtype=object)]\n",
+        "sample_answer": "[Ciudadanos, I prefer not to say, [], I am undeceided, Podemos]",
+        "answer": "['[Ciudadanos]', '[]', '[I am undeceided]', '[Podemos]', '[PP]']"
+    },
+    "153": {
+        "question": "Identify the top 3 most common reasons for voting among respondents.",
+        "model_answer": "['The party ideas are close to my own', 'The party is the most competent', 'I prefer not to say']\n",
+        "sample_answer": "[The party ideas are close to my own, The party is the most competent, I prefer not to say]",
+        "answer": "['The party ideas are close to my own', 'The party is the most competent', 'I prefer not to say']"
+    },
+    "154": {
+        "question": "Enumerate the top 4 most common party identifications among respondents.",
+        "model_answer": "['Ciudadanos', 'PP', 'I prefer not to say', 'Podemos']\n",
+        "sample_answer": "[Ciudadanos, I prefer not to say, PSOE, PP]",
+        "answer": "['Ciudadanos', 'PP', 'I prefer not to say', 'Podemos']"
+    },
+    "155": {
+        "question": "Name the top 6 most common first languages among respondents.",
+        "model_answer": "['Castellano', 'Catal\ufffd', 'Galego', 'Euskara']\n",
+        "sample_answer": "[Castellano]",
+        "answer": "['Castellano', 'Catal\ufffd', 'Galego', 'Euskara']"
+    },
+    "156": {
+        "question": "List the top 5 most common ages among respondents.",
+        "model_answer": null,
+        "sample_answer": "[33.0, 38.0, 22.0, 55.0, 37.0]",
+        "answer": "[38.0, 23.0, 39.0, 25.0, 35.0]"
+    },
+    "157": {
+        "question": "What are the top 3 most common positions on the Left-Right economic values axis?",
+        "model_answer": "[5.0, 3.0, 6.0]\n",
+        "sample_answer": "[5.0, 6.0, 3.0]",
+        "answer": "[5.0, 3.0, 6.0]"
+    },
+    "158": {
+        "question": "Enumerate the top 4 most common positions on the Progressive-Conservative economic values axis.",
+        "model_answer": null,
+        "sample_answer": "[5.0, 3.0, 0.0, 4.0]",
+        "answer": "[5.0, 3.0, 4.0, 0.0]"
+    },
+    "159": {
+        "question": "What are the top 6 most common positions on the 'Constitutional organisation of the country (More Descentralization)' scale?",
+        "model_answer": "[2.0, 3.0, 4.0, 1.0, 5.0]\n",
+        "sample_answer": "[2.0, 4.0, 3.0]",
+        "answer": "[2.0, 3.0, 4.0, 1.0, 5.0]"
+    },
+    "160": {
+        "question": "Are there survey participants who are not registered to vote?",
+        "model_answer": "False\n",
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "161": {
+        "question": "Are there any respondents who participated in the 2016 Presidential election (four years ago) but are not planning to do so in the upcoming election?",
+        "model_answer": "False\n",
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "162": {
+        "question": "Do we have any respondents in the dataset who didn't participate in the 2016 Presidential election (four years ago) but intend to do so in the upcoming election?",
+        "model_answer": "False\n",
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "163": {
+        "question": "Do we have respondents who have shifted their voting preference from the 2016 election (four years ago) to the upcoming one?",
+        "model_answer": null,
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "164": {
+        "question": "How many respondents in the survey are eligible to vote?",
+        "model_answer": "1315\n",
+        "sample_answer": "11",
+        "answer": "1315"
+    },
+    "165": {
+        "question": "What is the count of respondents who are leaning towards voting for Joe Biden in the upcoming election?",
+        "model_answer": "799\n",
+        "sample_answer": "0",
+        "answer": "799"
+    },
+    "166": {
+        "question": "How many respondents have a high school degree or less as their highest level of education?",
+        "model_answer": null,
+        "sample_answer": "0",
+        "answer": "0"
+    },
+    "167": {
+        "question": "How many respondents are from the region adjacent to the South Atlantic Ocean?",
+        "model_answer": null,
+        "sample_answer": "0",
+        "answer": "774"
+    },
+    "168": {
+        "question": "What is the most frequent age group among the respondents?",
+        "model_answer": null,
+        "sample_answer": "25-34",
+        "answer": "65+"
+    },
+    "169": {
+        "question": "Who is the preferred choice among the respondents for the upcoming election?",
+        "model_answer": "Donald Trump (Republican)\n",
+        "sample_answer": "Joe Biden (Democrat)",
+        "answer": "Donald Trump (Republican)"
+    },
+    "170": {
+        "question": "What is the most commonly achieved educational level among the respondents?",
+        "model_answer": null,
+        "sample_answer": "High school graduate (includes equivalency)",
+        "answer": "Some college, no degree"
+    },
+    "171": {
+        "question": "Which geographical division has the greatest representation among the respondents?",
+        "model_answer": "South Atlantic\n",
+        "sample_answer": "South Atlantic",
+        "answer": "South Atlantic"
+    },
+    "172": {
+        "question": "Identify the top 5 states with the greatest number of respondents.",
+        "model_answer": null,
+        "sample_answer": "['MI', 'GA', 'AL', 'CA', 'TX']",
+        "answer": "['CA', 'TX', 'NY', 'FL', 'GA']"
+    },
+    "173": {
+        "question": "Enumerate the top 4 most common professions among the respondents.",
+        "model_answer": "['Other', 'Healthcare', 'Office worker or other professional', 'Industrial (e.g. construction, manufacturing, maintenance and repair)']\n",
+        "sample_answer": "['Education and training', 'Office worker or other professional', 'Industrial (e.g. construction, manufacturing, maintenance and repair)', 'Healthcare']",
+        "answer": "['Other', 'Healthcare', 'Office worker or other professional', 'Industrial (e.g. construction, manufacturing, maintenance and repair)']"
+    },
+    "174": {
+        "question": "Identify the top 3 ethnic groups with the most representation among the respondents.",
+        "model_answer": null,
+        "sample_answer": "['White (not Hispanic, Latino or Spanish origin)', 'Black or African American (not Hispanic, Latino or Spanish origin)', 'Asian']",
+        "answer": "['White (not Hispanic, Latino or Spanish origin)', 'Black or African American (not Hispanic, Latino or Spanish origin)', 'Hispanic, Latino or Spanish origin']"
+    },
+    "175": {
+        "question": "Enumerate the top 6 most represented age groups among the respondents.",
+        "model_answer": null,
+        "sample_answer": "['25-34', '55-64', '65+', '35-44', '18-24', '45-54']",
+        "answer": "['65+', '55-64', '45-54', '35-44', '18-24', '25-34']"
+    },
+    "176": {
+        "question": "Identify the top 3 counties (using FIPS codes) with the greatest number of respondents.",
+        "model_answer": null,
+        "sample_answer": "[13135, 29189, 13095]",
+        "answer": "[6037, 13121, 48201]"
+    },
+    "177": {
+        "question": "Enumerate the highest 4 unique weight values in the dataset.",
+        "model_answer": "[12.25830409560021, 11.12470053778552, 10.76484201273817, 9.469101617885023]\n",
+        "sample_answer": "[4.871233760276248, 0.8475708375044543, 0.7854647440023211, 0.941364535331836]",
+        "answer": "[0.8085780015111617, 0.7742084493732905, 0.3063435812288158, 0.629527660735561]"
+    },
+    "178": {
+        "question": "List the top 5 urban/rural categories (using NCHS codes) with the greatest number of respondents.",
+        "model_answer": null,
+        "sample_answer": "[1, 2, 5, 3, 6]",
+        "answer": "[1, 2, 3, 4, 5]"
+    },
+    "179": {
+        "question": "Enumerate the top 6 most common likelihood values among the respondents.",
+        "model_answer": "[10.0, 11.0, 0.0, 1.0, 9.0, 5.0]\n",
+        "sample_answer": "[10.0, 11.0, 1.0, 2.0, 6.0, 7.0]",
+        "answer": "[10.0, 11.0, 0.0, 1.0, 9.0, 5.0]"
+    },
+    "180": {
+        "question": "Is there a car model named 'Golf' listed?",
+        "model_answer": "True\n",
+        "sample_answer": "False",
+        "answer": "False"
+    },
+    "181": {
+        "question": "Are there cars associated with the dealer 'Autos Raymara'?",
+        "model_answer": "True\n",
+        "sample_answer": "False",
+        "answer": "True"
+    },
+    "182": {
+        "question": "Is there a car version that mentions 'BMW'?",
+        "model_answer": "True\n",
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "183": {
+        "question": "Are there cars with a 'Manual' shift?",
+        "model_answer": "True\n",
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "184": {
+        "question": "How many unique car models are listed?",
+        "model_answer": "940\n",
+        "sample_answer": "19",
+        "answer": "940"
+    },
+    "185": {
+        "question": "On average, how many photos are provided for the cars?",
+        "model_answer": null,
+        "sample_answer": "19.1",
+        "answer": "16.19912"
+    },
+    "186": {
+        "question": "What's the highest price a car is listed for?",
+        "model_answer": "549900\n",
+        "sample_answer": "61990",
+        "answer": "549900"
+    },
+    "187": {
+        "question": "How many cars are from the year 2020?",
+        "model_answer": "4237\n",
+        "sample_answer": "3",
+        "answer": "4237"
+    },
+    "188": {
+        "question": "Which dealer has the car with the highest price listed?",
+        "model_answer": null,
+        "sample_answer": "automotorDURSAN.com A",
+        "answer": "Supergarage"
+    },
+    "189": {
+        "question": "Which car make is the most common?",
+        "model_answer": "VOLKSWAGEN\n",
+        "sample_answer": "BMW",
+        "answer": "VOLKSWAGEN"
+    },
+    "190": {
+        "question": "What type of fuel is the most common for the cars?",
+        "model_answer": "Di\u00e9sel\n",
+        "sample_answer": "Di\u00e9sel",
+        "answer": "Di\u00e9sel"
+    },
+    "191": {
+        "question": "In which province are the most cars located?",
+        "model_answer": "Madrid\n",
+        "sample_answer": "Madrid",
+        "answer": "Madrid"
+    },
+    "192": {
+        "question": "Which are the top 3 provinces with the most car listings?",
+        "model_answer": null,
+        "sample_answer": "['Madrid', 'Palencia', 'M\u00e1laga']",
+        "answer": "['Madrid', 'Barcelona', 'Valencia']"
+    },
+    "193": {
+        "question": "List the 4 most common car colors in the dataset.",
+        "model_answer": null,
+        "sample_answer": "['Gris / Plata', 'Negro', 'Azul', 'Gris / Plata (gris)']",
+        "answer": "['Blanco', 'Gris / Plata', 'Negro', 'Azul']"
+    },
+    "194": {
+        "question": "Which 5 car makes are the most prevalent?",
+        "model_answer": null,
+        "sample_answer": "['MERCEDES-BENZ', 'BMW', 'SEAT', 'AUDI', 'HONDA']",
+        "answer": "['VOLKSWAGEN', 'BMW', 'MERCEDES-BENZ', 'AUDI', 'PEUGEOT']"
+    },
+    "195": {
+        "question": "List the 2 least common fuels used in the cars.",
+        "model_answer": "['Gas natural (CNG)', 'Gas licuado (GLP)']\n",
+        "sample_answer": "['H\u00edbrido', 'El\u00e9ctrico']",
+        "answer": "['Gas natural (CNG)', 'Gas licuado (GLP)']"
+    },
+    "196": {
+        "question": "What are the top 4 most common years of the cars?",
+        "model_answer": "[2016.0, 2017.0, 2019.0, 2020.0]\n",
+        "sample_answer": "[2016.0, 2020.0, 2007.0, 2018.0]",
+        "answer": "[2016.0, 2017.0, 2019.0, 2020.0]"
+    },
+    "197": {
+        "question": "List the 3 highest mileages present.",
+        "model_answer": "[5000000, 4000006, 3500000]\n",
+        "sample_answer": "['370000', '300000', '254000']",
+        "answer": "[5000000, 4000006, 3500000]"
+    },
+    "198": {
+        "question": "Which 5 cars have the most photos associated?",
+        "model_answer": null,
+        "sample_answer": "[54, 44, 40, 32, 29]",
+        "answer": "[54, 54, 54, 54, 54]"
+    },
+    "199": {
+        "question": "List the 6 cars with the most power.",
+        "model_answer": "[800.0, 800.0, 796.0, 772.0, 720.0, 720.0]\n",
+        "sample_answer": "[258.0, 258.0, 218.0, 182.0, 180.0]",
+        "answer": "[800.0, 800.0, 796.0, 772.0, 720.0, 720.0]"
+    },
+    "200": {
+        "question": "Are all transactions unique?",
+        "model_answer": "False\n",
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "201": {
+        "question": "Is there any transaction that took place during the night?",
+        "model_answer": "True\n",
+        "sample_answer": "False",
+        "answer": "True"
+    },
+    "202": {
+        "question": "Do all items have transactions recorded on weekdays?",
+        "model_answer": null,
+        "sample_answer": "False",
+        "answer": "True"
+    },
+    "203": {
+        "question": "Are there any transactions recorded in the evening on weekends?",
+        "model_answer": null,
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "204": {
+        "question": "How many unique items are there in the dataset?",
+        "model_answer": "94\n",
+        "sample_answer": "12",
+        "answer": "95"
+    },
+    "205": {
+        "question": "On how many different days were transactions recorded?",
+        "model_answer": "159\n",
+        "sample_answer": "20",
+        "answer": "159"
+    },
+    "206": {
+        "question": "What's the highest transaction number?",
+        "model_answer": "9684\n",
+        "sample_answer": "9133",
+        "answer": "9684"
+    },
+    "207": {
+        "question": "How many transactions were made during the afternoon?",
+        "model_answer": "0\n",
+        "sample_answer": "0",
+        "answer": "2478"
+    },
+    "208": {
+        "question": "Which day period has the highest number of transactions?",
+        "model_answer": "afternoon\n",
+        "sample_answer": "afternoon",
+        "answer": "morning"
+    },
+    "209": {
+        "question": "On weekends, what's the most commonly bought item?",
+        "model_answer": null,
+        "sample_answer": "Hearty & Seasonal",
+        "answer": "Coffee"
+    },
+    "210": {
+        "question": "What's the least popular item bought during weekdays?",
+        "model_answer": "Tshirt\n",
+        "sample_answer": "Farm House",
+        "answer": "Adjustment"
+    },
+    "211": {
+        "question": "During which period of the day is \"Hot chocolate\" most frequently bought?",
+        "model_answer": "afternoon\n",
+        "sample_answer": null,
+        "answer": "morning"
+    },
+    "212": {
+        "question": "List the top 3 items most frequently bought in the morning.",
+        "model_answer": "['Coffee', 'Bread', 'Pastry']\n",
+        "sample_answer": "['Coffee', 'Bread', 'Farm House']",
+        "answer": "['Coffee', 'Bread', 'Pastry']"
+    },
+    "213": {
+        "question": "Name the bottom 4 items least purchased during the afternoon.",
+        "model_answer": "['Bread', 'Cookies', 'Muffin', 'Coffee']\n",
+        "sample_answer": "[]",
+        "answer": "['Chicken sand', 'Gift voucher', 'Bare Popcorn', 'Raw bars']"
+    },
+    "214": {
+        "question": "Identify the top 5 items sold on weekends.",
+        "model_answer": "['Coffee', 'Bread', 'Tea', 'Cake', 'Pastry']\n",
+        "sample_answer": "[]",
+        "answer": "['Coffee', 'Bread', 'Tea', 'Cake', 'Pastry']"
+    },
+    "215": {
+        "question": "What are the 4 items tthat were bought two times in the evening?",
+        "model_answer": "[]\n",
+        "sample_answer": "[]",
+        "answer": "['Art Tray', 'Mighty Protein', 'Mortimer', 'Vegan Mincepie']"
+    },
+    "216": {
+        "question": "Which are the top 4 transaction numbers with the most items bought?",
+        "model_answer": "[6716, 6279, 6474, 6412]\n",
+        "sample_answer": "[6103, 1259, 628, 4627]",
+        "answer": "[6474, 6716, 6279, 6412]"
+    },
+    "217": {
+        "question": "Identify the bottom 5 transaction numbers by frequency.",
+        "model_answer": "[9684, 2193, 2199, 2208, 2209]\n",
+        "sample_answer": "[2711, 956, 7435, 2214, 5816]",
+        "answer": "[9680, 9681, 9682, 9683, 9684]"
+    },
+    "218": {
+        "question": "List the top 6 transaction numbers during which \"Bread\" was purchased.",
+        "model_answer": "[6240, 3058, 3643, 6730, 8328, 7329]\n",
+        "sample_answer": "[2850, 7104, 7776, 5816]",
+        "answer": "[6412, 6279, 6474, 6603, 6716, 6642]"
+    },
+    "219": {
+        "question": "Name the bottom 2 transaction numbers where purchases were made in the morning.",
+        "model_answer": null,
+        "sample_answer": "[]",
+        "answer": "[9683, 9684]"
+    },
+    "220": {
+        "question": "Are all the reviews from Australia positive (rating > 3)?",
+        "model_answer": "False\n",
+        "sample_answer": "True",
+        "answer": "False"
+    },
+    "221": {
+        "question": "Is Disneyland_HongKong the most reviewed branch?",
+        "model_answer": "False\n",
+        "sample_answer": "False",
+        "answer": "False"
+    },
+    "222": {
+        "question": "Are there any reviews with a rating of 1?",
+        "model_answer": "True\n",
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "223": {
+        "question": "Does every reviewer location have at least one review with a rating of 5?",
+        "model_answer": "False\n",
+        "sample_answer": "False",
+        "answer": "False"
+    },
+    "224": {
+        "question": "How many unique reviewer locations are there?",
+        "model_answer": "162\n",
+        "sample_answer": "9",
+        "answer": "162"
+    },
+    "225": {
+        "question": "What is the average rating for Disneyland_HongKong?",
+        "model_answer": "4.204158004158004\n",
+        "sample_answer": "4.25",
+        "answer": "4.204158004158004"
+    },
+    "226": {
+        "question": "What is the maximum review ID?",
+        "model_answer": "670801367\n",
+        "sample_answer": "644423763",
+        "answer": "670801367"
+    },
+    "227": {
+        "question": "How many reviews were made in 2019?",
+        "model_answer": null,
+        "sample_answer": "2",
+        "answer": "786"
+    },
+    "228": {
+        "question": "What is the most common reviewer location?",
+        "model_answer": "United States\n",
+        "sample_answer": "United States",
+        "answer": "United States"
+    },
+    "229": {
+        "question": "What is the branch with the lowest average rating?",
+        "model_answer": "Disneyland_Paris\n",
+        "sample_answer": "Disneyland_California",
+        "answer": "Disneyland_Paris"
+    },
+    "230": {
+        "question": "In which year-month was the most negative review (rating=1) made?",
+        "model_answer": "missing\n",
+        "sample_answer": "2011-10",
+        "answer": "missing"
+    },
+    "231": {
+        "question": "What is the reviewer location with the highest average rating?",
+        "model_answer": "Mali\n",
+        "sample_answer": "Australia",
+        "answer": "Armenia"
+    },
+    "232": {
+        "question": "What are the top 3 reviewer locations with the most reviews?",
+        "model_answer": "['United States', 'United Kingdom', 'Australia']\n",
+        "sample_answer": "['United States', 'Australia', 'Malta']",
+        "answer": "['United States', 'United Kingdom', 'Australia']"
+    },
+    "233": {
+        "question": "What are the bottom 2 branches in terms of average rating?",
+        "model_answer": "['Disneyland_Paris', 'Disneyland_HongKong']\n",
+        "sample_answer": "['Disneyland_California', 'Disneyland_HongKong']",
+        "answer": "['Disneyland_Paris', 'Disneyland_HongKong']"
+    },
+    "234": {
+        "question": "What are the top 4 year-months with the most reviews?",
+        "model_answer": "['missing', '2015-8', '2015-7', '2015-12']\n",
+        "sample_answer": "['missing', '2019-1', '2015-12', '2012-5']",
+        "answer": "['missing', '2015-8', '2015-7', '2015-12']"
+    },
+    "235": {
+        "question": "What are the bottom 3 reviewer locations in terms of average rating?",
+        "model_answer": "",
+        "sample_answer": "['Canada', 'United States', 'United Kingdom']",
+        "answer": "['Turks and Caicos Islands', 'South Sudan', 'Suriname']"
+    },
+    "236": {
+        "question": "What are the top 5 review IDs in terms of rating?",
+        "model_answer": "[221443117, 310933989, 311025331, 311045924, 311068724]\n",
+        "sample_answer": "[540713188, 576395715, 310041955, 121577468, 441572512]",
+        "answer": "[670585330, 670570869, 670443403, 670435886, 670324965]"
+    },
+    "237": {
+        "question": "What are the bottom 4 review IDs in terms of rating?",
+        "model_answer": "[467863382, 202279052, 202237686, 388534006]\n",
+        "sample_answer": "[119781124, 337648026, 620582661, 124120037]",
+        "answer": "[662641193, 658624005, 649615606, 647822351]"
+    },
+    "238": {
+        "question": "What are the top 6 ratings given by reviewers from Australia?",
+        "model_answer": "[5, 4, 3, 2, 1]\n",
+        "sample_answer": "[5]",
+        "answer": "[5, 5, 5, 5, 5, 5]"
+    },
+    "239": {
+        "question": "What are the bottom 3 ratings given for Disneyland_HongKong?",
+        "model_answer": "[1, 1, 1]\n",
+        "sample_answer": "[5, 2]",
+        "answer": "[1, 1, 1]"
+    },
+    "240": {
+        "question": "Are all the tweets in English?",
+        "model_answer": "False\n",
+        "sample_answer": "True",
+        "answer": "False"
+    },
+    "241": {
+        "question": "Has the author ever been retweeted?",
+        "model_answer": null,
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "242": {
+        "question": "Are there any tweets with more than 10000 retweets?",
+        "model_answer": "True\n",
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "243": {
+        "question": "Have any of the tweets been favorited more than 50000 times?",
+        "model_answer": "True\n",
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "244": {
+        "question": "How many unique authors are there?",
+        "model_answer": "1\n",
+        "sample_answer": "1",
+        "answer": "1"
+    },
+    "245": {
+        "question": "What is the average number of retweets?",
+        "model_answer": "8774.52044683822\n",
+        "sample_answer": "8111.15",
+        "answer": "8774.52044683822"
+    },
+    "246": {
+        "question": "What is the maximum number of favorites received for a single tweet?",
+        "model_answer": null,
+        "sample_answer": "105448",
+        "answer": "589793"
+    },
+    "247": {
+        "question": "How many tweets were posted in 2018?",
+        "model_answer": "2891\n",
+        "sample_answer": "2",
+        "answer": "2891"
+    },
+    "248": {
+        "question": "What is the most common author name?",
+        "model_answer": "Donald J. Trump\n",
+        "sample_answer": "Donald J. Trump",
+        "answer": "Donald J. Trump"
+    },
+    "249": {
+        "question": "What is the tweet with the most favorites?",
+        "model_answer": "Such a beautiful and important evening! The forgotten man and woman will never be forgotten again. We will all come together as never before\n",
+        "sample_answer": "I have great confidence that China will properly deal with North Korea. If they are unable to do so, the U.S., with its allies, will! U.S.A.",
+        "answer": "Such a beautiful and important evening! The forgotten man and woman will never be forgotten again. We will all come together as never before"
+    },
+    "250": {
+        "question": "In which language is the tweet with the most retweets written?",
+        "model_answer": "und\n",
+        "sample_answer": "en",
+        "answer": "und"
+    },
+    "251": {
+        "question": "What is the most common language of the tweets?",
+        "model_answer": null,
+        "sample_answer": "en",
+        "answer": "en"
+    },
+    "252": {
+        "question": "What are the top 3 author handlers with the most tweets?",
+        "model_answer": null,
+        "sample_answer": "['realDonaldTrump']",
+        "answer": "['realDonaldTrump']"
+    },
+    "253": {
+        "question": "What are the bottom 2 languages in terms of tweet count?",
+        "model_answer": "['lt', 'in']\n",
+        "sample_answer": "['en']",
+        "answer": "['pt', 'fi']"
+    },
+    "254": {
+        "question": "What are the top 4 mentioned names in the tweets?",
+        "model_answer": null,
+        "sample_answer": "['[]', '\"realDonaldTrump\"]', '[\"IvankaTrump\"', '\"trumpferrypoint\"']",
+        "answer": "['realDonaldTrump', 'FoxNews', 'CNN', 'foxandfriends']"
+    },
+    "255": {
+        "question": "What are the bottom 3 author names in terms of tweet count?",
+        "model_answer": "['Donald J. Trump']\n",
+        "sample_answer": "['Donald J. Trump']",
+        "answer": "['Donald J. Trump']"
+    },
+    "256": {
+        "question": "What are the top 5 tweet IDs in terms of retweet count?",
+        "model_answer": "[881503147168071680, 795954831718498305, 929511061954297857, 796315640307060738, 948355557022420992]\n",
+        "sample_answer": "[852508752142114816, 900150814081036288, 1017190186269184001, 822501939267141634, 761711856457125888]",
+        "answer": "[881503147168071680, 795954831718498305, 929511061954297857, 796315640307060738, 948355557022420992]"
+    },
+    "257": {
+        "question": "What are the bottom 4 tweet IDs in terms of favorite count?",
+        "model_answer": "[575589231160127489, 586751374286721024, 591412084895838208, 591222909626114050]\n",
+        "sample_answer": "[603361519192174592, 589632894177533953, 616672730319069185, 618552478653616128]",
+        "answer": "[591222909626114050, 591412084895838208, 586751374286721024, 575589231160127489]"
+    },
+    "258": {
+        "question": "What are the top 6 favorite counts of the tweets?",
+        "model_answer": null,
+        "sample_answer": "[105448, 85433, 84944, 79544, 67612, 59793]",
+        "answer": "[589793, 589750, 557779, 539249, 476457, 376626]"
+    },
+    "259": {
+        "question": "What are the bottom 3 retweet counts of the tweets?",
+        "model_answer": "[1, 1, 2]\n",
+        "sample_answer": "[10, 14, 376]",
+        "answer": "[1, 1, 2]"
+    },
+    "260": {
+        "question": "Are there any organizations in the dataset?",
+        "model_answer": "False\n",
+        "sample_answer": "False",
+        "answer": "False"
+    },
+    "261": {
+        "question": "Are there any individuals (non-organizations) in the dataset?",
+        "model_answer": "True\n",
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "262": {
+        "question": "Do all entities have a picture?",
+        "model_answer": "True\n",
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "263": {
+        "question": "Are there any entities with a weight greater than 500?",
+        "model_answer": "True\n",
+        "sample_answer": "False",
+        "answer": "True"
+    },
+    "264": {
+        "question": "How many unique communities are there?",
+        "model_answer": "9\n",
+        "sample_answer": "6",
+        "answer": "9"
+    },
+    "265": {
+        "question": "What is the average page rank norm?",
+        "model_answer": "0.08848033260794515\n",
+        "sample_answer": "0.0923955552240227",
+        "answer": "0.08848033260794509"
+    },
+    "266": {
+        "question": "What is the maximum weight of an entity?",
+        "model_answer": "770.5\n",
+        "sample_answer": "324.5",
+        "answer": "770.5"
+    },
+    "267": {
+        "question": "How many entities have a community identifier of 16744206?",
+        "model_answer": "651\n",
+        "sample_answer": "11",
+        "answer": "651"
+    },
+    "268": {
+        "question": "What is the most common name?",
+        "model_answer": "Christophe Viau\n",
+        "sample_answer": "Peter Skomoroch",
+        "answer": "Christophe Viau"
+    },
+    "269": {
+        "question": "Which entity has the highest page rank norm?",
+        "model_answer": "Mike Bostock\n",
+        "sample_answer": "Data Science Fact",
+        "answer": "Mike Bostock"
+    },
+    "270": {
+        "question": "What is the picture URL of the entity with the maximum weight?",
+        "model_answer": "https://storage.googleapis.com/pics.contexto.io/photos/paperclips/000/016/457/thumb/Saw-whet_Owl_10_normal.jpg?1517502050\n",
+        "sample_answer": "https://storage.googleapis.com/pics.contexto.io/photos/paperclips/000/016/416/thumb/8f8493dfc040e56ef7ff8f59f9474774_normal.jpeg?1517502015",
+        "answer": "https://storage.googleapis.com/pics.contexto.io/photos/paperclips/000/016/457/thumb/Saw-whet_Owl_10_normal.jpg?1517502050"
+    },
+    "271": {
+        "question": "Which entity has the highest y-coordinate?",
+        "model_answer": "The Gibson Project\n",
+        "sample_answer": "Paul Klemm",
+        "answer": "The Gibson Project"
+    },
+    "272": {
+        "question": "What are the top 3 entity names with the highest weights?",
+        "model_answer": "['Lynn Cherny', 'Alberto Cairo', 'Sinan Aral']\n",
+        "sample_answer": "['Peter Skomoroch', 'Nieman Lab', 'Munmun De Choudhury']",
+        "answer": "['Lynn Cherny', 'Alberto Cairo', 'Sinan Aral']"
+    },
+    "273": {
+        "question": "What are the bottom 2 entities in terms of page rank norm?",
+        "model_answer": null,
+        "sample_answer": "['Christopher', 'Chris J. Headleand']",
+        "answer": "['LIFE', 'New Options Project']"
+    },
+    "274": {
+        "question": "What are the top 4 entities with the highest x-coordinates?",
+        "model_answer": "['Detective.io', 'The Thrust', 'Open Budgets', 'NewsFuturist']\n",
+        "sample_answer": "['Catherine Rampell', 'Nieman Lab', 'Deok Gun Park', 'ESFL']",
+        "answer": "['Detective.io', 'The Thrust', 'Open Budgets', 'NewsFuturist']"
+    },
+    "275": {
+        "question": "What are the bottom 3 entities in terms of y-coordinates?",
+        "model_answer": null,
+        "sample_answer": "['ESFL', 'WikipediaLiveMonitor', 'Alberto Perdomo']",
+        "answer": "['digital PR cat', 'Ismail Onur Filiz', 'Dave Golland']"
+    },
+    "276": {
+        "question": "What are the top 5 entity IDs in terms of weight?",
+        "model_answer": "[568, 423, 6392, 4548, 579]\n",
+        "sample_answer": "[527, 498, 411, 8031, 91203]",
+        "answer": "[568, 423, 6392, 4548, 579]"
+    },
+    "277": {
+        "question": "What are the bottom 4 entity IDs in terms of page rank norm?",
+        "model_answer": null,
+        "sample_answer": "[35070, 35046, 35106, 35054]",
+        "answer": "[177, 240, 294, 369]"
+    },
+    "278": {
+        "question": "What are the top 6 page rank norms of the entities?",
+        "model_answer": null,
+        "sample_answer": "[0.4905835057931528, 0.2858285808469396, 0.2194061763508274, 0.2171608658929857, 0.1213462154304343, 0.1023296876109954]",
+        "answer": "[1.0, 0.6029751067034804, 0.5666707687637932, 0.5202348027491394, 0.5110606617858531, 0.5081183103684572]"
+    },
+    "279": {
+        "question": "What are the bottom 3 weights of the entities?",
+        "model_answer": "[1.0, 1.0, 1.0]\n",
+        "sample_answer": "[3.0, 5.0, 7.0]",
+        "answer": "[1.0, 1.0, 1.0]"
+    },
+    "280": {
+        "question": "Are there any animals with feathers in the dataset?",
+        "model_answer": "True\n",
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "281": {
+        "question": "Are there any venomous animals in the dataset?",
+        "model_answer": "True\n",
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "282": {
+        "question": "Do all animals breathe?",
+        "model_answer": "False\n",
+        "sample_answer": "False",
+        "answer": "False"
+    },
+    "283": {
+        "question": "Are there any domesticated animals in the dataset?",
+        "model_answer": null,
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "284": {
+        "question": "How many unique types of animals are there?",
+        "model_answer": "7\n",
+        "sample_answer": "20",
+        "answer": "7"
+    },
+    "285": {
+        "question": "What is the average number of legs?",
+        "model_answer": null,
+        "sample_answer": "3.1",
+        "answer": "2.8415841584158414"
+    },
+    "286": {
+        "question": "What is the maximum number of legs an animal has?",
+        "model_answer": "8\n",
+        "sample_answer": "6",
+        "answer": "8"
+    },
+    "287": {
+        "question": "How many animals are there with 2 legs?",
+        "model_answer": "27\n",
+        "sample_answer": "4",
+        "answer": "27"
+    },
+    "288": {
+        "question": "What is the most common class type?",
+        "model_answer": null,
+        "sample_answer": "1",
+        "answer": "1"
+    },
+    "289": {
+        "question": "What is the name of the animal with 8 legs?",
+        "model_answer": "octopus\n",
+        "sample_answer": null,
+        "answer": "octopus"
+    },
+    "290": {
+        "question": "What is the class type of the animal with the most legs?",
+        "model_answer": "7\n",
+        "sample_answer": "6",
+        "answer": "7"
+    },
+    "291": {
+        "question": "What is the name of the animal that is venomous?",
+        "model_answer": "frog\n",
+        "sample_answer": "honeybee",
+        "answer": "frog"
+    },
+    "292": {
+        "question": "What are the top 3 animal names with the most legs?",
+        "model_answer": "['scorpion', 'frog', 'octopus']\n",
+        "sample_answer": "['honeybee', 'gnat', 'wasp']",
+        "answer": "['octopus', 'scorpion', 'crayfish']"
+    },
+    "293": {
+        "question": "What are the bottom 2 animal names in terms of the number of legs?",
+        "model_answer": "['slowworm', 'pike']\n",
+        "sample_answer": "['porpoise', 'dogfish']",
+        "answer": "['bass', 'carp']"
+    },
+    "294": {
+        "question": "What are the most common 4 class types with the most animals?",
+        "model_answer": "[1, 2, 4, 7]\n",
+        "sample_answer": "[1, 6, 4, 2]",
+        "answer": "[1, 2, 4, 7]"
+    },
+    "295": {
+        "question": "What are the least common 3 class types with the least animals?",
+        "model_answer": null,
+        "sample_answer": "[4, 2, 7]",
+        "answer": "[5, 3, 6]"
+    },
+    "296": {
+        "question": "What are the most common 5 class types with the most combined total legs?",
+        "model_answer": null,
+        "sample_answer": "[1, 6, 2, 4, 7]",
+        "answer": "[1, 6, 2, 7, 5]"
+    },
+    "297": {
+        "question": "What are the bottom 4 class types with the least combined total legs?",
+        "model_answer": null,
+        "sample_answer": "[4, 7, 2, 6]",
+        "answer": "[4, 3, 5, 7]"
+    },
+    "298": {
+        "question": "What are the most common 6 numbers of legs that animals have?",
+        "model_answer": null,
+        "sample_answer": "[4, 2, 0, 6]",
+        "answer": "[4, 2, 0, 6, 8, 5]"
+    },
+    "299": {
+        "question": "What are the least common 3 numbers of legs that animals have?",
+        "model_answer": "[5, 8, 6]\n",
+        "sample_answer": "[2, 0, 6]",
+        "answer": "[5, 8, 6]"
+    },
+    "300": {
+        "question": "Are all the quantities greater than 0?",
+        "model_answer": "False\n",
+        "sample_answer": "False",
+        "answer": "False"
+    },
+    "301": {
+        "question": "Are all the unit prices greater than 0?",
+        "model_answer": "False\n",
+        "sample_answer": "True",
+        "answer": "False"
+    },
+    "302": {
+        "question": "Are there any missing customer IDs?",
+        "model_answer": "True\n",
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "303": {
+        "question": "Are there any transactions from the United Kingdom?",
+        "model_answer": "True\n",
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "304": {
+        "question": "How many unique stock codes are there?",
+        "model_answer": "4070\n",
+        "sample_answer": "20",
+        "answer": "4070"
+    },
+    "305": {
+        "question": "What is the average unit price?",
+        "model_answer": "4.611113626088513\n",
+        "sample_answer": "3.5415",
+        "answer": "4.611113626088513"
+    },
+    "306": {
+        "question": "What is the maximum quantity ordered in a single transaction?",
+        "model_answer": "80995\n",
+        "sample_answer": "25",
+        "answer": "80995"
+    },
+    "307": {
+        "question": "How many transactions were made in the United Kingdom?",
+        "model_answer": "495478\n",
+        "sample_answer": "19",
+        "answer": "495478"
+    },
+    "308": {
+        "question": "Which country made the most transactions?",
+        "model_answer": "United Kingdom\n",
+        "sample_answer": "United Kingdom",
+        "answer": "United Kingdom"
+    },
+    "309": {
+        "question": "What is the description of the item with the highest unit price?",
+        "model_answer": "Manual\n",
+        "sample_answer": "RETROSPOT LAMP",
+        "answer": "Manual"
+    },
+    "310": {
+        "question": "What is the description of the item with the highest quantity ordered?",
+        "model_answer": "PAPER CRAFT , LITTLE BIRDIE\n",
+        "sample_answer": "BLUE POLKADOT WRAP",
+        "answer": "PAPER CRAFT , LITTLE BIRDIE"
+    },
+    "311": {
+        "question": "Which country does the customer with the lowest ID come from?",
+        "model_answer": "United Kingdom\n",
+        "sample_answer": "Australia",
+        "answer": "United Kingdom"
+    },
+    "312": {
+        "question": "What are the descriptions of the top 3 items with the highest quantities ordered?",
+        "model_answer": "['WORLD WAR 2 GLIDERS ASSTD DESIGNS', 'JUMBO BAG RED RETROSPOT', 'ASSORTED COLOUR BIRD ORNAMENT']\n",
+        "sample_answer": "['BLUE POLKADOT WRAP', 'HANGING JAM JAR T-LIGHT HOLDER', 'FAIRY CAKE FLANNEL ASSORTED COLOUR']",
+        "answer": "['PAPER CRAFT , LITTLE BIRDIE', 'MEDIUM CERAMIC TOP STORAGE JAR', 'ASSTD DESIGN 3D PAPER STICKERS']"
+    },
+    "313": {
+        "question": "What are the descriptions of the bottom 2 items with the lowest quantities ordered?",
+        "model_answer": "['PAPER CRAFT , LITTLE BIRDIE', 'MEDIUM CERAMIC TOP STORAGE JAR']\n",
+        "sample_answer": "['HANGING METAL STAR LANTERN', 'LARGE CAKE TOWEL CHOCOLATE SPOTS']",
+        "answer": "['PAPER CRAFT , LITTLE BIRDIE', 'MEDIUM CERAMIC TOP STORAGE JAR']"
+    },
+    "314": {
+        "question": "Which 4 countries made the most transactions?",
+        "model_answer": "",
+        "sample_answer": "['United Kingdom', 'Australia']",
+        "answer": "['United Kingdom', 'Germany', 'France', 'EIRE']"
+    },
+    "315": {
+        "question": "Which 3 countries made the least transactions?",
+        "model_answer": "['Saudi Arabia', 'Bahrain', 'Czech Republic']\n",
+        "sample_answer": "['United Kingdom', 'Australia']",
+        "answer": "['Saudi Arabia', 'Bahrain', 'Czech Republic']"
+    },
+    "316": {
+        "question": "What are the invoice numbers of the top 5 transactions with the highest quantities ordered?",
+        "model_answer": "[581483.0, 541431.0, 556917.0, 563076.0, 574941.0]\n",
+        "sample_answer": "['548005', '555200', '573399', '577076', '568909']",
+        "answer": "['581483', '541431', '578841', '542504', '573008']"
+    },
+    "317": {
+        "question": "What are the stock codes of the bottom 4 transactions with the lowest quantities ordered?",
+        "model_answer": "[nan, nan, 556690.0, 556691.0]\n",
+        "sample_answer": "['22465', '21109', '82484', '22799', '82600']",
+        "answer": "[23843, 21366, 23005, 23005, 84347]"
+    },
+    "318": {
+        "question": "What are the six most commonly ordered quantities?",
+        "model_answer": "[1, 2, 12, 6, 4, 3]\n",
+        "sample_answer": "[1, 4, 2, 12, 24, 3]",
+        "answer": "[1, 2, 12, 6, 4, 3]"
+    },
+    "319": {
+        "question": "What are the three least commonly ordered quantities?",
+        "model_answer": "[-80995, 1020, 234]\n",
+        "sample_answer": "[6, 25, -5]",
+        "answer": "[-312, -79, 404]"
+    }
+}

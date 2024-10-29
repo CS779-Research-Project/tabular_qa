@@ -1,0 +1,122 @@
+{
+    "0": {
+        "question": "Are there any complaints made in Brooklyn?",
+        "model_answer": "False\n",
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "1": {
+        "question": "Do any complaints have 'Dog' as a descriptor?",
+        "model_answer": "True\n",
+        "sample_answer": "False",
+        "answer": "True"
+    },
+    "2": {
+        "question": "Were there any complaints raised in April?",
+        "model_answer": "True\n",
+        "sample_answer": "True",
+        "answer": "True"
+    },
+    "3": {
+        "question": "Is the Mayor's office of special enforcement one of the agencies handling complaints?",
+        "model_answer": "False\n",
+        "sample_answer": "False",
+        "answer": "True"
+    },
+    "4": {
+        "question": "How many complaints have been made in Queens?",
+        "model_answer": "0\n",
+        "sample_answer": "0",
+        "answer": "23110"
+    },
+    "5": {
+        "question": "What's the total number of unique agencies handling complaints?",
+        "model_answer": "22\n",
+        "sample_answer": "7",
+        "answer": "22"
+    },
+    "6": {
+        "question": "How many complaints were raised at midnight?",
+        "model_answer": "14811\n",
+        "sample_answer": "2",
+        "answer": "14811"
+    },
+    "7": {
+        "question": "How many unique descriptors are present in the dataset?",
+        "model_answer": "1131\n",
+        "sample_answer": "16",
+        "answer": "1131"
+    },
+    "8": {
+        "question": "Which borough has the most complaints?",
+        "model_answer": "BROOKLYN\n",
+        "sample_answer": "QUEENS",
+        "answer": "BROOKLYN"
+    },
+    "9": {
+        "question": "Which month sees the highest number of complaints?",
+        "model_answer": "July\n",
+        "sample_answer": "January",
+        "answer": "July"
+    },
+    "10": {
+        "question": "Which weekday has the least complaints?",
+        "model_answer": "Sunday\n",
+        "sample_answer": "Thursday",
+        "answer": "Sunday"
+    },
+    "11": {
+        "question": "Which agency is least frequently handling complaints?",
+        "model_answer": "ACS\n",
+        "sample_answer": "DOHMH",
+        "answer": "ACS"
+    },
+    "12": {
+        "question": "List the top 5 most frequent complaint types.",
+        "model_answer": "['Noise - Residential', 'HEAT/HOT WATER', 'Illegal Parking', 'Blocked Driveway', 'Street Condition']\n",
+        "sample_answer": "[HEAT/HOT WATER, Building/Use, Noise - Residential, General Construction/Plumbing, Air Quality]",
+        "answer": "['Noise - Residential', 'HEAT/HOT WATER', 'Illegal Parking', 'Blocked Driveway', 'Street Condition']"
+    },
+    "13": {
+        "question": "Which 4 agencies handle the most complaints?",
+        "model_answer": "",
+        "sample_answer": "[NYPD, HPD, DOB, DSNY]",
+        "answer": "['NYPD', 'HPD', 'DOT', 'DSNY']"
+    },
+    "14": {
+        "question": "Name the 3 least frequent descriptors for complaints.",
+        "model_answer": "['Graffiti/Litter on Phone', 'Payment Not Shown', 'Individual Process Server License']\n",
+        "sample_answer": "[Structure - Outdoors, Air: Odor/Fumes, Restaurant (AD2), 12 Dead Animals]",
+        "answer": "['Booting Company', 'Ready NY - Businesses', 'Animal']"
+    },
+    "15": {
+        "question": "Mention the 2 most common weekdays for complaints.",
+        "model_answer": null,
+        "sample_answer": "[Monday, Wednesday]",
+        "answer": "['Tuesday', 'Monday']"
+    },
+    "16": {
+        "question": "What are the top 4 hours with the most complaints?",
+        "model_answer": "[0, 12, 10, 11]\n",
+        "sample_answer": "[18, 21, 0, 16]",
+        "answer": "[0, 12, 10, 11]"
+    },
+    "17": {
+        "question": "State the 3 lowest unique complaint keys.",
+        "model_answer": "[47755664, 52228259, 54432788]\n",
+        "sample_answer": "[18311800, 22322205, 25369019]",
+        "answer": "[15628852, 15634748, 15634996]"
+    },
+    "18": {
+        "question": "Which 5 hours see the least complaints?",
+        "model_answer": "[4, 5, 3, 2, 6]\n",
+        "sample_answer": "[22, 7, 14, 23, 8]",
+        "answer": "[6, 2, 3, 5, 4]"
+    },
+    "19": {
+        "question": "List 6 unique complaint numbers from the dataset.",
+        "model_answer": "[47755664, 52403931, 46282572, 52498516, 54028690, 42893661]\n",
+        "sample_answer": "[51990440, 43655624, 35414182, 43260648, 28084067, 50082845]",
+        "answer": "[33629705, 46718634, 51900343, 53128216, 34575561, 46015340]"
+    }
+}

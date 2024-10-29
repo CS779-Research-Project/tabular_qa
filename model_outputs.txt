@@ -1,0 +1,320 @@
+None
+None
+True
+True
+3765
+61
+1243
+None
+ING España
+es
+juan prin
+reply
+'Lavincompae', '#NI UNA MENOS \xa0♐\xa0✊\xa0🚺', 'SFC The World'
+'es', 'es', 'es', 'es', 'es'
+None
+'reply', 'original'
+0, 0, 0, 0, 3
+61, 60, 59
+None
+None
+True
+True
+False
+True
+20
+1125
+160
+80.93843283582089
+Poison
+Shuckle
+None
+Psychic
+'Eternamax Eternatus', 'Mega Mewtwo X', 'Mega Rayquaza'
+'Shedinja', 'Alolan Diglett', 'Diglett', 'Duskull', 'Shuckle'
+'Water', 'Normal', 'Grass', 'Bug'
+'Mega Heracross', 'Mega Tyranitar', 'Mega Scizor', 'Tyranitar', 'Ho-oh', 'Scizor'
+250, 230, 200, 160, 160
+20, 31, 50
+'Mega Lopunny', 'Shaymin Sky Forme', 'Weavile', 'Darkrai'
+'Wishiwashi Solo Forme', 'Sunkern', 'Blipbug', 'Snom', 'Azurill', 'Kricketot'
+True
+None
+False
+True
+0.7826336180787501
+1002
+0.1630021588198609
+0.035364139619357415
+None
+Governor
+Mortgage Banker
+Program Manager
+'Book Publisher', 'Bureau Chief', 'Publisher'
+None
+None
+None
+0.31115896047562774, 0.3094030039323532, 0.3931354338636937
+0.16523815696640565, 0.20054280643241226, 0.22155461168552476, 0.2506791678499942
+None
+0.035364139619357415, 0.035579296052633214, 0.0399752446723049, 0.05732806625856246, 0.059109906308533855, 0.05927817925717627
+True
+False
+True
+None
+3574
+14.745974597459746
+None
+8848
+International Business Machines Corporation
+B2
+None
+None
+None
+'utility', 'design', 'plant', 'reissue'
+'B2', 'S1', 'B1', 'P2', 'P3'
+'habit, plant, foliage, flowers', 'soybean, plant, cultivar, soybean cultivar'
+20, 1, 18, 19
+None
+9320804.0, 9320806.0, 9321092.0, 9480020.0, 9247502.0
+9479476.0, nan, nan, nan, nan, nan
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+205169, 101314
+True
+False
+None
+False
+18424
+367
+72
+113
+Radio/TV
+Skilled
+Existing Credits Paid Back Duly Till Now
+Less than 100 DM
+'Skilled', 'Highly Skilled', 'Unskilled - Resident'
+'Highly Skilled', 'Skilled', 'Unemployed / Unskilled  - Non-Resident', 'Unskilled - Resident'
+'Skilled', 'Unskilled - Resident', 'Highly Skilled', 'Unemployed / Unskilled  - Non-Resident'
+'Highly Skilled', 'Highly Skilled'
+None
+72, 60, 54, 48
+4, 4, 4, 4, 4
+None
+False
+True
+True
+True
+0
+0.08465
+18
+0.2748
+bacon
+None
+honey
+beef
+'bacon', 'peanuts', 'chocolate bar', 'popcorn', 'cookie'
+'pancakes', 'sake', 'black tea'
+'bacon', 'peanuts', 'cheese', 'popcorn'
+'black tea', 'candy', 'champagne', 'bacon', 'red wine', 'red apple'
+8.98, 5.67, 5.18, 5.0, 4.97
+None
+None
+None
+True
+False
+None
+False
+None
+37.420120593188116
+None
+None
+'Ciudadanos'
+None
+Ciudadanos
+Castellano
+array(['Ciudadanos'], dtype=object), array(['I am undeceided'], dtype=object), array(['Podemos'], dtype=object), array(['PP'], dtype=object), array(['I prefer not to say'], dtype=object)
+'The party ideas are close to my own', 'The party is the most competent', 'I prefer not to say'
+'Ciudadanos', 'PP', 'I prefer not to say', 'Podemos'
+'Castellano', 'Catal�', 'Galego', 'Euskara'
+None
+5.0, 3.0, 6.0
+None
+2.0, 3.0, 4.0, 1.0, 5.0
+False
+False
+False
+None
+1315
+799
+None
+None
+None
+Donald Trump (Republican)
+None
+South Atlantic
+None
+'Other', 'Healthcare', 'Office worker or other professional', 'Industrial (e.g. construction, manufacturing, maintenance and repair)'
+None
+None
+None
+12.25830409560021, 11.12470053778552, 10.76484201273817, 9.469101617885023
+None
+10.0, 11.0, 0.0, 1.0, 9.0, 5.0
+True
+True
+True
+True
+940
+None
+549900
+4237
+None
+VOLKSWAGEN
+Diésel
+Madrid
+None
+None
+None
+'Gas natural (CNG)', 'Gas licuado (GLP)'
+2016.0, 2017.0, 2019.0, 2020.0
+5000000, 4000006, 3500000
+None
+800.0, 800.0, 796.0, 772.0, 720.0, 720.0
+False
+True
+None
+None
+94
+159
+9684
+0
+afternoon
+None
+Tshirt
+afternoon
+'Coffee', 'Bread', 'Pastry'
+'Bread', 'Cookies', 'Muffin', 'Coffee'
+'Coffee', 'Bread', 'Tea', 'Cake', 'Pastry'
+
+6716, 6279, 6474, 6412
+9684, 2193, 2199, 2208, 2209
+6240, 3058, 3643, 6730, 8328, 7329
+None
+False
+False
+True
+False
+162
+4.204158004158004
+670801367
+None
+United States
+Disneyland_Paris
+missing
+Mali
+'United States', 'United Kingdom', 'Australia'
+'Disneyland_Paris', 'Disneyland_HongKong'
+'missing', '2015-8', '2015-7', '2015-12'
+None
+221443117, 310933989, 311025331, 311045924, 311068724
+467863382, 202279052, 202237686, 388534006
+5, 4, 3, 2, 1
+1, 1, 1
+False
+None
+True
+True
+1
+8774.52044683822
+None
+2891
+Donald J. Trump
+Such a beautiful and important evening! The forgotten man and woman will never be forgotten again. We will all come together as never before
+und
+None
+None
+'lt', 'in'
+None
+'Donald J. Trump'
+881503147168071680, 795954831718498305, 929511061954297857, 796315640307060738, 948355557022420992
+575589231160127489, 586751374286721024, 591412084895838208, 591222909626114050
+None
+1, 1, 2
+False
+True
+True
+True
+9
+0.08848033260794515
+770.5
+651
+Christophe Viau
+Mike Bostock
+https://storage.googleapis.com/pics.contexto.io/photos/paperclips/000/016/457/thumb/Saw-whet_Owl_10_normal.jpg?1517502050
+The Gibson Project
+'Lynn Cherny', 'Alberto Cairo', 'Sinan Aral'
+None
+'Detective.io', 'The Thrust', 'Open Budgets', 'NewsFuturist'
+None
+568, 423, 6392, 4548, 579
+None
+None
+1.0, 1.0, 1.0
+True
+True
+False
+None
+7
+None
+8
+27
+None
+octopus
+7
+frog
+'scorpion', 'frog', 'octopus'
+'slowworm', 'pike'
+1, 2, 4, 7
+None
+None
+None
+None
+5, 8, 6
+False
+False
+True
+True
+4070
+4.611113626088513
+80995
+495478
+United Kingdom
+Manual
+PAPER CRAFT , LITTLE BIRDIE
+United Kingdom
+'WORLD WAR 2 GLIDERS ASSTD DESIGNS', 'JUMBO BAG RED RETROSPOT', 'ASSORTED COLOUR BIRD ORNAMENT'
+'PAPER CRAFT , LITTLE BIRDIE', 'MEDIUM CERAMIC TOP STORAGE JAR'
+None
+'Saudi Arabia', 'Bahrain', 'Czech Republic'
+581483.0, 541431.0, 556917.0, 563076.0, 574941.0
+nan, nan, 556690.0, 556691.0
+1, 2, 12, 6, 4, 3
+-80995, 1020, 234

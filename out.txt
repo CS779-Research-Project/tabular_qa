@@ -1,0 +1,2613 @@
+QUESTION RES: Is the person with the highest net worth self-made?
+QUESTION IN DF: Is the person with the highest net worth self-made?
+MATCHED
+QUESTION RES: Does the youngest billionaire identify as male?
+QUESTION IN DF: Does the youngest billionaire identify as male?
+MATCHED
+QUESTION RES: Is the city with the most billionaires in the United States?
+QUESTION IN DF: Is the city with the most billionaires in the United States?
+MATCHED
+QUESTION RES: Is there a non-self-made billionaire in the top 5 ranks?
+QUESTION IN DF: Is there a non-self-made billionaire in the top 5 ranks?
+MATCHED
+QUESTION RES: Does the oldest billionaire have a philanthropy score of 5?
+QUESTION IN DF: Does the oldest billionaire have a philanthropy score of 5?
+MATCHED
+QUESTION RES: What is the age of the youngest billionaire?
+QUESTION IN DF: What is the age of the youngest billionaire?
+MATCHED
+QUESTION RES: How many billionaires are there from the 'Technology' category?
+QUESTION IN DF: How many billionaires are there from the 'Technology' category?
+MATCHED
+QUESTION RES: What's the total worth of billionaires in the 'Automotive' category?
+QUESTION IN DF: What's the total worth of billionaires in the 'Automotive' category?
+MATCHED
+QUESTION RES: How many billionaires have a philanthropy score above 3?
+QUESTION IN DF: How many billionaires have a philanthropy score above 3?
+MATCHED
+QUESTION RES: What's the rank of the wealthiest non-self-made billionaire?
+QUESTION IN DF: What's the rank of the wealthiest non-self-made billionaire?
+MATCHED
+QUESTION RES: Which category does the richest billionaire belong to?
+QUESTION IN DF: Which category does the richest billionaire belong to?
+MATCHED
+QUESTION RES: What's the country of origin of the oldest billionaire?
+QUESTION IN DF: What's the country of origin of the oldest billionaire?
+MATCHED
+QUESTION RES: What's the gender of the billionaire with the highest philanthropy score?
+QUESTION IN DF: What's the gender of the billionaire with the highest philanthropy score?
+MATCHED
+QUESTION RES: What's the source of wealth for the youngest billionaire?
+QUESTION IN DF: What's the source of wealth for the youngest billionaire?
+MATCHED
+Metrics for key: 001_Forbes
+  bool: 37.50%
+  str: 0.00%
+  num: 30.00%
+  Avg: 27.27%
+
+QUESTION RES: Did any children below the age of 18 survive?
+QUESTION IN DF: Did any children below the age of 18 survive?
+MATCHED
+QUESTION RES: Were there any passengers who paid a fare of more than $500?
+QUESTION IN DF: Were there any passengers who paid a fare of more than $500?
+MATCHED
+QUESTION RES: Is every passenger's name unique?
+QUESTION IN DF: Is every passenger's name unique?
+MATCHED
+QUESTION RES: Were there any female passengers in the 3rd class who survived?
+QUESTION IN DF: Were there any female passengers in the 3rd class who survived?
+MATCHED
+QUESTION RES: How many unique passenger classes are present in the dataset?
+QUESTION IN DF: How many unique passenger classes are present in the dataset?
+MATCHED
+QUESTION RES: What's the maximum age of the passengers?
+QUESTION IN DF: What's the maximum age of the passengers?
+MATCHED
+QUESTION RES: How many passengers boarded without any siblings or spouses?
+QUESTION IN DF: How many passengers boarded without any siblings or spouses?
+MATCHED
+QUESTION RES: On average, how much fare did the passengers pay?
+QUESTION IN DF: On average, how much fare did the passengers pay?
+MATCHED
+QUESTION RES: Which passenger class has the highest number of survivors?
+QUESTION IN DF: Which passenger class has the highest number of survivors?
+MATCHED
+QUESTION RES: What's the most common gender among the survivors?
+QUESTION IN DF: What's the most common gender among the survivors?
+MATCHED
+Metrics for key: 002_Titanic
+  bool: 75.00%
+  str: 100.00%
+  num: 44.44%
+  Avg: 57.14%
+
+QUESTION RES: Is the average age of the respondents above 30?
+QUESTION IN DF: Is the average age of the respondents above 30?
+MATCHED
+QUESTION RES: Are there more single individuals than married ones in the dataset?
+QUESTION IN DF: Are there more single individuals than married ones in the dataset?
+MATCHED
+QUESTION RES: Do the majority of respondents have a height greater than 170 cm?
+QUESTION IN DF: Do the majority of respondents have a height greater than 170 cm?
+MATCHED
+QUESTION RES: Is the most frequent hair color black?
+QUESTION IN DF: Is the most frequent hair color black?
+MATCHED
+QUESTION RES: How many unique nationalities are present in the dataset?
+QUESTION IN DF: How many unique nationalities are present in the dataset?
+MATCHED
+QUESTION RES: What is the average gross annual salary?
+QUESTION IN DF: What is the average gross annual salary?
+MATCHED
+QUESTION RES: How many respondents wear glasses all the time?
+QUESTION IN DF: How many respondents wear glasses all the time?
+MATCHED
+QUESTION RES: What's the median age of the respondents?
+QUESTION IN DF: What's the median age of the respondents?
+MATCHED
+QUESTION RES: What is the most common level of studies achieved?
+QUESTION IN DF: What is the most common level of studies achieved?
+MATCHED
+QUESTION RES: Which body complexity has the least number of respondents?
+QUESTION IN DF: Which body complexity has the least number of respondents?
+MATCHED
+QUESTION RES: What's the most frequent eye color?
+QUESTION IN DF: What's the most frequent eye color?
+MATCHED
+QUESTION RES: Which sexual orientation has the highest representation?
+QUESTION IN DF: Which sexual orientation has the highest representation?
+MATCHED
+QUESTION RES: List the top 3 most common areas of knowledge.
+QUESTION IN DF: List the top 3 most common areas of knowledge.
+MATCHED
+QUESTION RES: List the bottom 3 hair lengths in terms of frequency.
+QUESTION IN DF: List the bottom 3 hair lengths in terms of frequency.
+MATCHED
+QUESTION RES: Name the top 5 civil statuses represented in the dataset.
+QUESTION IN DF: Name the top 5 civil statuses represented in the dataset.
+MATCHED
+QUESTION RES: What are the 4 least common hair colors?
+QUESTION IN DF: What are the 4 least common hair colors?
+MATCHED
+QUESTION RES: What are the top 4 maximum gross annual salaries?
+QUESTION IN DF: What are the top 4 maximum gross annual salaries?
+MATCHED
+QUESTION RES: Name the bottom 3 values for the happiness scale.
+QUESTION IN DF: Name the bottom 3 values for the happiness scale.
+MATCHED
+QUESTION RES: What are the 5 highest ages present in the dataset?
+QUESTION IN DF: What are the 5 highest ages present in the dataset?
+MATCHED
+QUESTION RES: List the bottom 6 skin tone values based on frequency.
+QUESTION IN DF: List the bottom 6 skin tone values based on frequency.
+MATCHED
+Metrics for key: 003_Love
+  bool: 16.67%
+  str: 0.00%
+  num: 12.50%
+  list: 0.00%
+  Avg: 7.69%
+
+QUESTION RES: Are there any trips with a total distance greater than 30 miles?
+QUESTION IN DF: Are there any trips with a total distance greater than 30 miles?
+MATCHED
+QUESTION RES: Were there any trips that cost more than $100 in total?
+QUESTION IN DF: Were there any trips that cost more than $100 in total?
+MATCHED
+QUESTION RES: Is there any trip with more than 6 passengers?
+QUESTION IN DF: Is there any trip with more than 6 passengers?
+MATCHED
+QUESTION RES: Did all the trips use a payment type of either 1 or 2?
+QUESTION IN DF: Did all the trips use a payment type of either 1 or 2?
+MATCHED
+QUESTION RES: What is the maximum fare amount charged for a trip?
+QUESTION IN DF: What is the maximum fare amount charged for a trip?
+MATCHED
+QUESTION RES: How many unique pickup locations are in the dataset?
+QUESTION IN DF: How many unique pickup locations are in the dataset?
+MATCHED
+QUESTION RES: What is the average tip amount given by passengers?
+QUESTION IN DF: What is the average tip amount given by passengers?
+MATCHED
+QUESTION RES: How many trips took place in the airport area?
+QUESTION IN DF: How many trips took place in the airport area?
+MATCHED
+QUESTION RES: Which payment type is the most common in the dataset?
+QUESTION IN DF: Which payment type is the most common in the dataset?
+MATCHED
+Metrics for key: 004_Taxi
+  bool: 80.00%
+  num: 44.44%
+  Avg: 57.14%
+
+QUESTION RES: Are there any complaints made in Brooklyn?
+QUESTION IN DF: Are there any complaints made in Brooklyn?
+MATCHED
+Metrics for key: 005_NYC
+  bool: 100.00%
+  num: 100.00%
+  Avg: 100.00%
+
+For key: 006_London the model answers are empty
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+QUESTION RES: Are there players who have a greater overall score than their potential score?
+QUESTION IN DF: Are there players who have a greater overall score than their potential score?
+MATCHED
+QUESTION RES: Are there any players who joined their current club before they were 18 years old?
+QUESTION IN DF: Are there any players who joined their current club before they were 18 years old?
+MATCHED
+QUESTION RES: Are there any players whose preferred foot is left and are from a nationality that starts with 'B'?
+QUESTION IN DF: Are there any players whose preferred foot is left and are from a nationality that starts with 'B'?
+MATCHED
+QUESTION RES: Are there any players who are taller than 6 feet and have an agility score above 90?
+QUESTION IN DF: Are there any players who are taller than 6 feet and have an agility score above 90?
+MATCHED
+QUESTION RES: What is the average overall score of players from France?
+QUESTION IN DF: What is the average overall score of players from France?
+MATCHED
+QUESTION RES: How many unique clubs are there in the dataset?
+QUESTION IN DF: How many unique clubs are there in the dataset?
+MATCHED
+QUESTION RES: What is the highest value (in €) of a player in the dataset?
+QUESTION IN DF: What is the highest value (in €) of a player in the dataset?
+MATCHED
+QUESTION RES: How many players have the position 'ST'?
+QUESTION IN DF: How many players have the position 'ST'?
+MATCHED
+QUESTION RES: What is the most common nationality in the dataset?
+QUESTION IN DF: What is the most common nationality in the dataset?
+MATCHED
+QUESTION RES: What is the most common preferred foot amongst players?
+QUESTION IN DF: What is the most common preferred foot amongst players?
+MATCHED
+QUESTION RES: Which club has the most players in the dataset?
+QUESTION IN DF: Which club has the most players in the dataset?
+MATCHED
+QUESTION RES: What is the most common position of players in the dataset?
+QUESTION IN DF: What is the most common position of players in the dataset?
+MATCHED
+QUESTION RES: Which are the top 5 nationalities in terms of the average overall score of their players?
+QUESTION IN DF: Which are the top 5 nationalities in terms of the average overall score of their players?
+MATCHED
+QUESTION RES: Which are the top 3 clubs in terms of the total value (in €) of their players?
+QUESTION IN DF: Which are the top 3 clubs in terms of the total value (in €) of their players?
+MATCHED
+QUESTION RES: Which are the bottom 4 nationalities in terms of the average agility of their players?
+QUESTION IN DF: Which are the bottom 4 nationalities in terms of the average agility of their players?
+MATCHED
+QUESTION RES: Which are the top 6 clubs in terms of the average potential score of their players?
+QUESTION IN DF: Which are the top 6 clubs in terms of the average potential score of their players?
+MATCHED
+QUESTION RES: What are the top 3 overall scores in the dataset?
+QUESTION IN DF: What are the top 3 overall scores in the dataset?
+MATCHED
+Metrics for key: 007_Fifa
+  bool: 40.00%
+  str: 0.00%
+  num: 28.57%
+  list: 0.00%
+  Avg: 18.18%
+
+QUESTION RES: There are no tornadoes that resulted in more than 500 injuries.
+QUESTION IN DF: There are no tornadoes that resulted in more than 500 injuries.
+MATCHED
+QUESTION RES: All tornadoes in the dataset occurred in the 21st century.
+QUESTION IN DF: All tornadoes in the dataset occurred in the 21st century.
+MATCHED
+QUESTION RES: No tornado has a length greater than 100 miles.
+QUESTION IN DF: No tornado has a length greater than 100 miles.
+MATCHED
+QUESTION RES: There are no tornadoes that resulted in more than 100 fatalities.
+QUESTION IN DF: There are no tornadoes that resulted in more than 100 fatalities.
+MATCHED
+QUESTION RES: How many unique states are represented in the dataset?
+QUESTION IN DF: How many unique states are represented in the dataset?
+MATCHED
+QUESTION RES: What is the highest magnitude of tornado recorded in the dataset?
+QUESTION IN DF: What is the highest magnitude of tornado recorded in the dataset?
+MATCHED
+QUESTION RES: What is the longest length of a tornado path in the dataset?
+QUESTION IN DF: What is the longest length of a tornado path in the dataset?
+MATCHED
+QUESTION RES: What is the maximum number of injuries caused by a single tornado?
+QUESTION IN DF: What is the maximum number of injuries caused by a single tornado?
+MATCHED
+QUESTION RES: Which state has experienced the most tornadoes?
+QUESTION IN DF: Which state has experienced the most tornadoes?
+MATCHED
+QUESTION RES: In which month do most tornadoes occur?
+QUESTION IN DF: In which month do most tornadoes occur?
+MATCHED
+QUESTION RES: On what date did the most destructive tornado (by injuries) occur?
+QUESTION IN DF: On what date did the most destructive tornado (by injuries) occur?
+MATCHED
+QUESTION RES: On what date did the longest tornado (by path length) occur?
+QUESTION IN DF: On what date did the longest tornado (by path length) occur?
+MATCHED
+QUESTION RES: Which are the top 5 states with the highest average tornado magnitude?
+QUESTION IN DF: Which are the top 5 states with the highest average tornado magnitude?
+MATCHED
+QUESTION RES: Which are the top 3 states with the most tornado-related injuries?
+QUESTION IN DF: Which are the top 3 states with the most tornado-related injuries?
+MATCHED
+QUESTION RES: Which are the top 4 states with the most tornado-related fatalities?
+QUESTION IN DF: Which are the top 4 states with the most tornado-related fatalities?
+MATCHED
+QUESTION RES: Which are the bottom 2 states in terms of the average tornado path length?
+QUESTION IN DF: Which are the bottom 2 states in terms of the average tornado path length?
+MATCHED
+QUESTION RES: What are the top 3 number of injuries caused by tornadoes in the dataset?
+QUESTION IN DF: What are the top 3 number of injuries caused by tornadoes in the dataset?
+MATCHED
+QUESTION RES: What are the top 5 magnitudes of tornadoes in the dataset?
+QUESTION IN DF: What are the top 5 magnitudes of tornadoes in the dataset?
+MATCHED
+QUESTION RES: What are the top 4 path lengths of tornadoes in the dataset?
+QUESTION IN DF: What are the top 4 path lengths of tornadoes in the dataset?
+MATCHED
+QUESTION RES: What are the top 6 number of fatalities caused by tornadoes in the dataset?
+QUESTION IN DF: What are the top 6 number of fatalities caused by tornadoes in the dataset?
+MATCHED
+Metrics for key: 008_Tornados
+  bool: 25.00%
+  str: 0.00%
+  num: 11.11%
+  list: 0.00%
+  Avg: 8.33%
+
+QUESTION RES: There were no days when the precipitation was greater than 5 inches.
+QUESTION IN DF: There were no days when the precipitation was greater than 5 inches.
+MATCHED
+QUESTION RES: All recorded temperatures are above freezing point.
+QUESTION IN DF: All recorded temperatures are above freezing point.
+MATCHED
+QUESTION RES: There were no days when the snow depth was more than 10 inches.
+QUESTION IN DF: There were no days when the snow depth was more than 10 inches.
+MATCHED
+QUESTION RES: There were no days when the maximum temperature was below freezing point.
+QUESTION IN DF: There were no days when the maximum temperature was below freezing point.
+MATCHED
+QUESTION RES: What is the highest recorded precipitation in inches?
+QUESTION IN DF: What is the highest recorded precipitation in inches?
+MATCHED
+QUESTION RES: What is the lowest minimum temperature recorded?
+QUESTION IN DF: What is the lowest minimum temperature recorded?
+MATCHED
+QUESTION RES: What is the highest maximum temperature recorded?
+QUESTION IN DF: What is the highest maximum temperature recorded?
+MATCHED
+QUESTION RES: What is the deepest recorded snow depth in inches?
+QUESTION IN DF: What is the deepest recorded snow depth in inches?
+MATCHED
+QUESTION RES: On which date was the highest precipitation recorded?
+QUESTION IN DF: On which date was the highest precipitation recorded?
+MATCHED
+QUESTION RES: On which date was the lowest minimum temperature recorded?
+QUESTION IN DF: On which date was the lowest minimum temperature recorded?
+MATCHED
+QUESTION RES: On which date was the highest maximum temperature recorded?
+QUESTION IN DF: On which date was the highest maximum temperature recorded?
+MATCHED
+QUESTION RES: On which date was the deepest snow depth recorded?
+QUESTION IN DF: On which date was the deepest snow depth recorded?
+MATCHED
+QUESTION RES: What are the dates of the top 5 highest recorded precipitation events?
+QUESTION IN DF: What are the dates of the top 5 highest recorded precipitation events?
+MATCHED
+QUESTION RES: What are the dates of the top 3 lowest minimum temperatures recorded?
+QUESTION IN DF: What are the dates of the top 3 lowest minimum temperatures recorded?
+MATCHED
+QUESTION RES: What are the dates of the top 4 highest maximum temperatures recorded?
+QUESTION IN DF: What are the dates of the top 4 highest maximum temperatures recorded?
+MATCHED
+QUESTION RES: What are the dates of the top 2 deepest snow depth recorded?
+QUESTION IN DF: What are the dates of the top 2 deepest snow depth recorded?
+MATCHED
+QUESTION RES: What are the top 3 highest recorded precipitation events in inches?
+QUESTION IN DF: What are the top 3 highest recorded precipitation events in inches?
+MATCHED
+QUESTION RES: What are the top 5 lowest minimum temperatures recorded?
+QUESTION IN DF: What are the top 5 lowest minimum temperatures recorded?
+MATCHED
+QUESTION RES: What are the top 4 highest maximum temperatures recorded?
+QUESTION IN DF: What are the top 4 highest maximum temperatures recorded?
+MATCHED
+QUESTION RES: What are the top 2 deepest snow depth recorded in inches?
+QUESTION IN DF: What are the top 2 deepest snow depth recorded in inches?
+MATCHED
+Metrics for key: 009_Central
+  bool: 50.00%
+  str: 0.00%
+  num: 25.00%
+  list: 0.00%
+  Avg: 16.67%
+
+QUESTION RES: Are there more than 20 unique clothing items in the dataset?
+QUESTION IN DF: Are there more than 20 unique clothing items in the dataset?
+MATCHED
+QUESTION RES: Is the age of the reviewers above 50 years on average?
+QUESTION IN DF: Is the age of the reviewers above 50 years on average?
+MATCHED
+QUESTION RES: Do all reviews come from the same department?
+QUESTION IN DF: Do all reviews come from the same department?
+MATCHED
+QUESTION RES: Are all products recommended?
+QUESTION IN DF: Are all products recommended?
+MATCHED
+QUESTION RES: What is the average age of the reviewers?
+QUESTION IN DF: What is the average age of the reviewers?
+MATCHED
+QUESTION RES: What's the highest number of positive feedback received for a review?
+QUESTION IN DF: What's the highest number of positive feedback received for a review?
+MATCHED
+QUESTION RES: What is the most common rating given by reviewers?
+QUESTION IN DF: What is the most common rating given by reviewers?
+MATCHED
+QUESTION RES: How many unique clothing items are there in the dataset?
+QUESTION IN DF: How many unique clothing items are there in the dataset?
+MATCHED
+QUESTION RES: Which department has the most reviews?
+QUESTION IN DF: Which department has the most reviews?
+MATCHED
+QUESTION RES: Which class of clothing is most commonly reviewed?
+QUESTION IN DF: Which class of clothing is most commonly reviewed?
+MATCHED
+QUESTION RES: Which division is most commonly mentioned in the reviews?
+QUESTION IN DF: Which division is most commonly mentioned in the reviews?
+MATCHED
+QUESTION RES: What is the most frequently reviewed clothing item?
+QUESTION IN DF: What is the most frequently reviewed clothing item?
+MATCHED
+Metrics for key: 010_ECommerce
+  bool: 75.00%
+  str: 0.00%
+  num: 44.44%
+  Avg: 43.75%
+
+QUESTION RES: Was the highest reported incident in the year 2023 filed online?
+QUESTION IN DF: Was the highest reported incident in the year 2023 filed online?
+MATCHED
+QUESTION RES: Are all incidents reported on Mondays resolved?
+QUESTION IN DF: Are all incidents reported on Mondays resolved?
+MATCHED
+QUESTION RES: Do any incidents reported in Police District 'Central' fall in Supervisor District 5?
+QUESTION IN DF: Do any incidents reported in Police District 'Central' fall in Supervisor District 5?
+MATCHED
+QUESTION RES: Are there any incidents that occurred at the same latitude and longitude more than once?
+QUESTION IN DF: Are there any incidents that occurred at the same latitude and longitude more than once?
+MATCHED
+QUESTION RES: How many unique types of incident categories are there in the dataset?
+QUESTION IN DF: How many unique types of incident categories are there in the dataset?
+MATCHED
+QUESTION RES: What's the total number of incidents reported online?
+QUESTION IN DF: What's the total number of incidents reported online?
+MATCHED
+QUESTION RES: How many different police districts are there in the dataset?
+QUESTION IN DF: How many different police districts are there in the dataset?
+MATCHED
+QUESTION RES: What is the average incident count per year?
+QUESTION IN DF: What is the average incident count per year?
+MATCHED
+QUESTION RES: What is the most common incident category?
+QUESTION IN DF: What is the most common incident category?
+MATCHED
+QUESTION RES: Which day of the week has the highest number of incidents?
+QUESTION IN DF: Which day of the week has the highest number of incidents?
+MATCHED
+QUESTION RES: What is the most common resolution for incidents reported online?
+QUESTION IN DF: What is the most common resolution for incidents reported online?
+MATCHED
+QUESTION RES: What is the Police District with the most incidents?
+QUESTION IN DF: What is the Police District with the most incidents?
+MATCHED
+QUESTION RES: What are the top 5 most common incident descriptions?
+QUESTION IN DF: What are the top 5 most common incident descriptions?
+MATCHED
+QUESTION RES: Name the 4 most frequently occurring police districts.
+QUESTION IN DF: Name the 4 most frequently occurring police districts.
+MATCHED
+QUESTION RES: List the 3 most common incident categories on Fridays.
+QUESTION IN DF: List the 3 most common incident categories on Fridays.
+MATCHED
+QUESTION RES: Give the 6 most common resolutions for incidents.
+QUESTION IN DF: Give the 6 most common resolutions for incidents.
+MATCHED
+QUESTION RES: List the years with the top 4 highest incident counts.
+QUESTION IN DF: List the years with the top 4 highest incident counts.
+MATCHED
+QUESTION RES: Which 3 incident years have the lowest number of online filed reports?
+QUESTION IN DF: Which 3 incident years have the lowest number of online filed reports?
+MATCHED
+QUESTION RES: Provide the 5 most frequently repeated latitude-longitude pairs.
+QUESTION IN DF: Provide the 5 most frequently repeated latitude-longitude pairs.
+MATCHED
+QUESTION RES: Name the 6 years with the most number of unique incident categories.
+QUESTION IN DF: Name the 6 years with the most number of unique incident categories.
+MATCHED
+Metrics for key: 011_SF
+  bool: 60.00%
+  str: 0.00%
+  num: 37.50%
+  list: 0.00%
+  Avg: 24.00%
+
+QUESTION RES: Do all patients experience exercise-induced angina?
+QUESTION IN DF: Do all patients experience exercise-induced angina?
+MATCHED
+QUESTION RES: Does any patient have a resting blood pressure above 200?
+QUESTION IN DF: Does any patient have a resting blood pressure above 200?
+MATCHED
+QUESTION RES: Are there patients without heart disease?
+QUESTION IN DF: Are there patients without heart disease?
+MATCHED
+QUESTION RES: Does everyone have normal resting electrocardiographic results?
+QUESTION IN DF: Does everyone have normal resting electrocardiographic results?
+MATCHED
+QUESTION RES: What is the maximum age of patients in the dataset?
+QUESTION IN DF: What is the maximum age of patients in the dataset?
+MATCHED
+QUESTION RES: What is the minimum resting blood pressure among the patients?
+QUESTION IN DF: What is the minimum resting blood pressure among the patients?
+MATCHED
+QUESTION RES: What is the average cholesterol level in the dataset?
+QUESTION IN DF: What is the average cholesterol level in the dataset?
+MATCHED
+Metrics for key: 012_Heart
+  bool: 100.00%
+  num: 57.14%
+  Avg: 72.73%
+
+QUESTION RES: Did the oldest roller coaster in the dataset still operate?
+QUESTION IN DF: Did the oldest roller coaster in the dataset still operate?
+MATCHED
+QUESTION RES: Is there a roller coaster in the dataset that operates at a speed more than 100 mph?
+QUESTION IN DF: Is there a roller coaster in the dataset that operates at a speed more than 100 mph?
+MATCHED
+QUESTION RES: Are all roller coasters in the dataset designed by 'Werner Stengel' removed?
+QUESTION IN DF: Are all roller coasters in the dataset designed by 'Werner Stengel' removed?
+MATCHED
+QUESTION RES: Does every roller coaster have a G-force value?
+QUESTION IN DF: Does every roller coaster have a G-force value?
+MATCHED
+QUESTION RES: What is the maximum speed (in mph) for roller coasters in the dataset?
+QUESTION IN DF: What is the maximum speed (in mph) for roller coasters in the dataset?
+MATCHED
+QUESTION RES: How many roller coasters were introduced in the year 2000?
+QUESTION IN DF: How many roller coasters were introduced in the year 2000?
+MATCHED
+QUESTION RES: What is the average G-force across all roller coasters in the dataset?
+QUESTION IN DF: What is the average G-force across all roller coasters in the dataset?
+MATCHED
+QUESTION RES: What is the total number of roller coasters designed by 'Edwin Madeupname' in the dataset?
+QUESTION IN DF: What is the total number of roller coasters designed by 'Edwin Madeupname' in the dataset?
+MATCHED
+QUESTION RES: Which manufacturer has built the fastest roller coaster?
+QUESTION IN DF: Which manufacturer has built the fastest roller coaster?
+MATCHED
+QUESTION RES: What is the status of the roller coaster with the highest G-force?
+QUESTION IN DF: What is the status of the roller coaster with the highest G-force?
+MATCHED
+QUESTION RES: What type of the roller coaster is the oldest in the dataset?
+QUESTION IN DF: What type of the roller coaster is the oldest in the dataset?
+MATCHED
+QUESTION RES: What is the location of the roller coaster with the highest number of inversions?
+QUESTION IN DF: What is the location of the roller coaster with the highest number of inversions?
+MATCHED
+QUESTION RES: What are the names of the top 3 fastest roller coasters?
+QUESTION IN DF: What are the names of the top 3 fastest roller coasters?
+MATCHED
+Metrics for key: 013_Roller
+  bool: 16.67%
+  str: 0.00%
+  num: 12.50%
+  list: 0.00%
+  Avg: 10.53%
+
+For key: 014_Airbnb the model answers are empty
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+QUESTION RES: Is there a food item with 'Fruits' as its group?
+QUESTION IN DF: Is there a food item with 'Fruits' as its group?
+MATCHED
+QUESTION RES: Are there food items with 'Nuts' as their sub group?
+QUESTION IN DF: Are there food items with 'Nuts' as their sub group?
+MATCHED
+QUESTION RES: Is there a food item with scientific name 'Tilia argentea'?
+QUESTION IN DF: Is there a food item with scientific name 'Tilia argentea'?
+MATCHED
+QUESTION RES: Is 'Angelica' listed as a food name in the dataset?
+QUESTION IN DF: Is 'Angelica' listed as a food name in the dataset?
+MATCHED
+QUESTION RES: How many food items are there in the dataset?
+QUESTION IN DF: How many food items are there in the dataset?
+MATCHED
+QUESTION RES: How many unique food groups are there in the dataset?
+QUESTION IN DF: How many unique food groups are there in the dataset?
+MATCHED
+QUESTION RES: How many unique sub groups are there in the dataset?
+QUESTION IN DF: How many unique sub groups are there in the dataset?
+MATCHED
+QUESTION RES: How many unique food items are there in the dataset?
+QUESTION IN DF: How many unique food items are there in the dataset?
+MATCHED
+QUESTION RES: What is the group of the food named 'Kiwi'?
+QUESTION IN DF: What is the group of the food named 'Kiwi'?
+MATCHED
+QUESTION RES: What is the sub group of the food with scientific name 'Tilia argentea'?
+QUESTION IN DF: What is the sub group of the food with scientific name 'Tilia argentea'?
+MATCHED
+QUESTION RES: What is the scientific name of the food named 'Kiwi'?
+QUESTION IN DF: What is the scientific name of the food named 'Kiwi'?
+MATCHED
+QUESTION RES: What is the food name of the item with scientific name 'Tilia argentea'?
+QUESTION IN DF: What is the food name of the item with scientific name 'Tilia argentea'?
+MATCHED
+QUESTION RES: What are the top 3 most common food groups?
+QUESTION IN DF: What are the top 3 most common food groups?
+MATCHED
+QUESTION RES: What are the top 2 most common sub groups?
+QUESTION IN DF: What are the top 2 most common sub groups?
+MATCHED
+QUESTION RES: What are the bottom 4 least common food groups?
+QUESTION IN DF: What are the bottom 4 least common food groups?
+MATCHED
+QUESTION RES: What are the bottom 2 least common sub groups?
+QUESTION IN DF: What are the bottom 2 least common sub groups?
+MATCHED
+QUESTION RES: What are the top 3 most common food name lengths?
+QUESTION IN DF: What are the top 3 most common food name lengths?
+MATCHED
+QUESTION RES: What are the bottom 4 least common food name lengths?
+QUESTION IN DF: What are the bottom 4 least common food name lengths?
+MATCHED
+QUESTION RES: What are the top 2 most common scientific name lengths?
+QUESTION IN DF: What are the top 2 most common scientific name lengths?
+MATCHED
+QUESTION RES: What are the top 5 most common group name lengths?
+QUESTION IN DF: What are the top 5 most common group name lengths?
+MATCHED
+Metrics for key: 015_Food
+  bool: 50.00%
+  str: 0.00%
+  num: 25.00%
+  list: 0.00%
+  Avg: 16.67%
+
+QUESTION RES: Is there a customer with 'Large Business' as their occupation?
+QUESTION IN DF: Is there a customer with 'Large Business' as their occupation?
+MATCHED
+QUESTION RES: Are there customers with 'King' as their pitched product?
+QUESTION IN DF: Are there customers with 'King' as their pitched product?
+MATCHED
+QUESTION RES: Is there a customer with designation 'VP'?
+QUESTION IN DF: Is there a customer with designation 'VP'?
+MATCHED
+QUESTION RES: Is 'Unmarried' listed as a marital status in the dataset?
+QUESTION IN DF: Is 'Unmarried' listed as a marital status in the dataset?
+MATCHED
+QUESTION RES: How many customers are there in the dataset?
+QUESTION IN DF: How many customers are there in the dataset?
+MATCHED
+QUESTION RES: How many unique occupations are there in the dataset?
+QUESTION IN DF: How many unique occupations are there in the dataset?
+MATCHED
+QUESTION RES: How many unique designations are there in the dataset?
+QUESTION IN DF: How many unique designations are there in the dataset?
+MATCHED
+QUESTION RES: How many unique marital statuses are there in the dataset?
+QUESTION IN DF: How many unique marital statuses are there in the dataset?
+MATCHED
+QUESTION RES: What is the occupation of the customer with ID 200000?
+QUESTION IN DF: What is the occupation of the customer with ID 200000?
+MATCHED
+QUESTION RES: What is the product pitched to the customer with ID 200001?
+QUESTION IN DF: What is the product pitched to the customer with ID 200001?
+MATCHED
+QUESTION RES: What is the designation of the customer with ID 200002?
+QUESTION IN DF: What is the designation of the customer with ID 200002?
+MATCHED
+QUESTION RES: What is the marital status of the customer with ID 200003?
+QUESTION IN DF: What is the marital status of the customer with ID 200003?
+MATCHED
+QUESTION RES: What are the top 3 most common occupations?
+QUESTION IN DF: What are the top 3 most common occupations?
+MATCHED
+QUESTION RES: What are the top 2 most common pitched products?
+QUESTION IN DF: What are the top 2 most common pitched products?
+MATCHED
+QUESTION RES: What are the bottom 4 least common occupations?
+QUESTION IN DF: What are the bottom 4 least common occupations?
+MATCHED
+QUESTION RES: What are the bottom 2 least common pitched products?
+QUESTION IN DF: What are the bottom 2 least common pitched products?
+MATCHED
+QUESTION RES: What are the top 3 most common ages of the customers?
+QUESTION IN DF: What are the top 3 most common ages of the customers?
+MATCHED
+QUESTION RES: What are the bottom 4 least common ages of the customers?
+QUESTION IN DF: What are the bottom 4 least common ages of the customers?
+MATCHED
+QUESTION RES: What are the top 2 most common monthly incomes of the customers?
+QUESTION IN DF: What are the top 2 most common monthly incomes of the customers?
+MATCHED
+QUESTION RES: What are the top 5 most common duration of pitch?
+QUESTION IN DF: What are the top 5 most common duration of pitch?
+MATCHED
+Metrics for key: 016_Holiday
+  bool: 0.00%
+  str: 0.00%
+  num: 25.00%
+  list: 0.00%
+  Avg: 8.33%
+
+QUESTION RES: Is there any entry posted on a weekend?
+QUESTION IN DF: Is there any entry posted on a weekend?
+MATCHED
+QUESTION RES: Are there titles with more than 100 characters?
+QUESTION IN DF: Are there titles with more than 100 characters?
+MATCHED
+QUESTION RES: Do any entries have a negative sentiment according to the Cardiff NLP model?
+QUESTION IN DF: Do any entries have a negative sentiment according to the Cardiff NLP model?
+MATCHED
+QUESTION RES: Is the term 'linux' mentioned in the "Clusters II" column?
+QUESTION IN DF: Is the term 'linux' mentioned in the "Clusters II" column?
+MATCHED
+QUESTION RES: How many entries were posted in the morning?
+QUESTION IN DF: How many entries were posted in the morning?
+MATCHED
+QUESTION RES: What's the highest score received by an entry?
+QUESTION IN DF: What's the highest score received by an entry?
+MATCHED
+QUESTION RES: On average, how many descendants does an entry have?
+QUESTION IN DF: On average, how many descendants does an entry have?
+MATCHED
+QUESTION RES: How many entries are in the Autumn season?
+QUESTION IN DF: How many entries are in the Autumn season?
+MATCHED
+QUESTION RES: Which day of the week has the most entries?
+QUESTION IN DF: Which day of the week has the most entries?
+MATCHED
+QUESTION RES: What is the predominant language used in titles?
+QUESTION IN DF: What is the predominant language used in titles?
+MATCHED
+QUESTION RES: In which season was the entry with the highest score posted?
+QUESTION IN DF: In which season was the entry with the highest score posted?
+MATCHED
+QUESTION RES: On which part of the day are most entries posted?
+QUESTION IN DF: On which part of the day are most entries posted?
+MATCHED
+QUESTION RES: List the top 4 most frequent terms in the "Clusters II" column.
+QUESTION IN DF: List the top 4 most frequent terms in the "Clusters II" column.
+MATCHED
+QUESTION RES: Name the bottom 3 month names in terms of entry frequency.
+QUESTION IN DF: Name the bottom 3 month names in terms of entry frequency.
+MATCHED
+QUESTION RES: Identify the top 5 weekdays based on entry frequency.
+QUESTION IN DF: Identify the top 5 weekdays based on entry frequency.
+MATCHED
+QUESTION RES: Provide the bottom 4 seasons in terms of entry count.
+QUESTION IN DF: Provide the bottom 4 seasons in terms of entry count.
+MATCHED
+QUESTION RES: List the top 3 scores in the dataset.
+QUESTION IN DF: List the top 3 scores in the dataset.
+MATCHED
+QUESTION RES: Name the bottom 5 title text lengths.
+QUESTION IN DF: Name the bottom 5 title text lengths.
+MATCHED
+QUESTION RES: Identify the top 4 numbers of descendants.
+QUESTION IN DF: Identify the top 4 numbers of descendants.
+MATCHED
+QUESTION RES: Provide the bottom 6 scores in the dataset.
+QUESTION IN DF: Provide the bottom 6 scores in the dataset.
+MATCHED
+Metrics for key: 017_Hacker
+  bool: 60.00%
+  str: 50.00%
+  num: 37.50%
+  list: 0.00%
+  Avg: 32.00%
+
+QUESTION RES: Are there any employees with more than 7 projects?
+QUESTION IN DF: Are there any employees with more than 7 projects?
+MATCHED
+QUESTION RES: Has any employee worked for more than 300 hours on average per month?
+QUESTION IN DF: Has any employee worked for more than 300 hours on average per month?
+MATCHED
+QUESTION RES: Are all satisfaction levels above 0.5?
+QUESTION IN DF: Are all satisfaction levels above 0.5?
+MATCHED
+QUESTION RES: Were there any employees hired in 2019?
+QUESTION IN DF: Were there any employees hired in 2019?
+MATCHED
+QUESTION RES: How many unique departments are there?
+QUESTION IN DF: How many unique departments are there?
+MATCHED
+QUESTION RES: What's the maximum number of years an employee has been in the company?
+QUESTION IN DF: What's the maximum number of years an employee has been in the company?
+MATCHED
+QUESTION RES: How many employees have been promoted in the last 5 years?
+QUESTION IN DF: How many employees have been promoted in the last 5 years?
+MATCHED
+QUESTION RES: On average, how many hours do employees work monthly?
+QUESTION IN DF: On average, how many hours do employees work monthly?
+MATCHED
+QUESTION RES: Which department has the highest number of employees?
+QUESTION IN DF: Which department has the highest number of employees?
+MATCHED
+QUESTION RES: What's the most common salary level among employees?
+QUESTION IN DF: What's the most common salary level among employees?
+MATCHED
+QUESTION RES: Which year had the highest number of employees hired?
+QUESTION IN DF: Which year had the highest number of employees hired?
+MATCHED
+QUESTION RES: Which salary level has the least number of employees who had an accident at work?
+QUESTION IN DF: Which salary level has the least number of employees who had an accident at work?
+MATCHED
+Metrics for key: 018_Staff
+  bool: 60.00%
+  str: 33.33%
+  num: 33.33%
+  Avg: 41.18%
+
+QUESTION RES: Did any incident result in the total destruction of the aircraft?
+QUESTION IN DF: Did any incident result in the total destruction of the aircraft?
+MATCHED
+QUESTION RES: Have there been any incidents where the cause was related to the undercarriage of the aircraft?
+QUESTION IN DF: Have there been any incidents where the cause was related to the undercarriage of the aircraft?
+MATCHED
+QUESTION RES: Has there been any instance where the ground casualties were non-zero?
+QUESTION IN DF: Has there been any instance where the ground casualties were non-zero?
+MATCHED
+QUESTION RES: Are there incidents where the aircraft was involved in a collision?
+QUESTION IN DF: Are there incidents where the aircraft was involved in a collision?
+MATCHED
+QUESTION RES: How many unique aircraft models are in the dataset?
+QUESTION IN DF: How many unique aircraft models are in the dataset?
+MATCHED
+QUESTION RES: What's the highest number of occupants recorded in an incident?
+QUESTION IN DF: What's the highest number of occupants recorded in an incident?
+MATCHED
+QUESTION RES: How many incidents occurred in January 2022?
+QUESTION IN DF: How many incidents occurred in January 2022?
+MATCHED
+QUESTION RES: How many incidents resulted in non-zero fatalities?
+QUESTION IN DF: How many incidents resulted in non-zero fatalities?
+MATCHED
+QUESTION RES: Which aircraft model was involved in the most incidents?
+QUESTION IN DF: Which aircraft model was involved in the most incidents?
+MATCHED
+QUESTION RES: What was the cause of the incident that resulted in the most fatalities?
+QUESTION IN DF: What was the cause of the incident that resulted in the most fatalities?
+MATCHED
+Metrics for key: 019_Aircraft
+  bool: 60.00%
+  str: 0.00%
+  num: 50.00%
+  Avg: 46.67%
+
+QUESTION RES: Are there any properties with a price over 1,000,000?
+QUESTION IN DF: Are there any properties with a price over 1,000,000?
+MATCHED
+QUESTION RES: Any property with more than 10 bedrooms?
+QUESTION IN DF: Any property with more than 10 bedrooms?
+MATCHED
+QUESTION RES: Are there properties with zero bathrooms?
+QUESTION IN DF: Are there properties with zero bathrooms?
+MATCHED
+QUESTION RES: Has any property been listed for more than 100 days?
+QUESTION IN DF: Has any property been listed for more than 100 days?
+MATCHED
+QUESTION RES: What's the highest price in the dataset?
+QUESTION IN DF: What's the highest price in the dataset?
+MATCHED
+QUESTION RES: What's the total number of properties listed?
+QUESTION IN DF: What's the total number of properties listed?
+MATCHED
+QUESTION RES: What's the longest duration a property has been listed?
+QUESTION IN DF: What's the longest duration a property has been listed?
+MATCHED
+QUESTION RES: What's the largest property (by surface area) listed?
+QUESTION IN DF: What's the largest property (by surface area) listed?
+MATCHED
+QUESTION RES: What's the most common type of property listed?
+QUESTION IN DF: What's the most common type of property listed?
+MATCHED
+QUESTION RES: Which advertiser has listed the most properties?
+QUESTION IN DF: Which advertiser has listed the most properties?
+MATCHED
+QUESTION RES: Which property has the highest price?
+QUESTION IN DF: Which property has the highest price?
+MATCHED
+QUESTION RES: Which property has the largest surface area?
+QUESTION IN DF: Which property has the largest surface area?
+MATCHED
+QUESTION RES: What are the top 5 types of properties listed?
+QUESTION IN DF: What are the top 5 types of properties listed?
+MATCHED
+QUESTION RES: Name the 3 advertisers who have listed the most properties.
+QUESTION IN DF: Name the 3 advertisers who have listed the most properties.
+MATCHED
+QUESTION RES: What are the 4 most common localities for properties listed?
+QUESTION IN DF: What are the 4 most common localities for properties listed?
+MATCHED
+QUESTION RES: What are the 2 most common districts for properties listed?
+QUESTION IN DF: What are the 2 most common districts for properties listed?
+MATCHED
+QUESTION RES: What are the 5 highest property prices listed?
+QUESTION IN DF: What are the 5 highest property prices listed?
+MATCHED
+QUESTION RES: List the 3 longest durations properties have been listed.
+QUESTION IN DF: List the 3 longest durations properties have been listed.
+MATCHED
+QUESTION RES: Identify the 4 largest properties (by surface area) listed.
+QUESTION IN DF: Identify the 4 largest properties (by surface area) listed.
+MATCHED
+QUESTION RES: What are the 6 highest numbers of bedrooms in properties listed?
+QUESTION IN DF: What are the 6 highest numbers of bedrooms in properties listed?
+MATCHED
+Metrics for key: 020_Real
+  bool: 0.00%
+  str: 0.00%
+  num: 0.00%
+  list: 0.00%
+  Avg: 0.00%
+
+QUESTION RES: Are there more than 2000 customers with a monthly charge higher than $80?
+QUESTION IN DF: Are there more than 2000 customers with a monthly charge higher than $80?
+MATCHED
+QUESTION RES: Do all customers have phone service?
+QUESTION IN DF: Do all customers have phone service?
+MATCHED
+QUESTION RES: Are there any customers with no internet service?
+QUESTION IN DF: Are there any customers with no internet service?
+MATCHED
+QUESTION RES: Are there any customers who are senior citizens and have dependents?
+QUESTION IN DF: Are there any customers who are senior citizens and have dependents?
+MATCHED
+QUESTION RES: How many unique customers are there in the dataset?
+QUESTION IN DF: How many unique customers are there in the dataset?
+MATCHED
+QUESTION RES: What's the highest monthly charge?
+QUESTION IN DF: What's the highest monthly charge?
+MATCHED
+QUESTION RES: What's the total number of customers?
+QUESTION IN DF: What's the total number of customers?
+MATCHED
+QUESTION RES: What's the longest tenure?
+QUESTION IN DF: What's the longest tenure?
+MATCHED
+QUESTION RES: What's the most common payment method?
+QUESTION IN DF: What's the most common payment method?
+MATCHED
+QUESTION RES: What's the most common contract type?
+QUESTION IN DF: What's the most common contract type?
+MATCHED
+QUESTION RES: Which customer has the highest total charge?
+QUESTION IN DF: Which customer has the highest total charge?
+MATCHED
+QUESTION RES: Which customer has the highest monthly charge?
+QUESTION IN DF: Which customer has the highest monthly charge?
+MATCHED
+QUESTION RES: What are the top 3 most common internet services?
+QUESTION IN DF: What are the top 3 most common internet services?
+MATCHED
+QUESTION RES: Name the 4 most common payment methods.
+QUESTION IN DF: Name the 4 most common payment methods.
+MATCHED
+QUESTION RES: What are the 2 most common types of contract?
+QUESTION IN DF: What are the 2 most common types of contract?
+MATCHED
+QUESTION RES: What are the 5 most common services for which customers have multiple lines?
+QUESTION IN DF: What are the 5 most common services for which customers have multiple lines?
+MATCHED
+Metrics for key: 021_Telco
+  bool: 0.00%
+  str: 0.00%
+  num: 0.00%
+  list: 0.00%
+  Avg: 0.00%
+
+QUESTION RES: Is there a listing with a review score rating of 100?
+QUESTION IN DF: Is there a listing with a review score rating of 100?
+MATCHED
+QUESTION RES: Are there any hosts who have listed more than 10 properties?
+QUESTION IN DF: Are there any hosts who have listed more than 10 properties?
+MATCHED
+QUESTION RES: Are all listings instantly bookable?
+QUESTION IN DF: Are all listings instantly bookable?
+MATCHED
+QUESTION RES: Is there a listing that requires a minimum of 365 nights?
+QUESTION IN DF: Is there a listing that requires a minimum of 365 nights?
+MATCHED
+QUESTION RES: How many unique hosts are there in the dataset?
+QUESTION IN DF: How many unique hosts are there in the dataset?
+MATCHED
+QUESTION RES: What is the highest number of listings a single host has?
+QUESTION IN DF: What is the highest number of listings a single host has?
+MATCHED
+QUESTION RES: How many unique locations are listed by the hosts?
+QUESTION IN DF: How many unique locations are listed by the hosts?
+MATCHED
+QUESTION RES: What is the average review score rating across all listings?
+QUESTION IN DF: What is the average review score rating across all listings?
+MATCHED
+QUESTION RES: What is the most common host location?
+QUESTION IN DF: What is the most common host location?
+MATCHED
+QUESTION RES: What is the name of the listing with the most bedrooms?
+QUESTION IN DF: What is the name of the listing with the most bedrooms?
+MATCHED
+QUESTION RES: Which location has the highest number of listings?
+QUESTION IN DF: Which location has the highest number of listings?
+MATCHED
+QUESTION RES: What is the most common property type?
+QUESTION IN DF: What is the most common property type?
+MATCHED
+QUESTION RES: What are the top 5 unique host locations with the most listings?
+QUESTION IN DF: What are the top 5 unique host locations with the most listings?
+MATCHED
+QUESTION RES: Name the 3 listings with the lowest review score ratings.
+QUESTION IN DF: Name the 3 listings with the lowest review score ratings.
+MATCHED
+QUESTION RES: List the 4 most common property types.
+QUESTION IN DF: List the 4 most common property types.
+MATCHED
+QUESTION RES: Who are the top 6 hosts with the most listings?
+QUESTION IN DF: Who are the top 6 hosts with the most listings?
+MATCHED
+QUESTION RES: What are the top 3 listing ids with the highest review score ratings?
+QUESTION IN DF: What are the top 3 listing ids with the highest review score ratings?
+MATCHED
+QUESTION RES: What are the 5 listing ids with the lowest number of minimum nights required?
+QUESTION IN DF: What are the 5 listing ids with the lowest number of minimum nights required?
+MATCHED
+QUESTION RES: List the 4 listing ids of the properties with the highest number of bedrooms.
+QUESTION IN DF: List the 4 listing ids of the properties with the highest number of bedrooms.
+MATCHED
+QUESTION RES: What are the 6 listing ids with the lowest review score location?
+QUESTION IN DF: What are the 6 listing ids with the lowest review score location?
+MATCHED
+Metrics for key: 022_Airbnbs
+  bool: 75.00%
+  str: 0.00%
+  num: 37.50%
+  list: 0.00%
+  Avg: 25.00%
+
+QUESTION RES: Was there a day when the minimum temperature was below zero and it didn't rain?
+QUESTION IN DF: Was there a day when the minimum temperature was below zero and it didn't rain?
+MATCHED
+QUESTION RES: Are there records where the solar radiation exceeds 10 but the maximum temperature was below 20?
+QUESTION IN DF: Are there records where the solar radiation exceeds 10 but the maximum temperature was below 20?
+MATCHED
+Metrics for key: 023_Climate
+  bool: 50.00%
+  num: 50.00%
+  Avg: 50.00%
+
+For key: 024_Salary the model answers are empty
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+QUESTION RES: Is the most visited URL related to 'no code data science'?
+QUESTION IN DF: Is the most visited URL related to 'no code data science'?
+MATCHED
+QUESTION RES: Does any URL have a competition level of 'Low'?
+QUESTION IN DF: Does any URL have a competition level of 'Low'?
+MATCHED
+QUESTION RES: Are there any URLs with an average monthly searches above 1000?
+QUESTION IN DF: Are there any URLs with an average monthly searches above 1000?
+MATCHED
+QUESTION RES: Is the URL with the highest ranking also the one with the highest monthly searches?
+QUESTION IN DF: Is the URL with the highest ranking also the one with the highest monthly searches?
+MATCHED
+QUESTION RES: How many unique URLs are in the dataset?
+QUESTION IN DF: How many unique URLs are in the dataset?
+MATCHED
+QUESTION RES: What is the highest ranking value in the dataset?
+QUESTION IN DF: What is the highest ranking value in the dataset?
+MATCHED
+QUESTION RES: What is the minimum average monthly searches in the dataset?
+QUESTION IN DF: What is the minimum average monthly searches in the dataset?
+MATCHED
+QUESTION RES: How many unique keywords are present in the dataset?
+QUESTION IN DF: How many unique keywords are present in the dataset?
+MATCHED
+QUESTION RES: What is the competition level of the highest-ranked URL?
+QUESTION IN DF: What is the competition level of the highest-ranked URL?
+MATCHED
+QUESTION RES: What keyword has the highest average monthly searches?
+QUESTION IN DF: What keyword has the highest average monthly searches?
+MATCHED
+QUESTION RES: What is the competition level for the URL with the lowest ranking?
+QUESTION IN DF: What is the competition level for the URL with the lowest ranking?
+MATCHED
+QUESTION RES: What keyword is associated with the URL with the highest ranking?
+QUESTION IN DF: What keyword is associated with the URL with the highest ranking?
+MATCHED
+QUESTION RES: What are the top 3 URLs with the highest average monthly searches?
+QUESTION IN DF: What are the top 3 URLs with the highest average monthly searches?
+MATCHED
+QUESTION RES: List the bottom 2 competition levels of URLs with ranking less than 5.
+QUESTION IN DF: List the bottom 2 competition levels of URLs with ranking less than 5.
+MATCHED
+QUESTION RES: Which are the top 4 keywords associated with the URLs of highest rankings?
+QUESTION IN DF: Which are the top 4 keywords associated with the URLs of highest rankings?
+MATCHED
+QUESTION RES: Enumerate the bottom 3 URLs with the lowest rankings.
+QUESTION IN DF: Enumerate the bottom 3 URLs with the lowest rankings.
+MATCHED
+QUESTION RES: What are the top 4 rankings associated with the keyword 'no code data science'?
+QUESTION IN DF: What are the top 4 rankings associated with the keyword 'no code data science'?
+MATCHED
+QUESTION RES: List the bottom 3 average monthly searches for URLs with medium competition.
+QUESTION IN DF: List the bottom 3 average monthly searches for URLs with medium competition.
+MATCHED
+QUESTION RES: Provide the top 5 rankings of URLs with low competition (if any).
+QUESTION IN DF: Provide the top 5 rankings of URLs with low competition (if any).
+MATCHED
+QUESTION RES: Specify the bottom 2 average monthly searches for URLs with the highest rankings.
+QUESTION IN DF: Specify the bottom 2 average monthly searches for URLs with the highest rankings.
+MATCHED
+Metrics for key: 025_Data
+  bool: 75.00%
+  str: 50.00%
+  num: 50.00%
+  list: 0.00%
+  Avg: 37.50%
+
+QUESTION RES: Is there any wine with a quality rating of 10?
+QUESTION IN DF: Is there any wine with a quality rating of 10?
+MATCHED
+QUESTION RES: Are there any wines with residual sugar above 15g/dm^3?
+QUESTION IN DF: Are there any wines with residual sugar above 15g/dm^3?
+MATCHED
+QUESTION RES: Is the highest alcohol content wine also the one with the highest quality rating?
+QUESTION IN DF: Is the highest alcohol content wine also the one with the highest quality rating?
+MATCHED
+QUESTION RES: Does any wine have a pH level below 2.5?
+QUESTION IN DF: Does any wine have a pH level below 2.5?
+MATCHED
+QUESTION RES: How many unique quality ratings are there in the dataset?
+QUESTION IN DF: How many unique quality ratings are there in the dataset?
+MATCHED
+QUESTION RES: What is the maximum fixed acidity level found in the dataset?
+QUESTION IN DF: What is the maximum fixed acidity level found in the dataset?
+MATCHED
+QUESTION RES: What is the minimum volatile acidity level in the dataset?
+QUESTION IN DF: What is the minimum volatile acidity level in the dataset?
+MATCHED
+QUESTION RES: How many wines have free sulfur dioxide above 50 mg/dm^3?
+QUESTION IN DF: How many wines have free sulfur dioxide above 50 mg/dm^3?
+MATCHED
+QUESTION RES: What is the quality rating of the wine with the highest alcohol content?
+QUESTION IN DF: What is the quality rating of the wine with the highest alcohol content?
+MATCHED
+QUESTION RES: What is the quality rating of the wine with the highest fixed acidity?
+QUESTION IN DF: What is the quality rating of the wine with the highest fixed acidity?
+MATCHED
+QUESTION RES: What is the quality rating of the wine with the lowest volatile acidity?
+QUESTION IN DF: What is the quality rating of the wine with the lowest volatile acidity?
+MATCHED
+QUESTION RES: What is the quality rating of the wine with the highest pH level?
+QUESTION IN DF: What is the quality rating of the wine with the highest pH level?
+MATCHED
+QUESTION RES: List the quality ratings of the top 3 wines with the highest alcohol content.
+QUESTION IN DF: List the quality ratings of the top 3 wines with the highest alcohol content.
+MATCHED
+QUESTION RES: Enumerate the quality ratings of the bottom 2 wines with the lowest residual sugar.
+QUESTION IN DF: Enumerate the quality ratings of the bottom 2 wines with the lowest residual sugar.
+MATCHED
+QUESTION RES: Which are the quality ratings of the top 5 wines with the highest density?
+QUESTION IN DF: Which are the quality ratings of the top 5 wines with the highest density?
+MATCHED
+QUESTION RES: List the quality ratings of the bottom 4 wines with the lowest pH level.
+QUESTION IN DF: List the quality ratings of the bottom 4 wines with the lowest pH level.
+MATCHED
+QUESTION RES: What are the alcohol contents of the top 4 wines with the highest quality ratings?
+QUESTION IN DF: What are the alcohol contents of the top 4 wines with the highest quality ratings?
+MATCHED
+QUESTION RES: List the volatile acidity levels of the bottom 3 wines with the lowest quality ratings.
+QUESTION IN DF: List the volatile acidity levels of the bottom 3 wines with the lowest quality ratings.
+MATCHED
+QUESTION RES: Enumerate the fixed acidity levels of the top 5 wines with the highest quality ratings.
+QUESTION IN DF: Enumerate the fixed acidity levels of the top 5 wines with the highest quality ratings.
+MATCHED
+QUESTION RES: Provide the residual sugar levels of the bottom 2 wines with the lowest quality ratings.
+QUESTION IN DF: Provide the residual sugar levels of the bottom 2 wines with the lowest quality ratings.
+MATCHED
+Metrics for key: 026_Predicting
+  bool: 40.00%
+  num: 33.33%
+  list: 0.00%
+  Avg: 24.00%
+
+QUESTION RES: Is there any purchase with a total cost above 1000?
+QUESTION IN DF: Is there any purchase with a total cost above 1000?
+MATCHED
+QUESTION RES: Are there any customers who made a purchase using cash?
+QUESTION IN DF: Are there any customers who made a purchase using cash?
+MATCHED
+QUESTION RES: Is the customer with the highest total purchase cost a 'Member'?
+QUESTION IN DF: Is the customer with the highest total purchase cost a 'Member'?
+MATCHED
+QUESTION RES: Does any customer with a rating strictly above 9 use 'Ewallet' as their payment method?
+QUESTION IN DF: Does any customer with a rating strictly above 9 use 'Ewallet' as their payment method?
+MATCHED
+QUESTION RES: How many unique branches are there in the dataset?
+QUESTION IN DF: How many unique branches are there in the dataset?
+MATCHED
+QUESTION RES: What is the maximum quantity of products bought in a single purchase?
+QUESTION IN DF: What is the maximum quantity of products bought in a single purchase?
+MATCHED
+QUESTION RES: What is the minimum total cost of a purchase in the dataset?
+QUESTION IN DF: What is the minimum total cost of a purchase in the dataset?
+MATCHED
+QUESTION RES: How many purchases were made in Yangon city?
+QUESTION IN DF: How many purchases were made in Yangon city?
+MATCHED
+QUESTION RES: What is the payment method used for the purchase with the highest total cost?
+QUESTION IN DF: What is the payment method used for the purchase with the highest total cost?
+MATCHED
+QUESTION RES: What is the product line of the purchase with the highest total cost?
+QUESTION IN DF: What is the product line of the purchase with the highest total cost?
+MATCHED
+QUESTION RES: What is the customer type of the purchase with the lowest total cost?
+QUESTION IN DF: What is the customer type of the purchase with the lowest total cost?
+MATCHED
+QUESTION RES: What is the gender of the customer with the highest total purchase cost?
+QUESTION IN DF: What is the gender of the customer with the highest total purchase cost?
+MATCHED
+QUESTION RES: List the payment methods of the top 3 purchases with the highest total cost.
+QUESTION IN DF: List the payment methods of the top 3 purchases with the highest total cost.
+MATCHED
+QUESTION RES: Enumerate the product lines of the bottom 2 purchases with the lowest total cost.
+QUESTION IN DF: Enumerate the product lines of the bottom 2 purchases with the lowest total cost.
+MATCHED
+QUESTION RES: Which are the customer types of the top 5 purchases with the highest total cost?
+QUESTION IN DF: Which are the customer types of the top 5 purchases with the highest total cost?
+MATCHED
+QUESTION RES: List the genders of the bottom 4 purchases with the lowest total cost.
+QUESTION IN DF: List the genders of the bottom 4 purchases with the lowest total cost.
+MATCHED
+QUESTION RES: What are the quantities of products bought in the top 4 purchases with the highest total cost?
+QUESTION IN DF: What are the quantities of products bought in the top 4 purchases with the highest total cost?
+MATCHED
+QUESTION RES: List the unit prices of the bottom 3 purchases with the lowest total cost.
+QUESTION IN DF: List the unit prices of the bottom 3 purchases with the lowest total cost.
+MATCHED
+QUESTION RES: Enumerate the ratings of the top 5 purchases with the highest total cost.
+QUESTION IN DF: Enumerate the ratings of the top 5 purchases with the highest total cost.
+MATCHED
+QUESTION RES: Provide the gross incomes of the bottom 2 purchases with the lowest total cost.
+QUESTION IN DF: Provide the gross incomes of the bottom 2 purchases with the lowest total cost.
+MATCHED
+Metrics for key: 027_Supermarket
+  bool: 100.00%
+  str: 0.00%
+  num: 62.50%
+  list: 0.00%
+  Avg: 37.50%
+
+QUESTION RES: Are there any individuals in the dataset who are above 60 years of age?
+QUESTION IN DF: Are there any individuals in the dataset who are above 60 years of age?
+MATCHED
+QUESTION RES: Does anyone have a Diabetes Pedigree Function score above 2.5?
+QUESTION IN DF: Does anyone have a Diabetes Pedigree Function score above 2.5?
+MATCHED
+QUESTION RES: Does the person with the highest glucose level also have diabetes?
+QUESTION IN DF: Does the person with the highest glucose level also have diabetes?
+MATCHED
+QUESTION RES: Is there anyone who has zero pregnancies and is diabetic?
+QUESTION IN DF: Is there anyone who has zero pregnancies and is diabetic?
+MATCHED
+QUESTION RES: What is the maximum number of pregnancies recorded in the dataset?
+QUESTION IN DF: What is the maximum number of pregnancies recorded in the dataset?
+MATCHED
+QUESTION RES: What is the minimum blood pressure level recorded in the dataset?
+QUESTION IN DF: What is the minimum blood pressure level recorded in the dataset?
+MATCHED
+QUESTION RES: What is the average BMI recorded in the dataset?
+QUESTION IN DF: What is the average BMI recorded in the dataset?
+MATCHED
+QUESTION RES: How many individuals have an insulin level above 150?
+QUESTION IN DF: How many individuals have an insulin level above 150?
+MATCHED
+QUESTION RES: What is the diabetes outcome for the person with the highest BMI?
+QUESTION IN DF: What is the diabetes outcome for the person with the highest BMI?
+MATCHED
+QUESTION RES: What is the diabetes outcome for the person with the lowest blood pressure?
+QUESTION IN DF: What is the diabetes outcome for the person with the lowest blood pressure?
+MATCHED
+QUESTION RES: What is the diabetes outcome for the person with the highest insulin level?
+QUESTION IN DF: What is the diabetes outcome for the person with the highest insulin level?
+MATCHED
+QUESTION RES: What is the diabetes outcome for the person with the lowest glucose level?
+QUESTION IN DF: What is the diabetes outcome for the person with the lowest glucose level?
+MATCHED
+QUESTION RES: List the diabetes outcomes of the top 3 individuals with the highest number of pregnancies.
+QUESTION IN DF: List the diabetes outcomes of the top 3 individuals with the highest number of pregnancies.
+MATCHED
+QUESTION RES: List the diabetes outcomes of the bottom 2 individuals with the lowest BMI.
+QUESTION IN DF: List the diabetes outcomes of the bottom 2 individuals with the lowest BMI.
+MATCHED
+QUESTION RES: List the diabetes outcomes of the top 5 individuals with the highest insulin levels.
+QUESTION IN DF: List the diabetes outcomes of the top 5 individuals with the highest insulin levels.
+MATCHED
+QUESTION RES: List the diabetes outcomes of the bottom 4 individuals with the lowest blood pressure.
+QUESTION IN DF: List the diabetes outcomes of the bottom 4 individuals with the lowest blood pressure.
+MATCHED
+QUESTION RES: What are the ages of the top 4 individuals with the highest number of pregnancies?
+QUESTION IN DF: What are the ages of the top 4 individuals with the highest number of pregnancies?
+MATCHED
+QUESTION RES: List the BMI of the bottom 3 individuals with the lowest glucose levels.
+QUESTION IN DF: List the BMI of the bottom 3 individuals with the lowest glucose levels.
+MATCHED
+QUESTION RES: Enumerate the blood pressure levels of the top 5 individuals with the highest Diabetes Pedigree Function scores.
+QUESTION IN DF: Enumerate the blood pressure levels of the top 5 individuals with the highest Diabetes Pedigree Function scores.
+MATCHED
+QUESTION RES: Provide the glucose levels of the bottom 2 individuals with the lowest insulin levels.
+QUESTION IN DF: Provide the glucose levels of the bottom 2 individuals with the lowest insulin levels.
+MATCHED
+Metrics for key: 028_Predict
+  bool: 77.78%
+  num: 58.33%
+  list: 0.00%
+  Avg: 48.28%
+
+QUESTION RES: Are there any articles that have the material type 'Op-Ed'?
+QUESTION IN DF: Are there any articles that have the material type 'Op-Ed'?
+MATCHED
+QUESTION RES: Does the article with the longest headline contain the keyword 'United States Politics and Government'?
+QUESTION IN DF: Does the article with the longest headline contain the keyword 'United States Politics and Government'?
+MATCHED
+Metrics for key: 029_NYTimes
+  bool: 50.00%
+  num: 50.00%
+  Avg: 50.00%
+
+For key: 030_Professionals the model answers are empty
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+QUESTION RES: Are there more reviews with rating 5 from 'GB' than 'US'?
+QUESTION IN DF: Are there more reviews with rating 5 from 'GB' than 'US'?
+MATCHED
+QUESTION RES: Is the average rating for 'Wise' in 'GB' above 4?
+QUESTION IN DF: Is the average rating for 'Wise' in 'GB' above 4?
+MATCHED
+QUESTION RES: Do any reviews originate from 'AO'?
+QUESTION IN DF: Do any reviews originate from 'AO'?
+MATCHED
+QUESTION RES: Did any reviews receive a rating of 1?
+QUESTION IN DF: Did any reviews receive a rating of 1?
+MATCHED
+QUESTION RES: What's the total number of reviews for 'Wise'?
+QUESTION IN DF: What's the total number of reviews for 'Wise'?
+MATCHED
+QUESTION RES: How many unique countries gave 'Wise' a rating of 5?
+QUESTION IN DF: How many unique countries gave 'Wise' a rating of 5?
+MATCHED
+QUESTION RES: What is the highest rating received?
+QUESTION IN DF: What is the highest rating received?
+MATCHED
+QUESTION RES: What's the average rating across all reviews?
+QUESTION IN DF: What's the average rating across all reviews?
+MATCHED
+QUESTION RES: Which company received the most 5-star reviews?
+QUESTION IN DF: Which company received the most 5-star reviews?
+MATCHED
+QUESTION RES: From which country did 'Wise' receive the most reviews?
+QUESTION IN DF: From which country did 'Wise' receive the most reviews?
+MATCHED
+QUESTION RES: Which country had the lowest representation in the reviews?
+QUESTION IN DF: Which country had the lowest representation in the reviews?
+MATCHED
+QUESTION RES: Which company received the lowest rating?
+QUESTION IN DF: Which company received the lowest rating?
+MATCHED
+QUESTION RES: Which are the top 3 countries with the most 5-star reviews for 'Wise'?
+QUESTION IN DF: Which are the top 3 countries with the most 5-star reviews for 'Wise'?
+MATCHED
+QUESTION RES: Which are the 2 companies represented in the dataset?
+QUESTION IN DF: Which are the 2 companies represented in the dataset?
+MATCHED
+QUESTION RES: Which are the bottom 4 countries in terms of review count?
+QUESTION IN DF: Which are the bottom 4 countries in terms of review count?
+MATCHED
+QUESTION RES: What are the top 5 most common countries?
+QUESTION IN DF: What are the top 5 most common countries?
+MATCHED
+QUESTION RES: What are the top 3 most common ratings?
+QUESTION IN DF: What are the top 3 most common ratings?
+MATCHED
+QUESTION RES: What are the bottom 2 least common ratings?
+QUESTION IN DF: What are the bottom 2 least common ratings?
+MATCHED
+QUESTION RES: What are the top 4 ratings given to 'Wise'?
+QUESTION IN DF: What are the top 4 ratings given to 'Wise'?
+MATCHED
+QUESTION RES: What are the bottom 5 ratings given to 'N26'?
+QUESTION IN DF: What are the bottom 5 ratings given to 'N26'?
+MATCHED
+Metrics for key: 031_Trustpilot
+  bool: 50.00%
+  str: 0.00%
+  num: 37.50%
+  list: 0.00%
+  Avg: 20.83%
+
+QUESTION RES: Is there any customer with a PhD education level?
+QUESTION IN DF: Is there any customer with a PhD education level?
+MATCHED
+QUESTION RES: Do we have any customers who are married?
+QUESTION IN DF: Do we have any customers who are married?
+MATCHED
+QUESTION RES: Is there any customer with income higher than 100000?
+QUESTION IN DF: Is there any customer with income higher than 100000?
+MATCHED
+QUESTION RES: Has any customer made more than 10 web purchases?
+QUESTION IN DF: Has any customer made more than 10 web purchases?
+MATCHED
+QUESTION RES: How many customers do we have in the dataset?
+QUESTION IN DF: How many customers do we have in the dataset?
+MATCHED
+QUESTION RES: What's the average income of our customers?
+QUESTION IN DF: What's the average income of our customers?
+MATCHED
+QUESTION RES: What's the maximum number of web purchases made by a customer?
+QUESTION IN DF: What's the maximum number of web purchases made by a customer?
+MATCHED
+QUESTION RES: What's the minimum recency of purchase among the customers?
+QUESTION IN DF: What's the minimum recency of purchase among the customers?
+MATCHED
+QUESTION RES: What's the most common education level among our customers?
+QUESTION IN DF: What's the most common education level among our customers?
+MATCHED
+QUESTION RES: What's the most common marital status among our customers?
+QUESTION IN DF: What's the most common marital status among our customers?
+MATCHED
+QUESTION RES: Who is the customer with the highest income?
+QUESTION IN DF: Who is the customer with the highest income?
+MATCHED
+QUESTION RES: Who is the customer with the most recent purchase?
+QUESTION IN DF: Who is the customer with the most recent purchase?
+MATCHED
+QUESTION RES: Who are the top 3 customers with the highest income?
+QUESTION IN DF: Who are the top 3 customers with the highest income?
+MATCHED
+QUESTION RES: What are the top 2 most common education levels among our customers?
+QUESTION IN DF: What are the top 2 most common education levels among our customers?
+MATCHED
+QUESTION RES: What are the top 3 most common marital statuses among our customers?
+QUESTION IN DF: What are the top 3 most common marital statuses among our customers?
+MATCHED
+QUESTION RES: Who are the 4 customers with the most web purchases?
+QUESTION IN DF: Who are the 4 customers with the most web purchases?
+MATCHED
+Metrics for key: 032_Delicatessen
+  bool: 75.00%
+  str: 0.00%
+  num: 30.00%
+  list: 0.00%
+  Avg: 30.00%
+
+QUESTION RES: Is there any customer with a high salaryl?
+QUESTION IN DF: Is there any customer with a high salaryl?
+MATCHED
+QUESTION RES: Do we have any employees who suffered a work accident?
+QUESTION IN DF: Do we have any employees who suffered a work accident?
+MATCHED
+QUESTION RES: Is there any employee with more than 100 hours per month on average?
+QUESTION IN DF: Is there any employee with more than 100 hours per month on average?
+MATCHED
+QUESTION RES: Does any employee have a satisfaction level above 0.9?
+QUESTION IN DF: Does any employee have a satisfaction level above 0.9?
+MATCHED
+QUESTION RES: How many employees do we have in the dataset?
+QUESTION IN DF: How many employees do we have in the dataset?
+MATCHED
+QUESTION RES: What's the median satisfaction level of our employees?
+QUESTION IN DF: What's the median satisfaction level of our employees?
+MATCHED
+QUESTION RES: What's the maximum number of web purchases made by a customer?
+QUESTION IN DF: What's the maximum number of web purchases made by a customer?
+MATCHED
+QUESTION RES: What's the most common marital status among the employees?
+QUESTION IN DF: What's the most common marital status among the employees?
+MATCHED
+QUESTION RES: What's the most common education level among our employees?
+QUESTION IN DF: What's the most common education level among our employees?
+MATCHED
+QUESTION RES: What's the most common marital status among our employees?
+QUESTION IN DF: What's the most common marital status among our employees?
+MATCHED
+QUESTION RES: Among the employees who have left the company in sales, what's the most common salary level?
+QUESTION IN DF: Among the employees who have left the company in sales, what's the most common salary level?
+MATCHED
+QUESTION RES: Among the employees who have had a work accident in sales, what's the most common salary level?
+QUESTION IN DF: Among the employees who have had a work accident in sales, what's the most common salary level?
+MATCHED
+QUESTION RES: Who are the top 3 satisfaction levels?
+QUESTION IN DF: Who are the top 3 satisfaction levels?
+MATCHED
+QUESTION RES: What are the top 2 most common Work Accident statuses among our employees?
+QUESTION IN DF: What are the top 2 most common Work Accident statuses among our employees?
+MATCHED
+QUESTION RES: What are the top 3 most common marital statuses among our employees?
+QUESTION IN DF: What are the top 3 most common marital statuses among our employees?
+MATCHED
+QUESTION RES: What are the highest 3 years spent in the company?
+QUESTION IN DF: What are the highest 3 years spent in the company?
+MATCHED
+QUESTION RES: What are the top 3 departments with a 'low' salary level?
+QUESTION IN DF: What are the top 3 departments with a 'low' salary level?
+MATCHED
+QUESTION RES: For the 2 employees with the top satisfaction levels who belong to the sales department, what are their salary levels?
+QUESTION IN DF: For the 2 employees with the top satisfaction levels who belong to the sales department, what are their salary levels?
+MATCHED
+Metrics for key: 033_Employee
+  bool: 50.00%
+  str: 50.00%
+  num: 25.00%
+  list: 0.00%
+  Avg: 27.27%
+
+QUESTION RES: Is there any country with a Ladder score above 7.5, a Generosity score above 0.2, and a Social support score above 0.7?
+QUESTION IN DF: Is there any country with a Ladder score above 7.5, a Generosity score above 0.2, and a Social support score above 0.7?
+MATCHED
+QUESTION RES: Are there any countries in Western Europe with a Perceptions of corruption score above 0.5, a Ladder score above 7, and a Social support score above 0.7?
+QUESTION IN DF: Are there any countries in Western Europe with a Perceptions of corruption score above 0.5, a Ladder score above 7, and a Social support score above 0.7?
+MATCHED
+QUESTION RES: Are there any countries in Western Europe with a Perceptions of corruption score above 0.5?
+QUESTION IN DF: Are there any countries in Western Europe with a Perceptions of corruption score above 0.5?
+MATCHED
+QUESTION RES: Is there any country with a Social support score below 0.5?
+QUESTION IN DF: Is there any country with a Social support score below 0.5?
+MATCHED
+QUESTION RES: What's the average Ladder score among the countries in Western Europe with a Generosity score above 0.2 and a Social support score above 0.7?
+QUESTION IN DF: What's the average Ladder score among the countries in Western Europe with a Generosity score above 0.2 and a Social support score above 0.7?
+MATCHED
+Metrics for key: 034_World
+  bool: 75.00%
+  num: 60.00%
+  Avg: 66.67%
+
+QUESTION RES: Is the song with the highest rank from 1965?
+QUESTION IN DF: Is the song with the highest rank from 1965?
+MATCHED
+QUESTION RES: Does the song with the lowest rank contain the word 'love' in its lyrics?
+QUESTION IN DF: Does the song with the lowest rank contain the word 'love' in its lyrics?
+MATCHED
+QUESTION RES: Is the artist of the song with the highest rank the same as the artist of the song with the lowest rank?
+QUESTION IN DF: Is the artist of the song with the highest rank the same as the artist of the song with the lowest rank?
+MATCHED
+QUESTION RES: Are there songs without lyrics?
+QUESTION IN DF: Are there songs without lyrics?
+MATCHED
+QUESTION RES: How many songs were produced in 1965?
+QUESTION IN DF: How many songs were produced in 1965?
+MATCHED
+QUESTION RES: In which year was the song with the highest rank produced?
+QUESTION IN DF: In which year was the song with the highest rank produced?
+MATCHED
+QUESTION RES: What's the rank of the song with the longest lyrics?
+QUESTION IN DF: What's the rank of the song with the longest lyrics?
+MATCHED
+QUESTION RES: How many unique artists are there in the dataset?
+QUESTION IN DF: How many unique artists are there in the dataset?
+MATCHED
+QUESTION RES: Who is the artist of the song with the highest rank?
+QUESTION IN DF: Who is the artist of the song with the highest rank?
+MATCHED
+QUESTION RES: What is the title of the song with the lowest rank?
+QUESTION IN DF: What is the title of the song with the lowest rank?
+MATCHED
+QUESTION RES: Which song's lyrics contain the word 'love' the most times?
+QUESTION IN DF: Which song's lyrics contain the word 'love' the most times?
+MATCHED
+QUESTION RES: What is the title of the song produced in the earliest year?
+QUESTION IN DF: What is the title of the song produced in the earliest year?
+MATCHED
+QUESTION RES: Who are the artists of the top 5 ranked songs?
+QUESTION IN DF: Who are the artists of the top 5 ranked songs?
+MATCHED
+QUESTION RES: What are the titles of the 3 songs with the shortest lyrics?
+QUESTION IN DF: What are the titles of the 3 songs with the shortest lyrics?
+MATCHED
+QUESTION RES: Which 4 songs were produced in the most recent year?
+QUESTION IN DF: Which 4 songs were produced in the most recent year?
+MATCHED
+QUESTION RES: Who are the artists of the bottom 5 ranked songs?
+QUESTION IN DF: Who are the artists of the bottom 5 ranked songs?
+MATCHED
+QUESTION RES: What are the ranks of the top 3 songs with the most occurrences of the word 'love' in their lyrics?
+QUESTION IN DF: What are the ranks of the top 3 songs with the most occurrences of the word 'love' in their lyrics?
+MATCHED
+QUESTION RES: What are the years of production of the bottom 4 ranked songs?
+QUESTION IN DF: What are the years of production of the bottom 4 ranked songs?
+MATCHED
+QUESTION RES: What are the ranks of the 2 songs produced in the earliest year?
+QUESTION IN DF: What are the ranks of the 2 songs produced in the earliest year?
+MATCHED
+QUESTION RES: What are the years of production of the top 5 songs with the longest lyrics?
+QUESTION IN DF: What are the years of production of the top 5 songs with the longest lyrics?
+MATCHED
+QUESTION RES: Is the song with the highest rank from 1965 by the Beatles?
+QUESTION IN DF: Is the song with the highest rank from 1965 by the Beatles?
+MATCHED
+QUESTION RES: Which artist has the song with the highest rank in 1965?
+QUESTION IN DF: Which artist has the song with the highest rank in 1965?
+MATCHED
+QUESTION RES: Who are the artists of the top 3 songs in 1965?
+QUESTION IN DF: Who are the artists of the top 3 songs in 1965?
+MATCHED
+QUESTION RES: What are the years of production of the top 3 songs with the word 'love' in their lyrics by the Beatles?
+QUESTION IN DF: What are the years of production of the top 3 songs with the word 'love' in their lyrics by the Beatles?
+MATCHED
+Metrics for key: 035_Billboard
+  bool: 80.00%
+  str: 40.00%
+  num: 55.56%
+  list: 0.00%
+  Avg: 37.93%
+
+QUESTION RES: Are there records where the 'count' exceeds 20,000?
+QUESTION IN DF: Are there records where the 'count' exceeds 20,000?
+MATCHED
+QUESTION RES: Do we have any records originating from 'Jefferson'?
+QUESTION IN DF: Do we have any records originating from 'Jefferson'?
+MATCHED
+QUESTION RES: Are there destinations with the name 'Baldwin'?
+QUESTION IN DF: Are there destinations with the name 'Baldwin'?
+MATCHED
+Metrics for key: 036_US
+  bool: 33.33%
+  num: 33.33%
+  Avg: 33.33%
+
+For key: 037_Ted the model answers are empty
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+QUESTION RES: Is it true that the oldest person in the dataset has a stroke?
+QUESTION IN DF: Is it true that the oldest person in the dataset has a stroke?
+MATCHED
+QUESTION RES: Do all smokers have hypertension?
+QUESTION IN DF: Do all smokers have hypertension?
+MATCHED
+QUESTION RES: Are all people with heart diseases married?
+QUESTION IN DF: Are all people with heart diseases married?
+MATCHED
+QUESTION RES: Is the average glucose level higher for males than females?
+QUESTION IN DF: Is the average glucose level higher for males than females?
+MATCHED
+QUESTION RES: How many people in the dataset have a stroke?
+QUESTION IN DF: How many people in the dataset have a stroke?
+MATCHED
+QUESTION RES: What is the average age of people who smoke?
+QUESTION IN DF: What is the average age of people who smoke?
+MATCHED
+QUESTION RES: What is the highest glucose level recorded in the dataset?
+QUESTION IN DF: What is the highest glucose level recorded in the dataset?
+MATCHED
+QUESTION RES: How many unique 'work_type' categories are there in the dataset?
+QUESTION IN DF: How many unique 'work_type' categories are there in the dataset?
+MATCHED
+QUESTION RES: What is the most common work type among stroke patients?
+QUESTION IN DF: What is the most common work type among stroke patients?
+MATCHED
+QUESTION RES: What is the smoking status of the youngest person in the dataset?
+QUESTION IN DF: What is the smoking status of the youngest person in the dataset?
+MATCHED
+QUESTION RES: What is the residence type of the person with the highest BMI?
+QUESTION IN DF: What is the residence type of the person with the highest BMI?
+MATCHED
+Metrics for key: 038_Stroke
+  bool: 60.00%
+  str: 0.00%
+  num: 37.50%
+  Avg: 37.50%
+
+QUESTION RES: Are there any reflections with more than 10 sentences?
+QUESTION IN DF: Are there any reflections with more than 10 sentences?
+MATCHED
+QUESTION RES: Is there a reflection from 'USA' with over 5 sentences?
+QUESTION IN DF: Is there a reflection from 'USA' with over 5 sentences?
+MATCHED
+QUESTION RES: Are there any reflections categorized as 'affection'?
+QUESTION IN DF: Are there any reflections categorized as 'affection'?
+MATCHED
+Metrics for key: 039_Happy
+  bool: 66.67%
+  num: 66.67%
+  Avg: 66.67%
+
+For key: 040_Speed the model answers are empty
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+QUESTION RES: Are there any tweets with more than 10 retweets?
+QUESTION IN DF: Are there any tweets with more than 10 retweets?
+MATCHED
+QUESTION RES: Is there a negative sentiment tweet from 'United' airline?
+QUESTION IN DF: Is there a negative sentiment tweet from 'United' airline?
+MATCHED
+QUESTION RES: Are there any tweets categorized with 'Late Flight' as the negative reason?
+QUESTION IN DF: Are there any tweets categorized with 'Late Flight' as the negative reason?
+MATCHED
+QUESTION RES: Are there any tweets from 'Eastern Time (US & Canada)' timezone with positive sentiment?
+QUESTION IN DF: Are there any tweets from 'Eastern Time (US & Canada)' timezone with positive sentiment?
+MATCHED
+QUESTION RES: How many unique user timezones are there in the dataset?
+QUESTION IN DF: How many unique user timezones are there in the dataset?
+MATCHED
+QUESTION RES: On average, what is the sentiment confidence of the tweets?
+QUESTION IN DF: On average, what is the sentiment confidence of the tweets?
+MATCHED
+QUESTION RES: What's the maximum number of retweets a tweet has received?
+QUESTION IN DF: What's the maximum number of retweets a tweet has received?
+MATCHED
+QUESTION RES: How many tweets are from 'Virgin America' airline?
+QUESTION IN DF: How many tweets are from 'Virgin America' airline?
+MATCHED
+Metrics for key: 041_Airline
+  bool: 0.00%
+  num: 0.00%
+  Avg: 0.00%
+
+QUESTION RES: Is it true that the student with the highest number of absences is from a rural area?
+QUESTION IN DF: Is it true that the student with the highest number of absences is from a rural area?
+MATCHED
+QUESTION RES: Are all students who are in a romantic relationship older than 17?
+QUESTION IN DF: Are all students who are in a romantic relationship older than 17?
+MATCHED
+QUESTION RES: Is the average final grade (G3) of students who consume a lot of alcohol (Dalc > 2) lower than those who don't?
+QUESTION IN DF: Is the average final grade (G3) of students who consume a lot of alcohol (Dalc > 2) lower than those who don't?
+MATCHED
+Metrics for key: 042_Predict
+  bool: 33.33%
+  num: 33.33%
+  Avg: 33.33%
+
+QUESTION RES: Is it true that the oldest company (based on approval year) is from an urban (UrbanRural=1) area?
+QUESTION IN DF: Is it true that the oldest company (based on approval year) is from an urban (UrbanRural=1) area?
+MATCHED
+QUESTION RES: Are all companies with more than 10 employees located in an urban (UrbanRural=1) area?
+QUESTION IN DF: Are all companies with more than 10 employees located in an urban (UrbanRural=1) area?
+MATCHED
+QUESTION RES: Are all companies with a default amount greater than $250,000 in the food sector?
+QUESTION IN DF: Are all companies with a default amount greater than $250,000 in the food sector?
+MATCHED
+QUESTION RES: Is the average number of retained jobs higher for companies located in urban (UrbanRural=1) areas than those in rural (UrbanRural=0) areas?
+QUESTION IN DF: Is the average number of retained jobs higher for companies located in urban (UrbanRural=1) areas than those in rural (UrbanRural=0) areas?
+MATCHED
+QUESTION RES: How many companies have a franchise code of 1?
+QUESTION IN DF: How many companies have a franchise code of 1?
+MATCHED
+QUESTION RES: What is the average disbursement gross for companies in the retail sector?
+QUESTION IN DF: What is the average disbursement gross for companies in the retail sector?
+MATCHED
+QUESTION RES: What is the highest approval year in the dataset?
+QUESTION IN DF: What is the highest approval year in the dataset?
+MATCHED
+QUESTION RES: How many unique sectors are there in the dataset?
+QUESTION IN DF: How many unique sectors are there in the dataset?
+MATCHED
+QUESTION RES: What is the most common sector among companies with a franchise code of 1?
+QUESTION IN DF: What is the most common sector among companies with a franchise code of 1?
+MATCHED
+Metrics for key: 043_Predict
+  bool: 50.00%
+  str: 0.00%
+  num: 28.57%
+  Avg: 30.77%
+
+QUESTION RES: Is it true that the oldest movie (based on year) in the drama genre is from the USA?
+QUESTION IN DF: Is it true that the oldest movie (based on year) in the drama genre is from the USA?
+MATCHED
+QUESTION RES: Are all movies from the USA, with more than 80 minutes duration in the drama genre, in English?
+QUESTION IN DF: Are all movies from the USA, with more than 80 minutes duration in the drama genre, in English?
+MATCHED
+QUESTION RES: Are all movies with votes greater than 90 from the USA in English?
+QUESTION IN DF: Are all movies with votes greater than 90 from the USA in English?
+MATCHED
+Metrics for key: 044_IMDb
+  bool: 0.00%
+  num: 0.00%
+  Avg: 0.00%
+
+QUESTION RES: Is it true that the song with the lowest popularity in the dataset is longer than 300000 ms?
+QUESTION IN DF: Is it true that the song with the lowest popularity in the dataset is longer than 300000 ms?
+MATCHED
+QUESTION RES: Did any song released in the year 2020 in the dataset achieve the maximum popularity?
+QUESTION IN DF: Did any song released in the year 2020 in the dataset achieve the maximum popularity?
+MATCHED
+QUESTION RES: Does the song with the longest duration also have the highest energy?
+QUESTION IN DF: Does the song with the longest duration also have the highest energy?
+MATCHED
+QUESTION RES: Does the song with the highest energy also have the highest popularity?
+QUESTION IN DF: Does the song with the highest energy also have the highest popularity?
+MATCHED
+QUESTION RES: How many unique artists are there in the dataset?
+QUESTION IN DF: How many unique artists are there in the dataset?
+MATCHED
+QUESTION RES: What's the average song duration in the dataset?
+QUESTION IN DF: What's the average song duration in the dataset?
+MATCHED
+QUESTION RES: What's the maximum popularity score in the dataset?
+QUESTION IN DF: What's the maximum popularity score in the dataset?
+MATCHED
+QUESTION RES: How many songs were released in the year with the most releases?
+QUESTION IN DF: How many songs were released in the year with the most releases?
+MATCHED
+QUESTION RES: Who is the artist with the highest popularity score?
+QUESTION IN DF: Who is the artist with the highest popularity score?
+MATCHED
+QUESTION RES: In which month was the most popular song released?
+QUESTION IN DF: In which month was the most popular song released?
+MATCHED
+QUESTION RES: What's the name of the longest duration song?
+QUESTION IN DF: What's the name of the longest duration song?
+MATCHED
+QUESTION RES: What's the name of the song with the most energy?
+QUESTION IN DF: What's the name of the song with the most energy?
+MATCHED
+QUESTION RES: What are the top 5 most common artist names in the dataset?
+QUESTION IN DF: What are the top 5 most common artist names in the dataset?
+MATCHED
+QUESTION RES: What are the names of the top 3 most popular songs?
+QUESTION IN DF: What are the names of the top 3 most popular songs?
+MATCHED
+QUESTION RES: What are the top 3 artists who released songs with the longest durations?
+QUESTION IN DF: What are the top 3 artists who released songs with the longest durations?
+MATCHED
+QUESTION RES: What are the names of the top 2 songs with the most energy?
+QUESTION IN DF: What are the names of the top 2 songs with the most energy?
+MATCHED
+QUESTION RES: What are the top 5 most popular scores?
+QUESTION IN DF: What are the top 5 most popular scores?
+MATCHED
+QUESTION RES: What are the 3 longest song durations?
+QUESTION IN DF: What are the 3 longest song durations?
+MATCHED
+Metrics for key: 045_Predict
+  bool: 75.00%
+  str: 0.00%
+  num: 33.33%
+  list: 0.00%
+  Avg: 27.27%
+
+QUESTION RES: Is it true that the athlete with the lowest ID is older than 30 years?
+QUESTION IN DF: Is it true that the athlete with the lowest ID is older than 30 years?
+MATCHED
+Metrics for key: 046_120
+  bool: 0.00%
+  num: 0.00%
+  Avg: 0.00%
+
+QUESTION RES: Does the dataset contain customers who are under the age of 18?
+QUESTION IN DF: Does the dataset contain customers who are under the age of 18?
+MATCHED
+QUESTION RES: Are there any customers with a total transaction amount of zero?
+QUESTION IN DF: Are there any customers with a total transaction amount of zero?
+MATCHED
+QUESTION RES: Does the dataset include customers with a credit limit exceeding $50,000?
+QUESTION IN DF: Does the dataset include customers with a credit limit exceeding $50,000?
+MATCHED
+QUESTION RES: Are there any customers in the dataset who are inactive for more than 12 months?
+QUESTION IN DF: Are there any customers in the dataset who are inactive for more than 12 months?
+MATCHED
+QUESTION RES: What is the highest credit limit in the dataset?
+QUESTION IN DF: What is the highest credit limit in the dataset?
+MATCHED
+QUESTION RES: What is the maximum total transaction amount recorded?
+QUESTION IN DF: What is the maximum total transaction amount recorded?
+MATCHED
+Metrics for key: 047_Bank
+  bool: 100.00%
+  num: 66.67%
+  Avg: 80.00%
+
+For key: 048_Data the model answers are empty
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+For key: 049_Boris the model answers are empty
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+QUESTION RES: Is the most favorited author mainly communicating in Spanish?
+QUESTION IN DF: Is the most favorited author mainly communicating in Spanish?
+MATCHED
+QUESTION RES: Does the author with the longest name post mainly original content?
+QUESTION IN DF: Does the author with the longest name post mainly original content?
+MATCHED
+QUESTION RES: Is there an author who received no retweets for any of their posts?
+QUESTION IN DF: Is there an author who received no retweets for any of their posts?
+MATCHED
+QUESTION RES: Are there any posts that do not contain any links?
+QUESTION IN DF: Are there any posts that do not contain any links?
+MATCHED
+QUESTION RES: How many unique authors are in the dataset?
+QUESTION IN DF: How many unique authors are in the dataset?
+MATCHED
+QUESTION RES: What is the length of the longest post (based on the number of words)?
+QUESTION IN DF: What is the length of the longest post (based on the number of words)?
+MATCHED
+QUESTION RES: What is the total number of retweets received by all authors in the dataset?
+QUESTION IN DF: What is the total number of retweets received by all authors in the dataset?
+MATCHED
+QUESTION RES: How many posts do not contain any mentions of other users?
+QUESTION IN DF: How many posts do not contain any mentions of other users?
+MATCHED
+QUESTION RES: What is the name of the most retweeted author?
+QUESTION IN DF: What is the name of the most retweeted author?
+MATCHED
+QUESTION RES: What is the language of the most favorited post?
+QUESTION IN DF: What is the language of the most favorited post?
+MATCHED
+Metrics for key: 050_ING
+  bool: 40.00%
+  str: 50.00%
+  num: 25.00%
+  Avg: 33.33%
+
+QUESTION RES: Is there a Pokémon named 'Pikachu' in the dataset?
+QUESTION IN DF: Is there a Pokémon named 'Pikachu' in the dataset?
+MATCHED
+QUESTION RES: Are there any Pokémon with a total stat greater than 700?
+QUESTION IN DF: Are there any Pokémon with a total stat greater than 700?
+MATCHED
+QUESTION RES: Are all Pokémon in the first generation legendary?
+QUESTION IN DF: Are all Pokémon in the first generation legendary?
+MATCHED
+QUESTION RES: Is there any Pokémon with a speed greater than 150?
+QUESTION IN DF: Is there any Pokémon with a speed greater than 150?
+MATCHED
+QUESTION RES: How many unique Pokémon types are there in the 'type1' column?
+QUESTION IN DF: How many unique Pokémon types are there in the 'type1' column?
+MATCHED
+QUESTION RES: What's the highest total stat value found in the dataset?
+QUESTION IN DF: What's the highest total stat value found in the dataset?
+MATCHED
+QUESTION RES: How many Pokémon are there in the third generation?
+QUESTION IN DF: How many Pokémon are there in the third generation?
+MATCHED
+QUESTION RES: What is the average attack stat for all Pokémon?
+QUESTION IN DF: What is the average attack stat for all Pokémon?
+MATCHED
+QUESTION RES: What is the primary type of the Pokémon with the highest defense stat?
+QUESTION IN DF: What is the primary type of the Pokémon with the highest defense stat?
+MATCHED
+QUESTION RES: Which Pokémon has the lowest speed stat?
+QUESTION IN DF: Which Pokémon has the lowest speed stat?
+MATCHED
+QUESTION RES: What secondary type is the most common among legendary Pokémon?
+QUESTION IN DF: What secondary type is the most common among legendary Pokémon?
+MATCHED
+QUESTION RES: Which Pokémon has the highest special attack and what is its primary type?
+QUESTION IN DF: Which Pokémon has the highest special attack and what is its primary type?
+MATCHED
+QUESTION RES: Name the top 3 Pokémon with the highest total stats.
+QUESTION IN DF: Name the top 3 Pokémon with the highest total stats.
+MATCHED
+QUESTION RES: Which 5 Pokémon have the lowest hp stats?
+QUESTION IN DF: Which 5 Pokémon have the lowest hp stats?
+MATCHED
+QUESTION RES: Name the top 4 primary categories that have the most Pokémon.
+QUESTION IN DF: Name the top 4 primary categories that have the most Pokémon.
+MATCHED
+QUESTION RES: Which 6 Pokémon from the second generation have the highest attack stats?
+QUESTION IN DF: Which 6 Pokémon from the second generation have the highest attack stats?
+MATCHED
+QUESTION RES: What are the top 5 special defense stats in the dataset?
+QUESTION IN DF: What are the top 5 special defense stats in the dataset?
+MATCHED
+QUESTION RES: list the bottom 3 defense stats of legendary Pokémon.
+QUESTION IN DF: list the bottom 3 defense stats of legendary Pokémon.
+MATCHED
+QUESTION RES: What are the 4 highest speed stats of Pokémon in the fourth generation?
+QUESTION IN DF: What are the 4 highest speed stats of Pokémon in the fourth generation?
+MATCHED
+QUESTION RES: list the 6 lowest total stats of non-legendary Pokémon.
+QUESTION IN DF: list the 6 lowest total stats of non-legendary Pokémon.
+MATCHED
+Metrics for key: 051_Pokemon
+  bool: 25.00%
+  str: 0.00%
+  num: 12.50%
+  list: 0.00%
+  Avg: 8.33%
+
+QUESTION RES: Is the maximum level of Extraversion greater than the maximum level of Agreeableness?
+QUESTION IN DF: Is the maximum level of Extraversion greater than the maximum level of Agreeableness?
+MATCHED
+QUESTION RES: Is the profession with the highest Openness the same as the profession with the highest Conscientousness?
+QUESTION IN DF: Is the profession with the highest Openness the same as the profession with the highest Conscientousness?
+MATCHED
+QUESTION RES: Does the profession with the lowest Emotional_Range also have the lowest level of Conversation?
+QUESTION IN DF: Does the profession with the lowest Emotional_Range also have the lowest level of Conversation?
+MATCHED
+QUESTION RES: Is the average level of Openness to Change higher than the average level of Hedonism?
+QUESTION IN DF: Is the average level of Openness to Change higher than the average level of Hedonism?
+MATCHED
+QUESTION RES: What is the maximum value of Self-enhancement across all professions?
+QUESTION IN DF: What is the maximum value of Self-enhancement across all professions?
+MATCHED
+QUESTION RES: How many professions have an Emotional_Range above 0.5?
+QUESTION IN DF: How many professions have an Emotional_Range above 0.5?
+MATCHED
+QUESTION RES: What is the average Extraversion level for the profession with the highest number of records (n)?
+QUESTION IN DF: What is the average Extraversion level for the profession with the highest number of records (n)?
+MATCHED
+QUESTION RES: What is the minimum level of Self-transcendence?
+QUESTION IN DF: What is the minimum level of Self-transcendence?
+MATCHED
+QUESTION RES: What profession has the highest level of Conscientiousness?
+QUESTION IN DF: What profession has the highest level of Conscientiousness?
+MATCHED
+QUESTION RES: What is the profession with the lowest level of Hedonism?
+QUESTION IN DF: What is the profession with the lowest level of Hedonism?
+MATCHED
+QUESTION RES: Which profession has the highest Emotional_Range?
+QUESTION IN DF: Which profession has the highest Emotional_Range?
+MATCHED
+QUESTION RES: What is the profession with the highest number of records (n)?
+QUESTION IN DF: What is the profession with the highest number of records (n)?
+MATCHED
+QUESTION RES: What are the top 3 professions with the highest Openness?
+QUESTION IN DF: What are the top 3 professions with the highest Openness?
+MATCHED
+QUESTION RES: Which are the bottom 4 professions in terms of Agreeableness?
+QUESTION IN DF: Which are the bottom 4 professions in terms of Agreeableness?
+MATCHED
+QUESTION RES: List the top 5 professions with the highest Conversation levels.
+QUESTION IN DF: List the top 5 professions with the highest Conversation levels.
+MATCHED
+QUESTION RES: Name the bottom 2 professions in terms of Self-enhancement.
+QUESTION IN DF: Name the bottom 2 professions in terms of Self-enhancement.
+MATCHED
+QUESTION RES: What are the top 3 values of Openness to Change across all professions?
+QUESTION IN DF: What are the top 3 values of Openness to Change across all professions?
+MATCHED
+QUESTION RES: List the bottom 4 Emotional_Range values.
+QUESTION IN DF: List the bottom 4 Emotional_Range values.
+MATCHED
+QUESTION RES: What are the highest 5 levels of Extraversion?
+QUESTION IN DF: What are the highest 5 levels of Extraversion?
+MATCHED
+QUESTION RES: Name the lowest 6 levels of Self-transcendence.
+QUESTION IN DF: Name the lowest 6 levels of Self-transcendence.
+MATCHED
+Metrics for key: 052_Professional
+  bool: 75.00%
+  str: 0.00%
+  num: 37.50%
+  list: 0.00%
+  Avg: 25.00%
+
+For key: 053_Patents the model answers are empty
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+For key: 054_Joe the model answers are empty
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+QUESTION RES: Is the borrower with the highest loan amount also the one with the longest loan duration?
+QUESTION IN DF: Is the borrower with the highest loan amount also the one with the longest loan duration?
+MATCHED
+QUESTION RES: Does the borrower with the maximum number of existing loans also have the highest loan amount?
+QUESTION IN DF: Does the borrower with the maximum number of existing loans also have the highest loan amount?
+MATCHED
+QUESTION RES: Does the borrower with the longest loan duration also have the maximum number of existing loans?
+QUESTION IN DF: Does the borrower with the longest loan duration also have the maximum number of existing loans?
+MATCHED
+Metrics for key: 055_German
+  bool: 100.00%
+  num: 100.00%
+  Avg: 100.00%
+
+QUESTION RES: Are there any foods with zero calories?
+QUESTION IN DF: Are there any foods with zero calories?
+MATCHED
+QUESTION RES: Do all foods contain sugar?
+QUESTION IN DF: Do all foods contain sugar?
+MATCHED
+QUESTION RES: Are there any foods that contain no fat at all?
+QUESTION IN DF: Are there any foods that contain no fat at all?
+MATCHED
+QUESTION RES: Are there foods that do not contain protein?
+QUESTION IN DF: Are there foods that do not contain protein?
+MATCHED
+QUESTION RES: How many foods have more than 500 kcal?
+QUESTION IN DF: How many foods have more than 500 kcal?
+MATCHED
+QUESTION RES: What is the average amount of total fat (in grams) across all foods?
+QUESTION IN DF: What is the average amount of total fat (in grams) across all foods?
+MATCHED
+QUESTION RES: How many foods have a sodium content of more than 1 gram?
+QUESTION IN DF: How many foods have a sodium content of more than 1 gram?
+MATCHED
+QUESTION RES: What's the highest amount of protein (in grams) found in a food item?
+QUESTION IN DF: What's the highest amount of protein (in grams) found in a food item?
+MATCHED
+QUESTION RES: What food has the highest calorie content?
+QUESTION IN DF: What food has the highest calorie content?
+MATCHED
+QUESTION RES: Which food contains the most sugar?
+QUESTION IN DF: Which food contains the most sugar?
+MATCHED
+QUESTION RES: What is the food with the least amount of total fat?
+QUESTION IN DF: What is the food with the least amount of total fat?
+MATCHED
+QUESTION RES: Which food has the highest amount of protein?
+QUESTION IN DF: Which food has the highest amount of protein?
+MATCHED
+QUESTION RES: List the top 5 foods with the most calories.
+QUESTION IN DF: List the top 5 foods with the most calories.
+MATCHED
+Metrics for key: 056_Emoji
+  bool: 100.00%
+  str: 0.00%
+  num: 62.50%
+  list: 0.00%
+  Avg: 55.56%
+
+QUESTION RES: Are there any respondents who didn't complete primary education?
+QUESTION IN DF: Are there any respondents who didn't complete primary education?
+MATCHED
+QUESTION RES: Are all respondents interested in politics?
+QUESTION IN DF: Are all respondents interested in politics?
+MATCHED
+QUESTION RES: Did any respondent indicate that they will not vote?
+QUESTION IN DF: Did any respondent indicate that they will not vote?
+MATCHED
+QUESTION RES: Did any respondent place themselves at the extreme right of the Left-Right economic values axis?
+QUESTION IN DF: Did any respondent place themselves at the extreme right of the Left-Right economic values axis?
+MATCHED
+QUESTION RES: How many respondents placed themselves at 10 on the Progressive-Conservative economic values axis?
+QUESTION IN DF: How many respondents placed themselves at 10 on the Progressive-Conservative economic values axis?
+MATCHED
+QUESTION RES: What is the average age of the respondents?
+QUESTION IN DF: What is the average age of the respondents?
+MATCHED
+QUESTION RES: How many respondents think it should be more difficult for companies to lay off workers?
+QUESTION IN DF: How many respondents think it should be more difficult for companies to lay off workers?
+MATCHED
+QUESTION RES: What's the maximum age among the respondents who prefer not to disclose their gender?
+QUESTION IN DF: What's the maximum age among the respondents who prefer not to disclose their gender?
+MATCHED
+Metrics for key: 057_Spain
+  bool: 66.67%
+  str: 100.00%
+  num: 57.14%
+  Avg: 64.29%
+
+QUESTION RES: Are there survey participants who are not registered to vote?
+QUESTION IN DF: Are there survey participants who are not registered to vote?
+MATCHED
+QUESTION RES: Are there any respondents who participated in the 2016 Presidential election (four years ago) but are not planning to do so in the upcoming election?
+QUESTION IN DF: Are there any respondents who participated in the 2016 Presidential election (four years ago) but are not planning to do so in the upcoming election?
+MATCHED
+Metrics for key: 058_US
+  bool: 100.00%
+  num: 100.00%
+  Avg: 100.00%
+
+QUESTION RES: Is there a car model named 'Golf' listed?
+QUESTION IN DF: Is there a car model named 'Golf' listed?
+MATCHED
+QUESTION RES: Are there cars associated with the dealer 'Autos Raymara'?
+QUESTION IN DF: Are there cars associated with the dealer 'Autos Raymara'?
+MATCHED
+QUESTION RES: Is there a car version that mentions 'BMW'?
+QUESTION IN DF: Is there a car version that mentions 'BMW'?
+MATCHED
+QUESTION RES: Are there cars with a 'Manual' shift?
+QUESTION IN DF: Are there cars with a 'Manual' shift?
+MATCHED
+QUESTION RES: How many unique car models are listed?
+QUESTION IN DF: How many unique car models are listed?
+MATCHED
+QUESTION RES: On average, how many photos are provided for the cars?
+QUESTION IN DF: On average, how many photos are provided for the cars?
+MATCHED
+QUESTION RES: What's the highest price a car is listed for?
+QUESTION IN DF: What's the highest price a car is listed for?
+MATCHED
+QUESTION RES: How many cars are from the year 2020?
+QUESTION IN DF: How many cars are from the year 2020?
+MATCHED
+QUESTION RES: Which dealer has the car with the highest price listed?
+QUESTION IN DF: Which dealer has the car with the highest price listed?
+MATCHED
+QUESTION RES: Which car make is the most common?
+QUESTION IN DF: Which car make is the most common?
+MATCHED
+QUESTION RES: What type of fuel is the most common for the cars?
+QUESTION IN DF: What type of fuel is the most common for the cars?
+MATCHED
+QUESTION RES: In which province are the most cars located?
+QUESTION IN DF: In which province are the most cars located?
+MATCHED
+QUESTION RES: Which are the top 3 provinces with the most car listings?
+QUESTION IN DF: Which are the top 3 provinces with the most car listings?
+MATCHED
+QUESTION RES: List the 4 most common car colors in the dataset.
+QUESTION IN DF: List the 4 most common car colors in the dataset.
+MATCHED
+QUESTION RES: Which 5 car makes are the most prevalent?
+QUESTION IN DF: Which 5 car makes are the most prevalent?
+MATCHED
+QUESTION RES: List the 2 least common fuels used in the cars.
+QUESTION IN DF: List the 2 least common fuels used in the cars.
+MATCHED
+QUESTION RES: What are the top 4 most common years of the cars?
+QUESTION IN DF: What are the top 4 most common years of the cars?
+MATCHED
+QUESTION RES: List the 3 highest mileages present.
+QUESTION IN DF: List the 3 highest mileages present.
+MATCHED
+QUESTION RES: Which 5 cars have the most photos associated?
+QUESTION IN DF: Which 5 cars have the most photos associated?
+MATCHED
+Metrics for key: 059_Second
+  bool: 75.00%
+  str: 0.00%
+  num: 37.50%
+  list: 0.00%
+  Avg: 26.09%
+
+QUESTION RES: Are all transactions unique?
+QUESTION IN DF: Are all transactions unique?
+MATCHED
+QUESTION RES: Is there any transaction that took place during the night?
+QUESTION IN DF: Is there any transaction that took place during the night?
+MATCHED
+QUESTION RES: Do all items have transactions recorded on weekdays?
+QUESTION IN DF: Do all items have transactions recorded on weekdays?
+MATCHED
+QUESTION RES: Are there any transactions recorded in the evening on weekends?
+QUESTION IN DF: Are there any transactions recorded in the evening on weekends?
+MATCHED
+QUESTION RES: How many unique items are there in the dataset?
+QUESTION IN DF: How many unique items are there in the dataset?
+MATCHED
+QUESTION RES: On how many different days were transactions recorded?
+QUESTION IN DF: On how many different days were transactions recorded?
+MATCHED
+QUESTION RES: What's the highest transaction number?
+QUESTION IN DF: What's the highest transaction number?
+MATCHED
+QUESTION RES: How many transactions were made during the afternoon?
+QUESTION IN DF: How many transactions were made during the afternoon?
+MATCHED
+QUESTION RES: Which day period has the highest number of transactions?
+QUESTION IN DF: Which day period has the highest number of transactions?
+MATCHED
+QUESTION RES: On weekends, what's the most commonly bought item?
+QUESTION IN DF: On weekends, what's the most commonly bought item?
+MATCHED
+QUESTION RES: What's the least popular item bought during weekdays?
+QUESTION IN DF: What's the least popular item bought during weekdays?
+MATCHED
+QUESTION RES: During which period of the day is "Hot chocolate" most frequently bought?
+QUESTION IN DF: During which period of the day is "Hot chocolate" most frequently bought?
+MATCHED
+QUESTION RES: List the top 3 items most frequently bought in the morning.
+QUESTION IN DF: List the top 3 items most frequently bought in the morning.
+MATCHED
+QUESTION RES: Name the bottom 4 items least purchased during the afternoon.
+QUESTION IN DF: Name the bottom 4 items least purchased during the afternoon.
+MATCHED
+QUESTION RES: Identify the top 5 items sold on weekends.
+QUESTION IN DF: Identify the top 5 items sold on weekends.
+MATCHED
+Metrics for key: 060_Bakery
+  bool: 0.00%
+  str: 50.00%
+  num: 0.00%
+  list: 0.00%
+  Avg: 10.00%
+
+QUESTION RES: Are all the reviews from Australia positive (rating > 3)?
+QUESTION IN DF: Are all the reviews from Australia positive (rating > 3)?
+MATCHED
+QUESTION RES: Is Disneyland_HongKong the most reviewed branch?
+QUESTION IN DF: Is Disneyland_HongKong the most reviewed branch?
+MATCHED
+QUESTION RES: Are there any reviews with a rating of 1?
+QUESTION IN DF: Are there any reviews with a rating of 1?
+MATCHED
+QUESTION RES: Does every reviewer location have at least one review with a rating of 5?
+QUESTION IN DF: Does every reviewer location have at least one review with a rating of 5?
+MATCHED
+QUESTION RES: How many unique reviewer locations are there?
+QUESTION IN DF: How many unique reviewer locations are there?
+MATCHED
+QUESTION RES: What is the average rating for Disneyland_HongKong?
+QUESTION IN DF: What is the average rating for Disneyland_HongKong?
+MATCHED
+QUESTION RES: What is the maximum review ID?
+QUESTION IN DF: What is the maximum review ID?
+MATCHED
+QUESTION RES: How many reviews were made in 2019?
+QUESTION IN DF: How many reviews were made in 2019?
+MATCHED
+QUESTION RES: What is the most common reviewer location?
+QUESTION IN DF: What is the most common reviewer location?
+MATCHED
+QUESTION RES: What is the branch with the lowest average rating?
+QUESTION IN DF: What is the branch with the lowest average rating?
+MATCHED
+QUESTION RES: In which year-month was the most negative review (rating=1) made?
+QUESTION IN DF: In which year-month was the most negative review (rating=1) made?
+MATCHED
+Metrics for key: 061_Disneyland
+  bool: 0.00%
+  str: 0.00%
+  num: 0.00%
+  Avg: 0.00%
+
+For key: 062_Trump the model answers are empty
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+For key: 063_Influencers the model answers are empty
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+For key: 064_Clustering the model answers are empty
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+MATCHED
+QUESTION RES: Are all the quantities greater than 0?
+QUESTION IN DF: Are all the quantities greater than 0?
+MATCHED
+QUESTION RES: Are all the unit prices greater than 0?
+QUESTION IN DF: Are all the unit prices greater than 0?
+MATCHED
+QUESTION RES: Are there any missing customer IDs?
+QUESTION IN DF: Are there any missing customer IDs?
+MATCHED
+QUESTION RES: Are there any transactions from the United Kingdom?
+QUESTION IN DF: Are there any transactions from the United Kingdom?
+MATCHED
+QUESTION RES: How many unique stock codes are there?
+QUESTION IN DF: How many unique stock codes are there?
+MATCHED
+QUESTION RES: What is the average unit price?
+QUESTION IN DF: What is the average unit price?
+MATCHED
+QUESTION RES: What is the maximum quantity ordered in a single transaction?
+QUESTION IN DF: What is the maximum quantity ordered in a single transaction?
+MATCHED
+QUESTION RES: How many transactions were made in the United Kingdom?
+QUESTION IN DF: How many transactions were made in the United Kingdom?
+MATCHED
+QUESTION RES: Which country made the most transactions?
+QUESTION IN DF: Which country made the most transactions?
+MATCHED
+QUESTION RES: What is the description of the item with the highest unit price?
+QUESTION IN DF: What is the description of the item with the highest unit price?
+MATCHED
+QUESTION RES: What is the description of the item with the highest quantity ordered?
+QUESTION IN DF: What is the description of the item with the highest quantity ordered?
+MATCHED
+QUESTION RES: Which country does the customer with the lowest ID come from?
+QUESTION IN DF: Which country does the customer with the lowest ID come from?
+MATCHED
+QUESTION RES: What are the descriptions of the top 3 items with the highest quantities ordered?
+QUESTION IN DF: What are the descriptions of the top 3 items with the highest quantities ordered?
+MATCHED
+QUESTION RES: What are the descriptions of the bottom 2 items with the lowest quantities ordered?
+QUESTION IN DF: What are the descriptions of the bottom 2 items with the lowest quantities ordered?
+MATCHED
+QUESTION RES: Which 4 countries made the most transactions?
+QUESTION IN DF: Which 4 countries made the most transactions?
+MATCHED
+QUESTION RES: Which 3 countries made the least transactions?
+QUESTION IN DF: Which 3 countries made the least transactions?
+MATCHED
+Metrics for key: 065_RFM
+  bool: 25.00%
+  str: 0.00%
+  num: 12.50%
+  list: 0.00%
+  Avg: 10.00%
+
+Aggregate Metrics:
+  bool: 51.82%
+  str: 11.67%
+  num: 33.78%
+  list: 0.00%
+  Avg: 28.43%
+
+Total questions: 1308
+Total total written lines: 943
