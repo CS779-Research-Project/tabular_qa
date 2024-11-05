@@ -1,0 +1,211 @@
+---
+Question 0:
+Captured Output:
+ True
+Expected Answer:
+ True
+---
+---
+Question 1:
+Captured Output:
+ False
+Expected Answer:
+ True
+---
+---
+Question 2:
+Captured Output:
+ Are the most billionaires in the United States? False
+Expected Answer:
+ True
+---
+---
+Question 3:
+Captured Output:
+ True
+Expected Answer:
+ True
+---
+---
+Question 4:
+Captured Output:
+ True
+Expected Answer:
+ False
+---
+---
+Question 5:
+Captured Output:
+ Error: Traceback (most recent call last):
+  File "/home/aditya/Desktop/prompt-to-prompt/sequence_models/multi_agent/forbes_agent_two_ms/question_5.py", line 5, in <module>
+    age = df['age'].astype(int)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/pandas/core/generic.py", line 6643, in astype
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+    return self.apply(
+           ^^^^^^^^^^^
+  File "/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 758, in astype
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+    new_values = astype_array(values, dtype, copy=copy)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+    values = _astype_nansafe(values, dtype, copy=copy)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 101, in _astype_nansafe
+    return _astype_float_to_int_nansafe(arr, dtype, copy)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 145, in _astype_float_to_int_nansafe
+    raise IntCastingNaNError(
+pandas.errors.IntCastingNaNError: Cannot convert non-finite values (NA or inf) to integer
+Expected Answer:
+ 19.0
+---
+---
+Question 6:
+Captured Output:
+ 343
+Expected Answer:
+ 343
+---
+---
+Question 7:
+Captured Output:
+ The total worth of billionaires in the 'Automotive' category is: 583600
+Expected Answer:
+ 583600
+---
+---
+Question 8:
+Captured Output:
+ 25
+Expected Answer:
+ 25
+---
+---
+Question 9:
+Captured Output:
+ 3
+Expected Answer:
+ 3
+---
+---
+Question 10:
+Captured Output:
+ Automotive
+Expected Answer:
+ Automotive
+---
+---
+Question 11:
+Captured Output:
+ nan
+Expected Answer:
+ United States
+---
+---
+Question 12:
+Captured Output:
+ M
+Expected Answer:
+ M
+---
+---
+Question 13:
+Captured Output:
+ drugstores
+Expected Answer:
+ drugstores
+---
+---
+Question 14:
+Captured Output:
+ CEO
+Expected Answer:
+ None
+---
+---
+Question 15:
+Captured Output:
+ ['United States', 'China', 'India']
+Expected Answer:
+ ['United States', 'China', 'India']
+---
+---
+Question 16:
+Captured Output:
+ Error: File "/home/aditya/Desktop/prompt-to-prompt/sequence_models/multi_agent/forbes_agent_two_ms/question_16.py", line 11
+    Here is the output of the code-block present in the above conversation : 
+                ^^^^^^
+SyntaxError: invalid syntax
+Expected Answer:
+ ['real estate', 'investments', 'pharmaceuticals', 'diversified', 'software']
+---
+---
+Question 17:
+Captured Output:
+ Error: File "/home/aditya/Desktop/prompt-to-prompt/sequence_models/multi_agent/forbes_agent_two_ms/question_17.py", line 6
+    Here is the output of the code-block present in the above conversation : 
+                ^^^^^^
+SyntaxError: invalid syntax
+Expected Answer:
+ ['', 'Los Angeles', 'Jiaozuo', 'Oslo']
+---
+---
+Question 18:
+Captured Output:
+ ['Gambling & Casinos', 'Sports', 'Logistics']
+Expected Answer:
+ ['Logistics', 'Sports', 'Gambling & Casinos']
+---
+---
+Question 19:
+Captured Output:
+ ['United States', 'China']
+Expected Answer:
+ ['Colombia', 'Andorra']
+---
+---
+Question 20:
+Captured Output:
+ Error: File "/home/aditya/Desktop/prompt-to-prompt/sequence_models/multi_agent/forbes_agent_two_ms/question_20.py", line 9
+    average_age = df['
+                     ^
+SyntaxError: unterminated string literal (detected at line 9)
+Expected Answer:
+ [3, 10, 14, 16, 18]
+---
+---
+Question 21:
+Captured Output:
+ [48, 83, 83]
+Expected Answer:
+ [48.0, 83.0, 83.0]
+---
+---
+Question 22:
+Captured Output:
+ [171000, 129000, 111000, 107000, 106000, 91400]
+Expected Answer:
+ [171000, 129000, 111000, 107000, 106000, 91400]
+---
+---
+Question 23:
+Captured Output:
+ []
+Expected Answer:
+ [14, 18, 21, 30]
+---
+---
+Question 24:
+Captured Output:
+ [219000, 44800]
+Expected Answer:
+ [219000, 44800]
+---

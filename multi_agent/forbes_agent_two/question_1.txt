@@ -193,24 +193,24 @@ Name: gender, dtype: bool
 
 
 Observations and Changes Made : 
-1. The output does not match the expected answer type.
-2. The code uses the relevant columns and no other columns.
-2. Modify the filtering condition to check for the youngest billionaire and their gender.
-2. Adjust the print statement to display the correct result that follows the output format.
+1. The output does not match the expected answer type. The output is a series of boolean values, but we expect a single boolean value.
+2. The code filters the dataframe twice, which is unnecessary. We can combine the filters into one line.
+3. The comparison in the 'is_male' variable should be a single value, not a series.
 
-Re-attempted Code with Modifications : 
+Re-attempted Code with Modifications:
+
 ```python
 import pandas as pd
 # Load the dataset
 df = pd.read_parquet('data/001_Forbes.parquet')
-# Filter the dataframe with the column 'age'
-youngest_billionaire = df[df['age'] == df['age'].min()]
-# Filter the dataframe with the column 'gender'
-gender = youngest_billionaire['gender']
+# Filter the dataframe with the column 'age' and 'gender'
+youngest_male_billionaire = df[(df['age'] == df['age'].min()) & (df['gender'] =='male')]
 # Check if the youngest billionaire is male
-is_male = youngest_billionaire['gender'] =='male'
+is_male = len(youngest_male_billionaire) > 0
 # Print the result
 print(is_male)
 ```
 
----
+In this modified code, we first filter the dataframe to find the youngest billionaire who is male. Then, we check if the resulting dataframe is not empty (i.e., has more than 0 rows). If it is not empty, we print True, indicating that there is at least one youngest male billionaire. If it is empty, we print False, indicating that there is no youngest male billionaire. This approach ensures that we get a single boolean value as the output, which matches the expected answer type.
+
+

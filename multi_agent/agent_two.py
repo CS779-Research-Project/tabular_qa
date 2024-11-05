@@ -17,6 +17,21 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 
+# LLM_NAME = "google/gemma-2-9b-instruct"
+# https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct
+
+LLM_NAME = "microsoft/Phi-3.5-mini-instruct"
+AGENT_ONE_FOLDER = "agent_one_table_50"
+AGENT_TWO_FOLDER = "agent_two_table_50"
+
+# if folders do not exist, create them
+import os
+if not os.path.exists(AGENT_ONE_FOLDER):
+    os.makedirs(AGENT_ONE_FOLDER)
+if not os.path.exists(AGENT_TWO_FOLDER):
+    os.makedirs(AGENT_TWO_FOLDER)
+
+
 DS_ID = "001_Forbes"
 
 dev_qa = pd.read_parquet("dev_qa.parquet")
@@ -28,14 +43,14 @@ list_two = train_qa['dataset'].unique()
 all_ds_ids = list(set(list_one).union(set(list_two)))
 print(all_ds_ids)
 
-llm = AutoModelForCausalLM.from_pretrained("google/gemma-2-2b-it", device_map="auto")
-tokenizer = AutoTokenizer.from_pretrained("google/gemma-2-2b-it", device_map="auto")
+llm = AutoModelForCausalLM.from_pretrained(LLM_NAME, device_map="auto")
+tokenizer = AutoTokenizer.from_pretrained(LLM_NAME, device_map="auto")
 pipeline = pipeline("text-generation", model=llm, tokenizer=tokenizer, max_new_tokens=500, temperature=0.8, top_k=50, device_map="auto")
 
 model = HuggingFacePipeline(pipeline=pipeline)
 
 def get_agent_one_response(question_id = 0):
-    with open(f"forbes_agent_one/question_{question_id}.txt", "r") as file:
+    with open(f"{AGENT_ONE_FOLDER}/question_{question_id}.txt", "r") as file:
         text_content = file.read()
 
     human_section_start = text_content.find("Human:")
@@ -73,6 +88,10 @@ Re-attempted Code with Modifications:
 # Your modified code here
 ```
 
+Be as detailed and specific as possible in your responses to ensure the first agent can effectively learn from your feedback and improve their code logic and execution.
+"""
+
+user_template = """
 Here are a few examples : 
 ---
 Example 1 :
@@ -186,32 +205,11 @@ Here is the output of the code-block present in the above conversation :
 True
 
 Observations and Changes Made : 
-There are no changes to be made in the code as it is already correct and follows the expected answer type and uses the relevant columns.
-
-Re-attempted Code with Modifications: 
-
-```python
-import pandas as pd
-# Load the dataset
-df = pd.read_parquet('data/001_Forbes.parquet')
-# Filter the dataframe with the column 'finalWorth'
-df = df[df['finalWorth'] == df['finalWorth'].max()]
-# Filter the dataframe with the column'selfMade'
-df = df[df['selfMade'] == True]
-# Get the person with the highest net worth
-highest_net_worth = df['finalWorth'].max()
-# Check if the person is self-made
-is_self_made = df['selfMade'].max()
-# Print the result
-print(is_self_made)
-```
+There are no changes to be made in the code as it is already correct and follows the expected answer type and uses the relevant columns. The code will not be modified and the output generation will the stopped here.
 
 ---
 
-Be as detailed and specific as possible in your responses to ensure the first agent can effectively learn from your feedback and improve their code logic and execution.
-"""
 
-user_template = """
 Here is the conversation with the first agent : 
 {first_conversation}
 
@@ -262,5 +260,5 @@ for i in tqdm(range(25)):
     execution_output = output.getvalue()
     output.close()
     output_one = chain.invoke({"first_conversation" : human_section[7:], "code_output" : execution_output})
-    with open(f"forbes_agent_two/question_{i}.txt", "w") as file:
+    with open(f"{AGENT_TWO_FOLDER}/question_{i}.txt", "w") as file:
         file.write(output_one)

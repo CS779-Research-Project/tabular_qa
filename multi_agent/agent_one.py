@@ -13,6 +13,14 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 
+LLM_NAME = "microsoft/Phi-3.5-mini-instruct"
+OUT_FOLDER = "agent_one_table_50"
+
+# if folder does not exist, create it
+import os
+if not os.path.exists(OUT_FOLDER):
+    os.makedirs(OUT_FOLDER)
+
 dev_qa = pd.read_parquet("dev_qa.parquet")
 train_qa = pd.read_parquet("train_qa.parquet")
 
@@ -27,8 +35,8 @@ ds_id = str('001_Forbes')
 filtered_qa = train_qa[train_qa['dataset'] == ds_id]
 df = pd.read_parquet(f"data/{ds_id}.parquet")
 
-llm = AutoModelForCausalLM.from_pretrained("google/gemma-2-2b-it", device_map="auto")
-tokenizer = AutoTokenizer.from_pretrained("google/gemma-2-2b-it", device_map="auto")
+llm = AutoModelForCausalLM.from_pretrained(LLM_NAME, device_map="auto")
+tokenizer = AutoTokenizer.from_pretrained(LLM_NAME, device_map="auto")
 pipeline = pipeline("text-generation", model=llm, tokenizer=tokenizer, max_new_tokens=500, temperature=0.8, top_k=50, device_map="auto")
 
 model = HuggingFacePipeline(pipeline=pipeline)
@@ -74,7 +82,7 @@ Type of the answer : number
 
 Question Breakdown : 
 1. Load the dataset
-2. Filter the dataframe with the column 'age'
+2. Filter out the column 'age' from the dataframe
 3. Calculate the average age
 4. Print the result
 
@@ -83,7 +91,7 @@ Code Attempt :
 import pandas as pd
 # Load the dataset
 df = pd.read_parquet('data/090_Students.parquet')
-# Filter the dataframe with the column 'age'
+# Filter out the column 'age' from the dataframe
 age = df['age']
 # Calculate the average age
 average_age = age.mean()
@@ -102,7 +110,7 @@ Type of the answer : number
 
 Question Breakdown : 
 1. Load the dataset
-2. Filter the dataframe with the columns 'salary' and 'performance_rating'
+2. Filter out the columns 'salary' and 'performance_rating' from the dataframe
 3. Filter the dataframe to get the employee with the highest performance rating
 4. Get the salary of the employee
 5. Print the result
@@ -112,7 +120,7 @@ Code Attempt :
 import pandas as pd
 # Load the dataset
 df = pd.read_parquet('data/090_Employees.parquet')
-# Filter the dataframe with the columns 'salary' and 'performance_rating'
+# Filter out the columns 'salary' and 'performance_rating' from the dataframe
 df = df[['salary', 'performance_rating']]
 # Filter the dataframe to get the employee with the highest performance rating
 highest_performance_rating = df['performance_rating'].max()
@@ -142,8 +150,8 @@ output_parser = StrOutputParser()
 # print("filtered_qa : ", filtered_qa.iloc[0])
 for i in tqdm(range(len(filtered_qa))):
 
-    if i != 3:
-        continue
+    # if i != 3:
+    #     continue
     # get the question, columns, column_types and answer_type
     question = filtered_qa.iloc[i]['question']
     dataset_name = str(ds_id)
@@ -161,5 +169,5 @@ for i in tqdm(range(len(filtered_qa))):
     # redirect the output to a file
     # print(output_one)
     # assert False
-    with open(f"forbes_agent_one/question_{i}.txt", "w") as f:
+    with open(f"{OUT_FOLDER}/question_{i}.txt", "w") as f:
         f.write(output_one)
