@@ -1,0 +1,44 @@
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:03<00:03,  3.85s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  2.94s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.08s/it]
+  0%|          | 0/20 [00:00<?, ?it/s]/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:567: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.8` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+You are not running the flash-attention implementation, expect numerical differences.
+  5%|▌         | 1/20 [00:45<14:22, 45.41s/it]/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:567: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.8` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+ 10%|█         | 2/20 [01:27<13:05, 43.63s/it]/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:567: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.8` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+ 15%|█▌        | 3/20 [02:10<12:11, 43.03s/it]/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:567: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.8` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+ 20%|██        | 4/20 [02:52<11:24, 42.75s/it]/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:567: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.8` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+ 25%|██▌       | 5/20 [03:34<10:39, 42.60s/it]/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:567: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.8` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+ 30%|███       | 6/20 [04:17<09:54, 42.50s/it]/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:567: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.8` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+ 35%|███▌      | 7/20 [04:59<09:11, 42.44s/it]/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:567: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.8` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+ 40%|████      | 8/20 [05:41<08:28, 42.41s/it]/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:567: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.8` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+ 45%|████▌     | 9/20 [06:24<07:46, 42.37s/it]/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:567: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.8` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+ 50%|█████     | 10/20 [07:06<07:03, 42.35s/it]You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:567: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.8` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+ 55%|█████▌    | 11/20 [07:48<06:21, 42.35s/it]/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:567: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.8` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+ 60%|██████    | 12/20 [08:30<05:38, 42.33s/it]/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:567: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.8` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+ 65%|██████▌   | 13/20 [09:13<04:56, 42.33s/it]/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:567: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.8` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+ 70%|███████   | 14/20 [09:55<04:13, 42.33s/it]/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:567: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.8` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+ 75%|███████▌  | 15/20 [10:37<03:31, 42.33s/it]/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:567: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.8` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+ 80%|████████  | 16/20 [11:20<02:49, 42.33s/it]/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:567: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.8` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+ 85%|████████▌ | 17/20 [12:02<02:06, 42.32s/it]/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:567: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.8` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+ 90%|█████████ | 18/20 [12:44<01:24, 42.32s/it]/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:567: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.8` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+ 95%|█████████▌| 19/20 [13:27<00:42, 42.31s/it]/home/aditya/.conda/envs/seq/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:567: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.8` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+100%|██████████| 20/20 [14:09<00:00, 42.31s/it]100%|██████████| 20/20 [14:09<00:00, 42.47s/it]

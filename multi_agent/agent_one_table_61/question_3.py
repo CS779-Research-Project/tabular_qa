@@ -1,0 +1,1 @@
+print(all_have_five_star_review)

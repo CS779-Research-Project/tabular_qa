@@ -1,0 +1,9 @@
+import pandas as pd
+# Load the dataset
+df = pd.read_parquet('data/065_RFM.parquet')
+# Filter out the column 'UnitPrice' from the dataframe
+unit_price = df['UnitPrice']
+# Check if all unit prices are greater than 0
+all_greater_than_zero = unit_price > 0
+# Print the result
+print(all_greater_than_zero.all())

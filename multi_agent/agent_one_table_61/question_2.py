@@ -1,0 +1,1 @@
+print(reviews_with_rating_1.any())

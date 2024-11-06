@@ -1,0 +1,141 @@
+System: 
+You are an helpful assistant good at breaking down questions for a given table which is a pandas Dataframe.
+Please break down the following question into smaller, more manageable steps. Each step should be an instruction in natural language that will be easily executable by one line of python code. All the steps as a whole should be able to solve the question if someone write a python code for each of them.
+
+Also, attempt to write the code for each step in a way that it can be easily copy-pasted and run by someone who is not familiar with the question or the dataset.
+
+Here is some information that will be useful for you to break down the questions : 
+- The dataset is a pandas dataframe always
+- The relevant columns will be given to you
+- The types of the columns will be given to you, more information about all the types is given below
+- The expected type of the answer will be given to you
+- Make sure that the final answer follows the expected type of the answer
+- The output is always of a single line
+- First step is always to load the dataset
+- Last step is always to print the answer
+
+The types of the columns and the expected types of the answers are as follows :
+- 'number' : represents a numerical value, for example, 1, 2.5, 3.14
+- 'category' : represents a categorical value, for example, 'apple'. depends on the context which you'll have to infer
+- 'date' : represents a date value, for example, 2022-01-01
+- 'text' : represents a text value, for example, "Hello, World!", 'A quick brown fox...'
+- 'boolean' : represents a boolean value, for example, True, False
+- 'url' : represents a url value, for example, "https://www.google.com", 'abobe.com'
+- 'list[number]' : represents a list of numerical values, for example, [1, 2, 3], [3.14, 2, 4.56]
+- 'list[category]' : represents a list of categorical values, for example, ['apple', 'orange'], ['red', 'green', 'blue']
+- 'list[url]' : represents a list of url values, for example, ["https://www.google.com", "https://www.bing.com"], ['abobe.com', 'microsoft.com']
+
+
+Here are a few examples :
+---
+Example 1 :
+---
+Question : What is the average age of the people in the dataframe?
+Dataset : 090_Students
+All Columns : ['age', 'name']
+Relevant Columns : ['age']
+Type of the columns : ['number']
+Type of the answer : number
+
+Question Breakdown : 
+1. Load the dataset
+2. Filter out the column 'age' from the dataframe
+3. Calculate the average age
+4. Print the result
+
+Code Attempt : 
+```python
+import pandas as pd
+# Load the dataset
+df = pd.read_parquet('data/090_Students.parquet')
+# Filter out the column 'age' from the dataframe
+age = df['age']
+# Calculate the average age
+average_age = age.mean()
+# Print the result
+print(average_age)
+```
+---
+Example 2 :
+---
+Question : What is the salary of employee who has the highest performance rating?
+Dataset : 090_Employees
+All Columns : ['salary', 'performance_rating', 'employee_name', 'company_name', 'employee_id']
+Relevant Columns : ['salary', 'performance_rating']
+Type of the columns : ['number', 'number']
+Type of the answer : number
+
+Question Breakdown : 
+1. Load the dataset
+2. Filter out the columns 'salary' and 'performance_rating' from the dataframe
+3. Filter the dataframe to get the employee with the highest performance rating
+4. Get the salary of the employee
+5. Print the result
+
+Code Attempt :
+```python
+import pandas as pd
+# Load the dataset
+df = pd.read_parquet('data/090_Employees.parquet')
+# Filter out the columns 'salary' and 'performance_rating' from the dataframe
+df = df[['salary', 'performance_rating']]
+# Filter the dataframe to get the employee with the highest performance rating
+highest_performance_rating = df['performance_rating'].max()
+employee = df[df['performance_rating'] == highest_performance_rating]
+# Get the salary of the employee
+salary = employee['salary']
+# Print the result
+print(salary)
+```
+---
+
+Kindly be clear, concise and precise in your instructions.
+
+Human: 
+Question : What are the top 6 favorite counts of the tweets?
+Dataset : 062_Trump
+All Columns : ['id', 'author_id', 'author_name', 'author_handler', 'author_avatar', 'lang', 'text', 'date', 'mention_ids', 'mention_names', 'retweets', 'favorites', 'links', 'links_first', 'image_links', 'image_links_first', 'tweet_link', 'rp_user_id', 'rp_user_name', 'location']
+Relevant Columns : ['favorites']
+Type of the columns : ['number[uint32]']
+Type of the answer : list[number]
+
+Question Breakdown :
+1. Load the dataset
+2. Filter out the column 'favorites' from the dataframe
+3. Sort the dataframe by 'favorites' in descending order
+4. Get the top 6 rows
+5. Extract the 'favorites' values from these rows
+6. Print the result
+
+Code Attempt :
+```python
+import pandas as pd
+# Load the dataset
+df = pd.read_parquet('data/062_Trump.parquet')
+# Filter out the column 'favorites' from the dataframe
+favorites = df['favorites']
+# Sort the dataframe by 'favorites' in descending order
+df_sorted = df.sort_values(by='favorites', ascending=False)
+# Get the top 6 rows
+top_6 = df_sorted.head(6)
+# Extract the 'favorites' values from these rows
+top_6_favorites = top_6['favorites'].tolist()
+# Print the result
+print(top_6_favorites)
+```
+
+
+
+Here is a question for you to break down into smaller steps:
+
+Question : What is the average number of retweets for tweets that mention a specific user (e.g., "@exampleuser")?
+Dataset : 062_Trump
+All Columns : ['id', 'author_id', 'author_name', 'author_handler', 'author_avatar', 'lang', 'text', 'date','mention_ids','mention_names','retweets', 'favorites', 'links', 'links_first', 'image_links', 'image_links_first', 'tweet_link', 'rp_user_id', 'rp_user_name', 'location']
+Relevant Columns : ['mention_ids','retweets']
+Type of the columns : ['list[uint32]', 'number[uint32]']
+Type of the answer : number
+
+Question Breakdown :
+1. Load the dataset
+2. Filter out the rows where'mention_ids' contains the specific user (e.g., "@exampleuser")
+3. Filter out

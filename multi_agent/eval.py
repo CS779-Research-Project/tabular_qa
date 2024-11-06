@@ -1,6 +1,7 @@
 import re
 import subprocess
 import pandas as pd
+from tqdm import tqdm
 
 from databench_eval.src.databench_eval import Evaluator
 
@@ -49,23 +50,28 @@ FOLDER = 'forbes_agent_two_ms'
 dev_qa = pd.read_parquet("dev_qa.parquet")
 train_qa = pd.read_parquet("train_qa.parquet")
 
+train_qa = pd.concat([train_qa, dev_qa])
+
 list_one = dev_qa['dataset'].unique()
 list_two = train_qa['dataset'].unique()
 
 all_ds_ids = list(set(list_one).union(set(list_two)))
 print(all_ds_ids)
 
-FOLDER = 'agent_one_table_50'
+FOLDER = 'agent_one_table_65'
 TABLE_NUMBER = FOLDER.split('_')[-1]
 TABLE_NUMBER = str(TABLE_NUMBER).zfill(3)
 ds_id = [table for table in all_ds_ids if table.startswith(TABLE_NUMBER)]
 ds_id = str(ds_id[0])
+print(ds_id)
 filtered_qa = train_qa[train_qa['dataset'] == ds_id]
 df = pd.read_parquet(f"data/{ds_id}.parquet")
 
+print(len(filtered_qa))
+
 score = 0
 
-for i in range(25):
+for i in tqdm(range(len(filtered_qa))):
     question = filtered_qa.iloc[i]['question']
     dataset_name = str(ds_id)
     all_columns = list(df.columns)

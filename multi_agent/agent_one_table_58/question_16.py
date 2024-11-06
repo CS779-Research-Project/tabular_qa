@@ -1,0 +1,1 @@
+sorted_counts = counts.sort_values(ascending=False)

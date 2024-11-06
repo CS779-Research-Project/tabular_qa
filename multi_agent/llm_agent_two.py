@@ -47,7 +47,7 @@ ds_id = [table for table in all_ds_ids if table.startswith(TABLE_NUMBER)]
 ds_id = str(ds_id[0])
 
 # select the specific dataset
-filtered_qa = train_qa[dev_qa['dataset'] == ds_id]
+filtered_qa = train_qa[train_qa['dataset'] == ds_id]
 
 # Create output folders if they do not exist
 if not os.path.exists(AGENT_ONE_FOLDER):
